@@ -217,25 +217,17 @@ With an overall average rating of approximately 3.3/5, improving product quality
 - Higher discounts do not consistently result in higher sales.
 - The business has different groups of high-revenue and high-volume products, which should be managed according to business objectives.
 - Customer satisfaction represents an opportunity for improvement.
-📁 Repository Structure
+## 📁 Repository Structure
+
 ```text
 retail-sales-analytics/
 │
 ├── README.md
-│
-├── SQL/
-│   └── retail_messy_orders.sql
-│
-├── Tableau/
-│   └── Retail Sales Analytics Dashboard.twbx
-│
-├── Images/
-│   ├── sales_overview.png
-│   ├── product_performance.png
-│   └── customer_channel_analysis.png
-│
-└── Data/
-    └── retail_orders_cleaned.csv
+├── retail_messy_orders.sql
+├── Retail Sales Analytics Dashboard.twbx
+├── CUSTOMER & CHANNEL ANALYSIS.png
+├── product performance.png
+└── retail sales overview.png
 ```
 ## 📂 Project Files
 
