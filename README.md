@@ -217,6 +217,20 @@ With an overall average rating of approximately 3.3/5, improving product quality
 - Higher discounts do not consistently result in higher sales.
 - The business has different groups of high-revenue and high-volume products, which should be managed according to business objectives.
 - Customer satisfaction represents an opportunity for improvement.
+
+### 🖼️ Dashboard Preview
+
+#### Sales Overview
+
+![Sales Overview](retail%20sales%20overview.png)
+
+#### Product Performance
+
+![Product Performance](product%20performance.png)
+
+#### Customer & Channel Analysis
+
+![Customer & Channel Analysis](CUSTOMER%20%26%20CHANNEL%20ANALYSIS.png)
 ## 📁 Repository Structure
 
 ```text
