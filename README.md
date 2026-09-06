@@ -81,8 +81,8 @@ SQL/retail_messy_orders.sql
 
 The project includes both the original messy dataset and the cleaned dataset used for analysis.
 
-- `retail_orders_messy.csv` – Original dataset containing data-quality issues.
-- `retail_orders_cleaned.csv` – Cleaned dataset prepared using MySQL for analysis and Tableau visualization.
+- `retail_orders_messy_dataset.csv` – Original dataset containing data-quality issues.
+- `retail_orders_clean.csv` – Cleaned dataset prepared using MySQL for analysis and Tableau visualization.
 
 ## 📊 Tableau Dashboard
 
@@ -243,13 +243,16 @@ With an overall average rating of approximately 3.3/5, improving product quality
 ## 📁 Repository Structure
 
 ```text
+## 📁 Repository Structure
+
+```text
 retail-sales-analytics/
 │
 ├── README.md
 ├── retail_messy_orders.sql
 ├── Retail Sales Analytics Dashboard.twbx
-├── retail_orders_messy.csv
-├── retail_orders_cleaned.csv
+├── retail_orders_messy_dataset.csv
+├── retail_orders_clean.csv
 ├── CUSTOMER & CHANNEL ANALYSIS.png
 ├── product performance.png
 └── retail sales overview.png
