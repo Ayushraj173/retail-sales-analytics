@@ -77,6 +77,13 @@ The complete SQL cleaning and analysis queries are available in:
 
 SQL/retail_messy_orders.sql
 
+### Dataset
+
+The project includes both the original messy dataset and the cleaned dataset used for analysis.
+
+- `retail_orders_messy.csv` – Original dataset containing data-quality issues.
+- `retail_orders_cleaned.csv` – Cleaned dataset prepared using MySQL for analysis and Tableau visualization.
+
 ## 📊 Tableau Dashboard
 
 The project contains three interactive Tableau dashboards:
@@ -116,6 +123,21 @@ Analyzes:
 - City
 - Sales Channel
 - Product Category
+
+### 🖼️ Dashboard Preview
+
+#### Sales Overview
+
+![Sales Overview](retail%20sales%20overview.png)
+
+#### Product Performance
+
+![Product Performance](product%20performance.png)
+
+#### Customer & Channel Analysis
+
+![Customer & Channel Analysis](CUSTOMER%20%26%20CHANNEL%20ANALYSIS.png)
+
 
 ## 🔍 Key Business Insights
 ### 💰 Overall Business Performance
@@ -218,19 +240,6 @@ With an overall average rating of approximately 3.3/5, improving product quality
 - The business has different groups of high-revenue and high-volume products, which should be managed according to business objectives.
 - Customer satisfaction represents an opportunity for improvement.
 
-### 🖼️ Dashboard Preview
-
-#### Sales Overview
-
-![Sales Overview](retail%20sales%20overview.png)
-
-#### Product Performance
-
-![Product Performance](product%20performance.png)
-
-#### Customer & Channel Analysis
-
-![Customer & Channel Analysis](CUSTOMER%20%26%20CHANNEL%20ANALYSIS.png)
 ## 📁 Repository Structure
 
 ```text
@@ -239,6 +248,8 @@ retail-sales-analytics/
 ├── README.md
 ├── retail_messy_orders.sql
 ├── Retail Sales Analytics Dashboard.twbx
+├── retail_orders_messy.csv
+├── retail_orders_cleaned.csv
 ├── CUSTOMER & CHANNEL ANALYSIS.png
 ├── product performance.png
 └── retail sales overview.png
