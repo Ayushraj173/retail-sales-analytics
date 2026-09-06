@@ -1,0 +1,1226 @@
+order_id,customer_id,customer_first_name,customer_last_name,email,phone,city,product_category,product_name,quantity,unit_price,discount_pct,total_amount,order_date,payment_method,sales_channel,customer_rating
+10052,185,Ritu,Patel,ritu.patel185@gmail.com,+91-7290166087,delhi,Electronics,USB Cable,1,2043.7,10.0,1839.33,2025-04-26,UPI ,online,5.0
+10523,119,Rahul,Sharma,rahul.sharma119@outlook.com,+91-8507638799,Hyderabad,Apparel,Hoodie,4,2474.1,0.0,9896.4,06-Jun-2025,Credit Card,online,4.0
+10180,214,  Kavya ,Kapoor,kavya.kapoor214@gmial.com,+91-9845342687,Kolkata,Beauty,Sunscreen SPF50,1,2804.32,10.0,2523.89,30/04/2025,Cash on Delivery,Online,
+11174,57,Anjali,Desai,anjali.desai57@gmial.com,+91-9901494974,DELHI,Home & Kitchen,Cushion Cover,4,2960.84,15.0,10066.86,30/06/2025,NetBanking,online,1.0
+10938,81,Vikram,Pillai,vikram.pillai81@gmail.com,7156692709,Jaipur,Apparel,Sports Shoes,1,506.48,20.0,405.18,04-07-2025,credit card,online,5.0
+11153,178,Sanjay,Patel,sanjay.patel178@gmail.com,+91-7968666677,Jaipur,Grocery,Almonds 500g,1,3397.61,10.0,3057.85,16-Mar-2024,Credit Card,In store,3.0
+10206,38,Vikram,Nair,vikram.nair38@gmial.com,+91-9837784389,mumbai,Home & Kitchen,Cushion Cover,1,1555.71,,1555.71,2024/11/04,Debit Card,online,1.0
+11091,86,  Kavya ,Rao,kavya.rao86@gmail.com,+91-8612492674,Bombay,Electronics,Power Bank,1,3587.82,5.0,3408.43,13/12/2024,COD,Online ,3.0
+10657,291,Ajay,Agarwal,ajay.agarwal291@gmail.co,+91-7023930585,Jaipur,Apparel,Cotton T-Shirt,5,1372.32,15.0,5832.36,11-14-2024,UPI,Online,5.0
+11115,63,Rahul,Bhatt,rahul.bhatt63@gmail.co,+91-9472241076,Bombay,Apparel,Formal Shirt,3,1852.66,0.0,5557.98,2024/06/06,UPI ,In-Store,
+10035,250,Sanjay,Malhotra,sanjay.malhotra250@yahoo.com,+91-8243165953,mumbai,Grocery,Green Tea Pack,1,1219.51,5.0,1158.53,2024-02-26,Cash on Delivery,online,5.0
+10736,253,Divya,Saxena,divya.saxena253@gmial.com,+91-9641467392,DELHI,Grocery,Cooking Oil 1L,1,1213.66,0.0,1213.66,12/05/2024,Cash on Delivery,Online,2.0
+10064,88,Sanjay,Mehta,SANJAY.MEHTA88@GMAIL.CO,+91-7905415100,DELHI,Grocery,Honey Jar,3,4236.27,0.0,12708.81,2025-07-31,Credit Card,Online,4.0
+10642,277,Neha,Bhatt,neha.bhatt277@gmial.com,+91-8949268238,delhi,Grocery,Cooking Oil 1L,1,2518.57,20.0,2014.86,01-27-2024,Cash on Delivery,online,5.0
+10762,128,Meera,Joshi,meera.joshi128@gmial.com,+91-9943568965,delhi,Grocery,Cooking Oil 1L,1,293.01,0.0,293.01,2025-05-21,credit card,Online,4.0
+10928,80,Ritu,Reddy,ritu.reddy80@gmial.com,+91-7088946090,Ahmedabad,Electronics,Smartphone Case,4,3152.51,10.0,11349.04,29/10/2024,NetBanking,Online ,4.0
+10455,13,Vikram,Reddy,VIKRAM.REDDY13@OUTLOOK.COM,+91-7422663925,DELHI,Apparel,Formal Shirt,2,1438.28,0.0,2876.56,03-18-2024,Debit Card,online,2.0
+10356,258,Kavya,Bhatt,kavya.bhatt258@outlook.com,+91-8557220130,Mumbai,Apparel,Denim Jeans,1,2174.13,,2174.13,2024-03-19,UPI,Online,3.0
+11074,106,Ajay,Bhatt,ajay.bhatt106@gmial.com,+91-8329177727,Ahmedabad,Grocery,Cooking Oil 1L,1,3031.22,0.0,3031.22,07-07-2025,credit card,Online,1.0
+10446,28,Anjali,Desai,anjali.desai28@gmial.com,+91-8422258790,mumbai,Beauty,Lipstick,2,4886.08,,9772.16,2024-07-25,credit card,In-Store,5.0
+10351,22,Neha,Joshi,neha.joshi22@outlook.com,+91-9751163659,Mumbai,Home & Kitchen,Cushion Cover,2,2546.39,0.0,5092.78,19/04/2025,Credit Card,Online,
+10173,114,Ajay,Pillai,ajay.pillai114@gmial.com,+91-9020939193,Ahmedabad,Home & Kitchen,Electric Kettle,2,2189.29,10.0,3940.72,12-05-2024,Net Banking,Online ,1.0
+10514,271,Rohan,Chopra,rohan.chopra271@yahoo.com,+91-7218642046,DELHI,Grocery,Basmati Rice 5kg,5,4828.54,15.0,20521.3,20/06/2025,UPI,Online,4.0
+10628,297,Meera,Joshi,meera.joshi297@gmial.com,+91-9707281860,mumbai,Electronics,Bluetooth Speaker,3,4773.47,10.0,12888.37,27/03/2025,Net Banking,online,3.0
+10221,20,Nisha,Chopra,nisha.chopra20@gmail.co,+91-7186566008,Jaipur,Grocery,Honey Jar,1,601.97,20.0,481.58,2024/05/13,NetBanking,Online,
+10791,101,Kavya,Desai,KAVYA.DESAI101@OUTLOOK.COM,+91-8203646699,,Home & Kitchen,Storage Container Set,1,1870.35,15.0,1589.8,2025-05-21,UPI ,In-Store,
+10373,39,Meera,Desai,meera.desai39@gmail.co,8446708474,Chennai,Grocery,Cooking Oil 1L,2,1436.0,0.0,2872.0,2024/10/31,UPI ,In-Store,5.0
+10254,69,Meera,Reddy,meera.reddy69@gmail.co,+91-8493208421,mumbai,Home & Kitchen,Non-stick Pan,5,3577.14,5.0,16991.42,07-26-2025,NetBanking,In store,5.0
+11039,52,Kavya,Patel,kavya.patel52@gmail.com,+91-9217364373,Hyderabad,Electronics,Bluetooth Speaker,2,2737.03,0.0,5474.06,13-Jun-2025,Credit Card,Online,4.0
+10632,261,  Anjali ,Agarwal,anjali.agarwal261@gmail.com,+91-7964568093,delhi,Grocery,Green Tea Pack,2,1987.37,0.0,3974.74,2025-08-19,UPI,In store,
+10453,138,Vikram,Iyer,vikram.iyer138@outlook.com,+91-8619559006,Bangalore,Grocery,Almonds 500g,1,1154.92,5.0,1097.17,26-Jul-2024,Cash on Delivery,In store,3.0
+10545,271,Rohan,Chopra,ROHAN.CHOPRA271@GMAIL.COM,+91-7137950504,DELHI,Home & Kitchen,LED Lamp,4,3654.4,0.0,14617.6,2025-03-30,Net Banking,Online,3.0
+10526,62,Neha,Pillai,NEHA.PILLAI62@OUTLOOK.COM,+91-7867579612,Mumbai,Electronics,USB Cable,2,1085.7,15.0,1845.69,2025-04-01,Debit Card,Online ,
+10190,156,Rohan,Rao,rohan.rao156@gmial.com,+91-9661840210,Kolkata,Grocery,Honey Jar,2,3324.79,5.0,6317.1,04-12-2025,credit card,Online,
+10102,224,Kavya,Bhatt,kavya.bhatt224@gmial.com,+91-9375278922,Delhi,Apparel,Cotton T-Shirt,3,3085.07,,9255.21,02-10-2025,Credit Card,online,4.0
+10735,244,Rohan,Rao,rohan.rao244@yahoo.com,+91-9319222595,mumbai,Beauty,Sunscreen SPF50,5,801.87,10.0,3608.41,01-01-2024,COD,In store,5.0
+10335,77,  Priya ,Nair,priya.nair77@gmail.co,+91-9992104023,Mumbai,Grocery,Basmati Rice 5kg,4,4903.89,20.0,15692.45,11-Feb-2024,NetBanking,Online,2.0
+10998,176,SANJAY,Joshi,sanjay.joshi176@gmial.com,+91-7895079366,,Grocery,Almonds 500g,2,1110.06,5.0,2109.11,2024-08-07,Net Banking,Online ,
+10447,233,Karan,Malhotra,karan.malhotra233@yahoo.com,+91-8423846528,Kolkata,Electronics,Power Bank,2,4611.77,5.0,8762.36,16/08/2024,COD,Online ,4.0
+10171,30,Sanjay,Iyer,sanjay.iyer30@gmial.com,+91-7151693971,delhi,Grocery,Almonds 500g,3,3451.67,20.0,8284.01,27-Jan-2024,Net Banking,online,4.0
+10633,276,Kavya,Bhatt,kavya.bhatt276@yahoo.com,+91-8258705890,Ahmedabad,Electronics,USB Cable,1,3094.44,10.0,2785.0,2025/06/21,COD,online,4.0
+10370,175,Divya,Kapoor,divya.kapoor175@yahoo.com,+91-8340457275,Kolkata,Beauty,Face Wash,4,1823.94,5.0,6930.97,31-Dec-2024,credit card,Online,2.0
+10286,294,Pooja,Patel,pooja.patel294@outlook.com,+91-7290626163,Chennai,Grocery,Cooking Oil 1L,5,3784.27,15.0,16083.15,2025-01-03,Debit Card,online,4.0
+11034,294,Pooja,Patel,pooja.patel294@gmial.com,+91-9930921810,Chennai,Home & Kitchen,Electric Kettle,2,2722.21,10.0,4899.98,08-17-2025,UPI,Online,5.0
+10573,65,Vikram,Kumar,vikram.kumar65@gmial.com,+91-8717738450,delhi,Home & Kitchen,Storage Container Set,5,1116.3,,5581.5,04-04-2024,NetBanking,online,4.0
+10028,56,Rohan,Kumar,rohan.kumar56@outlook.com,+91-9514122177,Kolkata,Beauty,Sunscreen SPF50,1,4511.44,0.0,4511.44,2024/11/25,UPI,Online,
+10427,24,Karan,Rao,karan.rao24@outlook.com,7426634688,delhi,Beauty,Face Wash,3,2269.53,20.0,5446.87,2025-02-28,NetBanking,online,
+11200,235,Arjun,Malhotra,arjun.malhotra235@gmail.co,+91-9226136218,Chennai,Grocery,Green Tea Pack,5,977.88,15.0,4155.99,14-Jan-2025,credit card,Online ,2.0
+10279,195,Amit,Singh,amit.singh195@gmail.com,+91-9216747224,DELHI,Home & Kitchen,LED Lamp,1,2675.15,20.0,2140.12,07-Apr-2025,Credit Card,In-Store,1.0
+11111,259,Kavya,Chopra,kavya.chopra259@yahoo.com,+91-9906427807,delhi,Beauty,Lipstick,2,4244.09,5.0,8063.77,2025-05-25,Debit Card,In store,1.0
+10666,110,Rahul,Nair,rahul.nair110@gmail.com,+91-8870086183,Pune,Apparel,Jacket,2,3600.04,10.0,6480.07,2025/03/23,COD,In store,5.0
+10962,245,Karan,Chopra,karan.chopra245@gmail.com,+91-7616883914,Bangalore,Electronics,Power Bank,5,1294.36,15.0,5501.03,2025/02/18,UPI,Online,2.0
+10651,181,  Divya ,Reddy,divya.reddy181@yahoo.com,+91-7693225639,Pune,Grocery,Basmati Rice 5kg,1,2665.45,20.0,2132.36,2025/01/05,Cash on Delivery,In-Store,5.0
+10681,121,Rahul,Desai,rahul.desai121@yahoo.com,+91-9022073587,Bengaluru,Apparel,Formal Shirt,1,3662.05,,3662.05,2024/06/06,credit card,Online,
+10499,101,  Kavya ,Desai,kavya.desai101@gmail.com,+91-9035280879,delhi,Electronics,Bluetooth Speaker,1,3439.84,0.0,3439.84,31-May-2024,UPI ,In-Store,3.0
+10114,95,Meera,Sharma,meera.sharma95@yahoo.com,+91-7268709250,Mumbai,Apparel,Jacket,4,2068.57,0.0,8274.28,21-Jul-2024,UPI ,In store,2.0
+10129,197,Suresh,Rao,suresh.rao197@gmail.com,+91-9827829512,Delhi,Home & Kitchen,LED Lamp,3,3986.72,10.0,10764.14,09-10-2024,Debit Card,In-Store,5.0
+10653,194,Neha,Kumar,neha.kumar194@gmail.com,+91-9326574979,delhi,Beauty,Moisturizer,2,4330.62,0.0,8661.24,2024-03-19,NetBanking,In store,3.0
+10674,195,Amit,Singh,amit.singh195@yahoo.com,+91-8266724774,DELHI,Home & Kitchen,Electric Kettle,2,831.07,10.0,1495.93,19-Nov-2024,Cash on Delivery,In-Store,5.0
+10047,145,Priya,Joshi,priya.joshi145@gmial.com,+91-9381734362,Kolkata,Beauty,Shampoo,4,4836.4,0.0,19345.6,2024/07/23,UPI,online,2.0
+11150,53,Amit,Iyer,amit.iyer53@gmial.com,+91-9326257337,Ahmedabad,Beauty,Sunscreen SPF50,3,4150.48,0.0,12451.44,2025-02-27,UPI,online,4.0
+11189,29,Neha,Patel,neha.patel29@yahoo.com,+91-8989920321,Hyderabad,Electronics,Smartwatch,2,2062.77,5.0,3919.26,2024-07-08,Debit Card,In store,
+10397,205,Ritu,Rao,ritu.rao205@gmial.com,+91-8331874973,Chennai,Electronics,Wireless Earbuds,2,940.26,10.0,1692.47,02-16-2025,UPI,Online,3.0
+10510,145,Priya,Joshi,priya.joshi145@gmail.co,+91-8729373994,Kolkata,Grocery,Green Tea Pack,1,4498.37,15.0,3823.61,06-23-2024,UPI ,In-Store,
+10798,96,Neha,Patel,neha.patel96@yahoo.com,+91-8480728817,Pune,Home & Kitchen,Electric Kettle,1,2064.14,10.0,1857.73,2024/10/30,UPI ,Online ,4.0
+10456,101,Kavya,Desai,kavya.desai101@gmail.com,+91-8210516208,delhi,Home & Kitchen,Storage Container Set,2,3764.28,10.0,6775.7,08/10/2024,UPI,Online ,5.0
+11134,287,Sneha,Reddy,sneha.reddy287@outlook.com,+91-8254817145,Kolkata,Grocery,Green Tea Pack,4,1841.1,10.0,6627.96,15-Oct-2024,UPI ,In-Store,4.0
+10644,263,Meera,Bhatt,meera.bhatt263@yahoo.com,+91-9839533548,Hyderabad,Electronics,Smartwatch,3,4477.52,15.0,11417.68,09-Feb-2024,Debit Card,Online ,1.0
+10661,170,  Kavya ,Sharma,kavya.sharma170@gmail.com,+91-7806055547,Ahmedabad,Apparel,Denim Jeans,5,197.63,0.0,988.15,02/03/2025,UPI,In store,4.0
+10725,221,Sanjay,Kapoor,sanjay.kapoor221@gmial.com,+91-9974634928,Ahmedabad,Home & Kitchen,LED Lamp,5,4463.38,15.0,18969.37,06-04-2024,Debit Card,In-Store,4.0
+10925,121,Rahul,Desai,RAHUL.DESAI121@YAHOO.COM,+91-8612010864,Bengaluru,Beauty,Moisturizer,2,2631.66,10.0,4736.99,11-25-2024,Credit Card,online,1.0
+10621,279,Amit,Gupta,amit.gupta279@yahoo.com,+91-8149055160,Chennai,Apparel,Formal Shirt,3,4503.55,10.0,12159.59,13-Aug-2024,Net Banking,online,5.0
+10221,20,Nisha,Chopra,nisha.chopra20@gmail.co,+91-7186566008,Jaipur,Grocery,Honey Jar,1,601.97,20.0,481.58,2024/05/13,NetBanking,Online,
+10409,52,Kavya,Patel,kavya.patel52@outlook.com,+91-7750394310,Hyderabad,Beauty,Sunscreen SPF50,2,1288.39,10.0,2319.1,2025-07-24,Credit Card,online,
+10922,51,Arjun,Singh,arjun.singh51@gmail.com,+91-9164749811,Chennai,Beauty,Shampoo,3,427.65,20.0,1026.36,27/01/2024,credit card,online,5.0
+10285,107,Suresh,Patel,suresh.patel107@outlook.com,+91-7210588114,Delhi,Electronics,Smartphone Case,1,417.06,10.0,375.35,2024-12-23,UPI,Online,2.0
+10879,255,Priya,Chopra,priya.chopra255@gmail.co,+91-9806715676,Ahmedabad,Grocery,Cooking Oil 1L,2,305.36,15.0,519.11,12/12/2024,COD,In store,4.0
+10368,156,Rohan,Rao,rohan.rao156@gmail.co,+91-9457624231,Kolkata,Apparel,Formal Shirt,4,802.27,,3209.08,02-Feb-2025,Debit Card,Online ,
+11175,201,Nisha,Mehta,nisha.mehta201@yahoo.com,+91-7876774714,DELHI,Beauty,Lipstick,4,2739.25,0.0,10957.0,2024/06/23,credit card,Online ,5.0
+10431,87,Priya,Singh,priya.singh87@gmail.co,+91-7718898818,Delhi,Apparel,Sports Shoes,4,4812.56,,19250.24,22-Jul-2025,Credit Card,Online,1.0
+10759,117,SANJAY,Kumar,sanjay.kumar117@gmial.com,+91-7277702959,delhi,Home & Kitchen,Cushion Cover,2,2406.64,,4813.28,2025-08-11,COD,Online ,3.0
+10061,294,Pooja,Patel,pooja.patel294@gmail.co,+91-8758503592,Chennai,Home & Kitchen,LED Lamp,1,3117.95,,3117.95,2024-03-29,Net Banking,In store,2.0
+10229,100,Karan,Rao,karan.rao100@gmail.co,+91-7502549822,Chennai,Beauty,Sunscreen SPF50,1,1416.37,0.0,1416.37,2025/02/20,Debit Card,Online ,
+10826,298,Vikram,Bhatt,vikram.bhatt298@outlook.com,+91-7371280848,Mumbai,Beauty,Lipstick,5,4920.04,20.0,19680.16,26/10/2024,COD,Online ,5.0
+10362,21,Rohan,Gupta,,+91-8838081369,Delhi,Electronics,Bluetooth Speaker,5,711.25,5.0,3378.44,17-Oct-2024,Net Banking,In store,4.0
+10650,24,Karan,Rao,karan.rao24@yahoo.com,+91-7085555391,delhi,Home & Kitchen,LED Lamp,4,1223.35,15.0,4159.39,2024/06/19,Cash on Delivery,Online,1.0
+10542,45,Anjali,Kapoor,anjali.kapoor45@gmail.com,8500436252,Jaipur,Apparel,Hoodie,1,1135.91,0.0,1135.91,01-18-2024,NetBanking,In store,5.0
+11179,106,Ajay,Bhatt,ajay.bhatt106@outlook.com,+91-9598146019,Ahmedabad,Beauty,Shampoo,1,4986.62,10.0,4487.96,2024/10/26,NetBanking,Online,3.0
+11106,144,Vikram,Kapoor,vikram.kapoor144@gmail.co,+91-8315761074,Bangalore,Apparel,Cotton T-Shirt,1,1814.8,15.0,1542.58,2025-01-13,NetBanking,Online,
+10111,170,Kavya,Sharma,kavya.sharma170@gmial.com,+91-8988841342,Ahmedabad,Beauty,Face Wash,1,628.24,5.0,596.83,2024/08/15,NetBanking,Online ,
+10529,106,Ajay,Bhatt,ajay.bhatt106@outlook.com,+91-8272872328,Ahmedabad,Apparel,Cotton T-Shirt,1,2923.71,10.0,2631.34,2024/01/10,COD,Online ,5.0
+10627,7,Suresh,Saxena,suresh.saxena7@gmail.com,+91-8540706359,Delhi,Electronics,Bluetooth Speaker,3,4204.6,,12613.8,02-Jul-2024,COD,Online,
+10464,236,Kavya,Iyer,kavya.iyer236@gmail.co,+91-7752161682,Bombay,Beauty,Shampoo,1,3725.86,20.0,2980.69,21-Oct-2024,credit card,online,4.0
+11170,257,Suresh,Mehta,suresh.mehta257@gmail.com,+91-9329293991,Delhi,Grocery,Almonds 500g,2,1190.28,15.0,2023.48,10-May-2025,Debit Card,Online ,4.0
+10290,4,Meera,Gupta,meera.gupta4@outlook.com,+91-9888249353,Jaipur,Electronics,Smartwatch,3,1805.6,5.0,5145.96,2025/08/05,Credit Card,In-Store,
+10010,256,Kavya,Chopra,kavya.chopra256@gmial.com,+91-9574307168,Mumbai,Home & Kitchen,Cushion Cover,2,2165.13,0.0,4330.26,09-May-2025,Cash on Delivery,In store,
+10817,285,Pooja,Rao,pooja.rao285@outlook.com,+91-8686343515,Chennai,Home & Kitchen,Cushion Cover,4,925.34,5.0,3516.29,2024/07/25,Net Banking,online,2.0
+10054,22,Neha,Joshi,neha.joshi22@outlook.com,+91-7205316740,Mumbai,Home & Kitchen,Storage Container Set,4,4947.25,5.0,18799.55,10-Jul-2025,Net Banking,Online,5.0
+11016,94,MEERA,Singh,meera.singh94@outlook.com,+91-8850216085,Delhi,Apparel,Jacket,2,2976.89,0.0,5953.78,2024/04/26,COD,Online,3.0
+10768,22,Neha,Joshi,neha.joshi22@gmail.co,+91-8213592650,Mumbai,Home & Kitchen,Non-stick Pan,5,4082.9,20.0,16331.6,2024/04/11,Debit Card,online,5.0
+10398,103,  Divya ,Reddy,divya.reddy103@outlook.com,+91-8864470731,Delhi,Beauty,Sunscreen SPF50,4,2460.73,20.0,7874.34,2025/07/30,UPI ,Online,4.0
+11126,255,Priya,Chopra,priya.chopra255@gmial.com,+91-9779987502,Ahmedabad,Electronics,Smartphone Case,1,875.91,20.0,700.73,16/03/2024,Cash on Delivery,In store,
+10263,293,Rohan,Joshi,rohan.joshi293@yahoo.com,+91-8289789131,Bengaluru,Apparel,Cotton T-Shirt,1,2382.79,5.0,2263.65,08/06/2024,Net Banking,online,2.0
+10041,22,Neha,Joshi,neha.joshi22@gmail.com,+91-8475054001,Mumbai,Beauty,Shampoo,2,1709.4,,3418.8,2025/05/02,UPI,Online,2.0
+10110,206,Neha,Iyer,neha.iyer206@outlook.com,+91-9631431563,DELHI,Grocery,Honey Jar,4,2786.68,5.0,10589.38,2025/01/03,Debit Card,Online,1.0
+10610,122,Suresh,Iyer,suresh.iyer122@gmail.com,7313024503,Bangalore,Electronics,Smartphone Case,4,3815.7,10.0,13736.52,,Credit Card,Online ,
+10846,138,Vikram,Iyer,vikram.iyer138@yahoo.com,+91-9223383267,Bangalore,Home & Kitchen,Storage Container Set,2,1668.3,10.0,3002.94,27/11/2024,Cash on Delivery,online,4.0
+11066,47,Nisha,Rao,nisha.rao47@gmail.com,+91-9415739855,Ahmedabad,Apparel,Formal Shirt,1,2039.01,0.0,2039.01,07-09-2025,Credit Card,In store,1.0
+11084,6,Rahul,Reddy,rahul.reddy6@outlook.com,+91-9307423570,Bengaluru,Electronics,Power Bank,2,4929.04,0.0,9858.08,11-16-2024,UPI,In store,5.0
+10084,267,Neha,Rao,neha.rao267@gmial.com,+91-8784234958,Jaipur,Beauty,Face Wash,2,3627.05,0.0,7254.1,,NetBanking,In store,
+10565,238,MEERA,Verma,meera.verma238@outlook.com,+91-8781193901,Kolkata,Beauty,Sunscreen SPF50,1,4707.14,10.0,4236.43,2024/08/17,Net Banking,online,4.0
+10867,283,Meera,Agarwal,MEERA.AGARWAL283@GMAIL.COM,+91-7626803351,Kolkata,Beauty,Face Wash,5,478.61,0.0,2393.05,05/12/2024,Net Banking,Online ,
+10408,240,Priya,Sharma,priya.sharma240@outlook.com,+91-7370191370,Bengaluru,Apparel,Hoodie,4,,5.0,18259.19,03-Jan-2025,UPI,Online ,
+10099,42,Vikram,Agarwal,vikram.agarwal42@gmail.com,+91-8863627766,Hyderabad,Electronics,Wireless Earbuds,4,1989.43,0.0,7957.72,19-Jul-2025,Credit Card,Online,5.0
+10634,119,Rahul,Sharma,rahul.sharma119@gmail.co,+91-8556053734,Hyderabad,Beauty,Lipstick,1,3511.4,15.0,2984.69,31-Mar-2025,credit card,Online,
+11098,278,Ritu,Rao,ritu.rao278@gmial.com,+91-9152153207,DELHI,Home & Kitchen,Non-stick Pan,4,2050.63,0.0,8202.52,2024/06/03,Debit Card,In-Store,1.0
+10375,10,Manish,Pillai,manish.pillai10@gmail.co,+91-7257189761,Chennai,Grocery,Cooking Oil 1L,5,1182.82,20.0,4731.28,04-23-2025,NetBanking,Online ,
+10271,5,Kavya,Verma,kavya.verma5@yahoo.com,+91-9184164080,Delhi,Electronics,Power Bank,2,3365.46,20.0,5384.74,2025-01-03,Credit Card,online,2.0
+10337,208,Neha,Iyer,neha.iyer208@outlook.com,+91-8158736557,Hyderabad,Apparel,Hoodie,5,3563.93,0.0,17819.65,2024-01-02,UPI ,online,
+10999,155,Priya,Bhatt,priya.bhatt155@gmail.com,+91-9933641842,Bengaluru,Grocery,Basmati Rice 5kg,1,3857.15,10.0,3471.43,15/10/2024,Debit Card,Online,4.0
+10152,158,  Amit ,Reddy,amit.reddy158@gmail.co,+91-9429019820,Pune,Home & Kitchen,Electric Kettle,1,3684.83,15.0,3132.11,09-Aug-2025,Credit Card,In-Store,2.0
+10512,118,  Divya ,Rao,divya.rao118@gmail.com,+91-7246580623,Kolkata,Home & Kitchen,Non-stick Pan,2,2121.6,5.0,4031.04,2024-11-16,Debit Card,Online,2.0
+10929,271,Rohan,Chopra,rohan.chopra271@outlook.com,+91-9712840165,DELHI,Beauty,Moisturizer,1,1651.49,20.0,1321.19,2024-09-14,COD,Online,4.0
+10620,30,Sanjay,Iyer,sanjay.iyer30@outlook.com,+91-8708618083,delhi,Electronics,Wireless Earbuds,1,2277.0,5.0,2163.15,2024-10-16,credit card,online,
+11094,296,Karan,Verma,karan.verma296@outlook.com,+91-9988775646,Delhi,Grocery,Cooking Oil 1L,1,3414.66,0.0,3414.66,14/01/2024,Credit Card,In-Store,3.0
+10319,202,Manish,Saxena,manish.saxena202@gmial.com,+91-7443614797,Bombay,Apparel,Jacket,5,675.89,0.0,3379.45,07-Jul-2025,Cash on Delivery,Online ,1.0
+10232,112,Ajay,Saxena,ajay.saxena112@outlook.com,+91-7870875721,Delhi,Grocery,Green Tea Pack,1,4743.52,5.0,4506.34,,Cash on Delivery,In-Store,4.0
+10253,31,Meera,Nair,MEERA.NAIR31@GMAIL.CO,+91-8491718314,delhi,Electronics,Bluetooth Speaker,1,3551.44,15.0,3018.72,19/04/2024,COD,In-Store,
+10858,196,Kavya,Nair,kavya.nair196@gmail.com,+91-8095840846,Bangalore,Home & Kitchen,Non-stick Pan,2,586.37,10.0,1055.47,2024-06-11,NetBanking,Online,
+11122,162,Meera,Mehta,meera.mehta162@yahoo.com,+91-7749535274,Delhi,Apparel,Sports Shoes,2,3895.03,0.0,7790.06,07-29-2025,UPI,Online,4.0
+10055,205,Ritu,Rao,ritu.rao205@gmail.com,+91-7338988898,Chennai,Beauty,Sunscreen SPF50,3,4872.56,10.0,13155.91,23-May-2025,credit card,Online ,4.0
+10380,141,Sneha,Gupta,sneha.gupta141@outlook.com,+91-9039482919,mumbai,Beauty,Sunscreen SPF50,2,4335.06,0.0,8670.12,27-Feb-2024,NetBanking,online,4.0
+10432,129,Sneha,Kumar,sneha.kumar129@outlook.com,9999731058,Chennai,Beauty,Lipstick,2,2988.02,0.0,5976.04,06-06-2025,Credit Card,In-Store,2.0
+10142,184,Manish,Reddy,manish.reddy184@yahoo.com,+91-8407863065,Ahmedabad,Apparel,Formal Shirt,2,2397.23,0.0,4794.46,2024-05-02,UPI,online,3.0
+10811,233,KARAN,Malhotra,karan.malhotra233@outlook.com,+91-8610737501,Kolkata,Home & Kitchen,Electric Kettle,1,1715.6,,1715.6,2024-01-18,Credit Card,online,
+10098,92,Karan,Rao,karan.rao92@gmail.com,+91-8743874444,Bengaluru,Electronics,Wireless Earbuds,1,1318.7,20.0,1054.96,06-23-2025,credit card,online,
+10757,225,Sanjay,Mehta,sanjay.mehta225@outlook.com,+91-8563234619,delhi,Beauty,Shampoo,2,2149.77,20.0,3439.63,2025/06/15,UPI ,Online ,5.0
+10985,284,Kavya,Desai,kavya.desai284@yahoo.com,+91-8503615233,Kolkata,Beauty,Lipstick,1,2732.69,,2732.69,27-Apr-2025,NetBanking,Online,
+10572,268,NISHA,Malhotra,nisha.malhotra268@yahoo.com,+91-7493012661,Kolkata,Home & Kitchen,Non-stick Pan,2,3089.64,0.0,6179.28,2025-07-02,NetBanking,Online ,4.0
+10433,222,  MEERA ,Saxena,meera.saxena222@outlook.com,+91-8974823127,Bengaluru,Apparel,Sports Shoes,3,4437.07,5.0,12645.65,12-16-2024,COD,online,5.0
+10524,1,Sneha,Sharma,sneha.sharma1@outlook.com,+91-8561569542,mumbai,Electronics,Smartwatch,-3,1178.09,0.0,3534.27,04-28-2025,Debit Card,In store,5.0
+10013,170,  Kavya ,Sharma,,+91-8138264176,Ahmedabad,Electronics,Power Bank,1,2700.86,0.0,2700.86,2025-04-12,UPI,In store,5.0
+10686,206,Neha,Iyer,neha.iyer206@gmial.com,+91-9297911291,DELHI,Beauty,Face Wash,2,2211.16,15.0,3758.97,2024/04/28,COD,Online ,5.0
+10818,263,Meera,Bhatt,meera.bhatt263@yahoo.com,+91-8302966838,Hyderabad,Beauty,Moisturizer,1,696.56,10.0,626.9,2025-01-31,Cash on Delivery,In-Store,5.0
+10147,279,AMIT,Gupta,amit.gupta279@outlook.com,+91-8369568735,Chennai,Electronics,Power Bank,3,2476.47,20.0,5943.53,05-11-2025,NetBanking,online,4.0
+10680,67,Karan,Agarwal,karan.agarwal67@gmial.com,7633469081,Bombay,Home & Kitchen,Non-stick Pan,1,1649.98,0.0,1649.98,05-24-2024,COD,In store,4.0
+11136,288,Sneha,Desai,sneha.desai288@yahoo.com,+91-9873366854,DELHI,Apparel,Denim Jeans,2,381.56,,763.12,2024/12/02,UPI ,In-Store,
+10014,169,Karan,Verma,karan.verma169@yahoo.com,+91-8234283419,mumbai,Grocery,Almonds 500g,3,3189.98,0.0,9569.94,2025/05/14,Credit Card,Online ,4.0
+10618,101,Kavya,Desai,kavya.desai101@gmial.com,+91-8845627528,delhi,Grocery,Honey Jar,4,3457.41,20.0,11063.71,2024/01/19,COD,Online,4.0
+10552,79,Suresh,Nair,suresh.nair79@gmail.com,+91-7728931686,Chennai,Grocery,Almonds 500g,1,4052.92,,4052.92,05-26-2024,NetBanking,Online,5.0
+10889,11,Amit,Patel,amit.patel11@yahoo.com,+91-8552328441,mumbai,Electronics,Smartphone Case,2,969.76,20.0,1551.62,10-26-2024,UPI ,In-Store,2.0
+10699,238,Meera,Verma,meera.verma238@gmail.co,+91-9618667614,Kolkata,Apparel,Jacket,1,2009.26,0.0,2009.26,04-Mar-2025,UPI ,In-Store,
+10021,286,Divya,Iyer,divya.iyer286@gmail.co,+91-9742548209,Bengaluru,Home & Kitchen,Non-stick Pan,4,217.51,10.0,783.04,2025-07-03,COD,online,5.0
+10896,133,ARJUN,Reddy,arjun.reddy133@gmial.com,+91-8287717677,delhi,Beauty,Moisturizer,2,1798.71,0.0,3597.42,2025-02-25,NetBanking,online,4.0
+10352,92,Karan,Rao,karan.rao92@gmail.co,+91-8872899986,Bengaluru,Beauty,Moisturizer,1,728.87,15.0,619.54,10-Oct-2024,Debit Card,Online ,5.0
+10875,61,Divya,Nair,divya.nair61@yahoo.com,+91-9622389887,Delhi,Home & Kitchen,Electric Kettle,5,4413.66,20.0,17654.64,18-May-2025,Cash on Delivery,In store,3.0
+10307,70,Divya,Malhotra,divya.malhotra70@gmail.co,+91-8652337143,delhi,Electronics,Smartphone Case,-4,4321.74,20.0,13829.57,2025/03/11,UPI,In store,5.0
+10825,25,Pooja,Patel,pooja.patel25@outlook.com,+91-9322576648,Kolkata,Home & Kitchen,Storage Container Set,1,3050.54,15.0,2592.96,12-Apr-2025,NetBanking,In-Store,3.0
+10400,40,AJAY,Kapoor,ajay.kapoor40@outlook.com,+91-7351197575,Jaipur,Electronics,USB Cable,1,2626.66,10.0,2363.99,2025-02-26,COD,Online ,
+10205,117,  Sanjay ,Kumar,sanjay.kumar117@gmail.com,+91-9754889723,delhi,Home & Kitchen,LED Lamp,4,2337.96,20.0,7481.47,18-Feb-2025,credit card,Online,2.0
+11172,115,Arjun,Iyer,arjun.iyer115@gmial.com,+91-9071370320,Bengaluru,Home & Kitchen,Electric Kettle,5,3725.29,0.0,18626.45,2024/03/05,COD,online,
+10678,96,Neha,Patel,neha.patel96@outlook.com,+91-9072569071,Pune,Electronics,Power Bank,5,3028.84,10.0,13629.78,21-Mar-2025,COD,In-Store,4.0
+11196,109,Anjali,Gupta,anjali.gupta109@outlook.com,+91-9054567093,Jaipur,Home & Kitchen,Electric Kettle,5,4089.01,0.0,20445.05,2025-06-08,Debit Card,Online ,4.0
+10018,152,Arjun,Kapoor,arjun.kapoor152@gmail.co,+91-7940617318,DELHI,Electronics,Smartwatch,4,1481.23,5.0,5628.67,2025-08-02,COD,online,4.0
+10390,24,Karan,Rao,karan.rao24@gmail.co,+91-7729571043,delhi,Electronics,Bluetooth Speaker,4,1617.16,0.0,6468.64,02-08-2025,UPI,Online ,
+10881,164,Ajay,Iyer,AJAY.IYER164@GMAIL.COM,+91-8678448660,Delhi,Grocery,Cooking Oil 1L,5,2261.37,,11306.85,2024/05/05,Net Banking,In-Store,4.0
+10504,21,Rohan,Gupta,rohan.gupta21@gmail.com,+91-8561476763,Delhi,Apparel,Sports Shoes,2,3315.31,0.0,6630.62,2024/03/30,Net Banking,Online,
+10535,23,Neha,Singh,neha.singh23@gmail.com,+91-9063411491,Pune,Apparel,Denim Jeans,1,1448.13,15.0,1230.91,2024-01-14,Debit Card,Online ,
+10273,121,Rahul,Desai,rahul.desai121@yahoo.com,+91-8687263275,Bengaluru,Grocery,Green Tea Pack,1,3185.09,5.0,3025.84,2025-01-31,NetBanking,online,3.0
+10116,153,Neha,Iyer,neha.iyer153@yahoo.com,+91-7607130330,Bangalore,Grocery,Honey Jar,1,3409.73,0.0,3409.73,2024-11-16,Cash on Delivery,online,
+10208,177,Vikram,Reddy,vikram.reddy177@yahoo.com,+91-9436503348,Pune,Apparel,Formal Shirt,1,930.63,0.0,930.63,2024/08/14,Net Banking,In-Store,1.0
+10493,176,Sanjay,Joshi,sanjay.joshi176@gmail.com,9543481704,Ahmedabad,Beauty,Sunscreen SPF50,4,4070.97,0.0,16283.88,08-16-2024,Debit Card,online,4.0
+10717,156,Rohan,Rao,rohan.rao156@gmail.co,+91-8791532400,Kolkata,Home & Kitchen,Electric Kettle,2,1768.55,20.0,2829.68,12-28-2024,COD,online,1.0
+10993,239,Neha,Gupta,neha.gupta239@yahoo.com,+91-8693702159,DELHI,Grocery,Honey Jar,5,1844.17,0.0,9220.85,08-03-2024,NetBanking,online,1.0
+10976,269,Amit,Bhatt,amit.bhatt269@yahoo.com,+91-9763004173,Bombay,Electronics,Smartphone Case,4,2319.54,10.0,8350.34,2024-11-20,Credit Card,Online ,2.0
+10141,134,  Karan ,Agarwal,karan.agarwal134@gmail.co,+91-7453796587,Hyderabad,Home & Kitchen,LED Lamp,3,1692.58,0.0,5077.74,05/10/2024,Debit Card,In-Store,3.0
+10887,204,Meera,Rao,meera.rao204@gmail.co,+91-9748863468,Bangalore,Electronics,Power Bank,1,4799.39,0.0,4799.39,2024/10/07,NetBanking,In store,5.0
+10264,40,Ajay,Kapoor,ajay.kapoor40@gmail.com,+91-8436192596,Jaipur,Home & Kitchen,LED Lamp,1,2518.14,20.0,2014.51,2025-08-13,Net Banking,Online,5.0
+11160,298,Vikram,Bhatt,vikram.bhatt298@yahoo.com,8619130590,Mumbai,Beauty,Moisturizer,4,1335.16,10.0,4806.58,06-Jun-2024,UPI,Online ,2.0
+10419,294,Pooja,Patel,pooja.patel294@outlook.com,+91-7629441413,Chennai,Apparel,Jacket,4,2670.38,5.0,10147.44,2024-09-10,credit card,Online ,4.0
+10566,14,Arjun,Singh,arjun.singh14@yahoo.com,+91-8689286823,Mumbai,Apparel,Hoodie,3,1775.19,20.0,4260.46,08-Aug-2025,Cash on Delivery,Online ,1.0
+10485,91,Vikram,Kapoor,vikram.kapoor91@yahoo.com,+91-7784816771,Bangalore,Home & Kitchen,Electric Kettle,1,1110.4,5.0,1054.88,2024/07/05,Debit Card,In store,4.0
+11171,283,Meera,Agarwal,meera.agarwal283@yahoo.com,+91-7654357856,Kolkata,Home & Kitchen,Non-stick Pan,1,4869.77,5.0,4626.28,13/07/2024,NetBanking,In-Store,2.0
+10557,241,Rohan,Sharma,ROHAN.SHARMA241@GMIAL.COM,+91-7916635497,Jaipur,Apparel,Jacket,2,1702.91,15.0,2894.95,2024/02/02,UPI ,Online,1.0
+10748,222,Meera,Saxena,meera.saxena222@gmial.com,+91-8079106522,Bengaluru,Beauty,Face Wash,1,4346.06,15.0,3694.15,10-13-2024,Net Banking,Online ,5.0
+10359,106,Ajay,Bhatt,ajay.bhatt106@outlook.com,+91-9150208433,Ahmedabad,Grocery,Cooking Oil 1L,1,3402.41,15.0,2892.05,2024-01-30,UPI,online,4.0
+10109,108,Suresh,Gupta,suresh.gupta108@outlook.com,+91-8817320723,Bombay,Beauty,Lipstick,1,4121.98,5.0,3915.88,22-Feb-2025,UPI,online,4.0
+10672,89,Sneha,Nair,sneha.nair89@gmail.co,+91-7378652730,Bengaluru,Electronics,Bluetooth Speaker,2,2868.71,0.0,5737.42,04-30-2024,COD,Online ,2.0
+11084,6,Rahul,Reddy,rahul.reddy6@outlook.com,+91-9307423570,Bengaluru,Electronics,Power Bank,2,4929.04,0.0,9858.08,11-16-2024,UPI,In store,5.0
+11113,183,  Arjun ,Rao,arjun.rao183@gmail.com,+91-9078098147,Hyderabad,Apparel,Formal Shirt,1,269.25,0.0,269.25,01-11-2025,NetBanking,Online,3.0
+10100,271,Rohan,Chopra,rohan.chopra271@outlook.com,+91-9420256439,DELHI,Electronics,Smartphone Case,-2,4521.17,0.0,9042.34,03-Aug-2025,Net Banking,Online,1.0
+10217,40,Ajay,Kapoor,ajay.kapoor40@outlook.com,+91-9068098256,Jaipur,Grocery,Green Tea Pack,2,878.67,20.0,1405.87,06-10-2024,Debit Card,In-Store,
+10586,15,Sanjay,Singh,sanjay.singh15@yahoo.com,+91-9156891321,Kolkata,Beauty,Shampoo,5,1856.99,20.0,7427.96,2024/05/01,Debit Card,online,4.0
+10386,118,Divya,Rao,divya.rao118@gmail.co,+91-7382515219,Kolkata,Electronics,Power Bank,-2,1419.65,20.0,2271.44,2024-06-21,UPI ,Online ,5.0
+10421,214,Kavya,Kapoor,kavya.kapoor214@yahoo.com,+91-7140047655,Kolkata,Apparel,Denim Jeans,1,,0.0,2501.11,13/04/2025,NetBanking,Online ,3.0
+10413,213,Vikram,Reddy,vikram.reddy213@gmial.com,+91-8970329392,Mumbai,Home & Kitchen,Electric Kettle,1,3803.05,20.0,3042.44,26-Jun-2025,Cash on Delivery,In-Store,
+10707,156,Rohan,Rao,rohan.rao156@outlook.com,+91-9521727453,Kolkata,Apparel,Sports Shoes,1,1408.19,0.0,1408.19,2025/06/04,UPI ,In store,
+10942,149,Vikram,Nair,vikram.nair149@outlook.com,+91-9048213550,Bombay,Electronics,Wireless Earbuds,2,1624.43,5.0,3086.42,2025-07-21,NetBanking,In store,
+10558,217,Kavya,Malhotra,kavya.malhotra217@gmial.com,+91-9253904127,DELHI,Home & Kitchen,Storage Container Set,1,555.42,10.0,499.88,03-11-2024,UPI ,Online,4.0
+10794,134,Karan,Agarwal,karan.agarwal134@gmail.com,+91-7459774564,,Grocery,Cooking Oil 1L,5,1515.96,0.0,7579.8,26-Mar-2024,Debit Card,online,4.0
+10306,109,Anjali,Gupta,anjali.gupta109@yahoo.com,+91-7308146694,Jaipur,Apparel,Formal Shirt,1,1062.9,10.0,956.61,01-28-2025,UPI ,In-Store,1.0
+10914,50,Meera,Iyer,meera.iyer50@yahoo.com,+91-8267015206,DELHI,Grocery,Basmati Rice 5kg,2,1083.84,5.0,2059.3,09/06/2024,Credit Card,In-Store,
+10663,288,Sneha,Desai,sneha.desai288@gmail.co,+91-9243337877,DELHI,Grocery,Cooking Oil 1L,1,3024.3,10.0,2721.87,15/04/2024,Net Banking,In-Store,4.0
+10991,83,Ritu,Kapoor,ritu.kapoor83@gmial.com,+91-8403925038,Bengaluru,Electronics,Bluetooth Speaker,2,3383.59,5.0,6428.82,2025/04/24,COD,Online,3.0
+10364,187,Nisha,Mehta,nisha.mehta187@outlook.com,+91-9499321452,Mumbai,Apparel,Hoodie,2,3035.56,,6071.12,2025-02-17,Cash on Delivery,In store,5.0
+10024,51,Arjun,Singh,arjun.singh51@yahoo.com,+91-9564722363,Chennai,Home & Kitchen,Cushion Cover,3,443.67,0.0,1331.01,09/10/2024,Debit Card,In store,1.0
+11040,101,Kavya,Desai,kavya.desai101@outlook.com,+91-9742740566,delhi,Electronics,Smartphone Case,3,2303.83,20.0,5529.19,01-14-2024,COD,In-Store,4.0
+10265,62,Neha,Pillai,neha.pillai62@outlook.com,+91-7642441295,Mumbai,Apparel,Jacket,1,3224.35,0.0,3224.35,2025-01-26,Net Banking,Online ,5.0
+10756,281,Neha,Joshi,neha.joshi281@yahoo.com,+91-8274716830,delhi,Apparel,Jacket,2,,,555.68,17/08/2024,Cash on Delivery,In-Store,4.0
+11123,205,Ritu,Rao,ritu.rao205@gmail.com,+91-8079871004,Chennai,Apparel,Sports Shoes,5,3335.73,,16678.65,2025-01-30,credit card,online,2.0
+10187,174,SNEHA,Joshi,sneha.joshi174@gmail.co,+91-9632445649,Ahmedabad,Grocery,Honey Jar,1,2249.31,0.0,2249.31,11-Sep-2024,credit card,In store,1.0
+10563,284,Kavya,Desai,kavya.desai284@gmail.com,+91-9646818113,Kolkata,Grocery,Cooking Oil 1L,4,2000.58,0.0,8002.32,03-23-2025,Debit Card,Online,4.0
+10863,203,Suresh,Kapoor,suresh.kapoor203@outlook.com,+91-8750964943,Bombay,Grocery,Honey Jar,4,4460.64,20.0,14274.05,2025/04/22,credit card,Online ,3.0
+10948,186,Rahul,Joshi,rahul.joshi186@gmial.com,+91-7505969815,Ahmedabad,Apparel,Sports Shoes,1,3337.71,15.0,2837.05,2025-07-28,Net Banking,Online,3.0
+10124,220,Amit,Chopra,amit.chopra220@gmail.co,+91-8476350425,Chennai,Apparel,Formal Shirt,2,1715.9,0.0,3431.8,10-17-2024,NetBanking,Online ,1.0
+10639,233,Karan,Malhotra,karan.malhotra233@outlook.com,9223408515,Kolkata,Beauty,Lipstick,5,1007.1,,5035.5,2024-10-13,Cash on Delivery,online,
+10903,203,Suresh,Kapoor,suresh.kapoor203@gmial.com,+91-7886195405,Bombay,Apparel,Denim Jeans,2,4803.09,0.0,9606.18,2025-08-11,Cash on Delivery,Online,
+11051,121,Rahul,Desai,rahul.desai121@yahoo.com,+91-9433447929,Bengaluru,Apparel,Sports Shoes,1,882.1,20.0,705.68,2024/04/25,COD,Online,4.0
+10769,219,Ajay,Malhotra,ajay.malhotra219@gmail.co,+91-9137238456,Hyderabad,Beauty,Sunscreen SPF50,4,549.59,,2198.36,25-Jan-2024,Debit Card,online,5.0
+10587,51,Arjun,Singh,arjun.singh51@yahoo.com,+91-9274454718,Chennai,Electronics,Smartwatch,4,3700.21,20.0,11840.67,08/03/2025,Net Banking,In-Store,
+11139,33,Priya,Mehta,priya.mehta33@gmail.com,+91-8982002586,Pune,Apparel,Jacket,2,2897.88,0.0,5795.76,29/01/2024,credit card,Online,5.0
+11076,13,Vikram,Reddy,,+91-7782718632,DELHI,Beauty,Shampoo,3,4608.98,0.0,13826.94,11-18-2024,Debit Card,In-Store,
+10148,242,Vikram,Nair,vikram.nair242@yahoo.com,+91-8668262032,Bangalore,Grocery,Green Tea Pack,2,4873.8,0.0,9747.6,12/04/2024,Cash on Delivery,online,5.0
+10934,208,Neha,Iyer,neha.iyer208@outlook.com,+91-7409343870,Hyderabad,Home & Kitchen,Electric Kettle,1,4429.56,,4429.56,,Debit Card,Online ,
+10494,161,Suresh,Malhotra,suresh.malhotra161@outlook.com,+91-7542485996,delhi,Beauty,Shampoo,1,1657.37,15.0,1408.76,02/07/2025,UPI ,In store,
+10225,61,  Divya ,Nair,divya.nair61@yahoo.com,+91-9731069282,Delhi,Apparel,Formal Shirt,1,636.35,0.0,636.35,,credit card,Online ,1.0
+10832,245,Karan,Chopra,karan.chopra245@outlook.com,+91-8648216325,Bangalore,Grocery,Honey Jar,1,3443.72,0.0,3443.72,02-Feb-2024,credit card,online,
+10071,72,Manish,Singh,manish.singh72@gmail.co,+91-7071455195,Bengaluru,Home & Kitchen,Cushion Cover,3,938.13,,2814.39,2024/11/02,credit card,Online ,5.0
+10692,111,Sneha,Pillai,sneha.pillai111@outlook.com,7889643831,Bengaluru,Beauty,Lipstick,1,1492.74,10.0,1343.47,2024/02/16,UPI ,In-Store,1.0
+10281,70,Divya,Malhotra,divya.malhotra70@outlook.com,+91-9785614544,delhi,Beauty,Sunscreen SPF50,3,2336.8,0.0,7010.4,02-Jul-2024,Cash on Delivery,In store,3.0
+10172,244,Rohan,Rao,rohan.rao244@yahoo.com,+91-9401022668,mumbai,Home & Kitchen,Cushion Cover,2,4250.28,,8500.56,25/07/2025,Net Banking,Online,3.0
+10749,125,Manish,Desai,manish.desai125@gmail.co,+91-9867135632,mumbai,Grocery,Almonds 500g,2,3016.76,20.0,4826.82,2024-09-29,COD,Online ,4.0
+10169,157,DIVYA,Nair,divya.nair157@gmail.co,+91-8705757183,Bengaluru,Home & Kitchen,LED Lamp,4,4280.19,10.0,15408.68,04-15-2025,Cash on Delivery,In store,2.0
+10892,45,Anjali,Kapoor,anjali.kapoor45@gmail.com,+91-8671937168,Jaipur,Electronics,Smartphone Case,1,1809.19,15.0,1537.81,2025/06/18,Cash on Delivery,In store,4.0
+10284,3,Vikram,Singh,vikram.singh3@gmail.co,+91-8051035049,delhi,Grocery,Almonds 500g,2,1201.84,0.0,2403.68,02-May-2025,UPI ,In store,
+11053,195,Amit,Singh,amit.singh195@gmail.co,8269041320,DELHI,Electronics,Wireless Earbuds,1,2613.43,0.0,2613.43,25-Jul-2025,UPI ,Online,4.0
+10126,27,Karan,Gupta,KARAN.GUPTA27@GMAIL.COM,+91-7971482353,,Beauty,Lipstick,2,2231.77,,4463.54,2024-04-03,Credit Card,In-Store,
+11156,277,Neha,Bhatt,NEHA.BHATT277@GMAIL.CO,+91-8419888806,delhi,Apparel,Denim Jeans,2,1577.97,,3155.94,2025-03-29,Net Banking,Online ,1.0
+11197,246,Nisha,Saxena,nisha.saxena246@yahoo.com,+91-7586485169,mumbai,Beauty,Sunscreen SPF50,1,3023.58,5.0,2872.4,2025/02/11,Debit Card,online,5.0
+10165,227,Manish,Kumar,manish.kumar227@gmial.com,+91-8605932109,Jaipur,Home & Kitchen,Storage Container Set,4,3084.15,20.0,9869.28,01/04/2024,COD,In-Store,1.0
+11029,248,Sneha,Pillai,sneha.pillai248@gmial.com,+91-9367183914,Delhi,Electronics,USB Cable,1,3545.94,0.0,3545.94,2025/07/05,NetBanking,Online,3.0
+11154,129,Sneha,Kumar,sneha.kumar129@yahoo.com,+91-8665633089,Chennai,Home & Kitchen,Electric Kettle,3,3715.81,0.0,11147.43,22-Apr-2024,Debit Card,In-Store,5.0
+10532,299,Amit,Pillai,amit.pillai299@yahoo.com,+91-7875823855,Chennai,Electronics,Smartwatch,4,4736.43,,18945.72,2024/09/20,NetBanking,In-Store,4.0
+10841,125,Manish,Desai,manish.desai125@gmial.com,+91-9693072470,mumbai,Beauty,Moisturizer,2,3370.58,0.0,6741.16,04-May-2025,Cash on Delivery,Online,
+10043,77,Priya,Nair,priya.nair77@outlook.com,+91-9763782498,Mumbai,Home & Kitchen,Non-stick Pan,1,4596.22,0.0,4596.22,13-Nov-2024,UPI,Online ,5.0
+10782,11,Amit,Patel,amit.patel11@outlook.com,+91-8742864910,mumbai,Beauty,Lipstick,1,356.39,0.0,356.39,2025/02/24,Cash on Delivery,In store,4.0
+10919,298,Vikram,Bhatt,vikram.bhatt298@yahoo.com,+91-7358921336,Mumbai,Apparel,Cotton T-Shirt,1,2764.27,0.0,2764.27,25/08/2024,Cash on Delivery,Online,5.0
+10689,19,Meera,Joshi,meera.joshi19@gmial.com,+91-8483422754,Bombay,Grocery,Almonds 500g,2,999.88,,1999.76,2025-07-01,UPI,In-Store,
+10579,274,Amit,Agarwal,amit.agarwal274@outlook.com,+91-8485304786,Bengaluru,Grocery,Basmati Rice 5kg,3,3277.16,10.0,8848.33,12-Mar-2024,Debit Card,In store,4.0
+10133,34,Karan,Gupta,karan.gupta34@outlook.com,+91-9826313349,Bengaluru,Home & Kitchen,LED Lamp,2,430.84,0.0,861.68,29-Mar-2024,Debit Card,In store,3.0
+11015,150,Anjali,Patel,anjali.patel150@gmial.com,+91-8143209173,Pune,Electronics,Power Bank,4,4783.94,0.0,19135.76,01/06/2024,COD,online,4.0
+10468,143,  Pooja ,Pillai,pooja.pillai143@yahoo.com,7048149222,Ahmedabad,Apparel,Denim Jeans,1,3093.89,20.0,2475.11,06-30-2024,Debit Card,Online ,5.0
+10039,79,Suresh,Nair,suresh.nair79@outlook.com,+91-7293287259,Chennai,Electronics,Smartphone Case,5,2400.17,15.0,10200.72,2025/07/31,COD,Online ,
+10964,90,Rohan,Desai,rohan.desai90@yahoo.com,+91-9615468716,,Electronics,USB Cable,-1,1737.85,10.0,1564.07,11-Feb-2025,Credit Card,Online ,
+10191,50,Meera,Iyer,meera.iyer50@gmail.com,+91-9114937010,DELHI,Apparel,Cotton T-Shirt,3,1872.42,0.0,5617.26,2024/10/25,NetBanking,online,3.0
+11043,189,Rohan,Kumar,rohan.kumar189@yahoo.com,+91-8921780554,Delhi,Home & Kitchen,LED Lamp,3,3737.87,5.0,10652.93,2024-07-20,Debit Card,In-Store,5.0
+10509,116,Arjun,Nair,arjun.nair116@gmail.co,+91-8316620318,Chennai,Home & Kitchen,Non-stick Pan,1,1979.21,0.0,1979.21,15-Aug-2024,Debit Card,Online,
+10167,64,Rahul,Desai,rahul.desai64@outlook.com,+91-8110935906,DELHI,Electronics,Smartphone Case,3,2520.62,15.0,6427.58,01/04/2025,COD,Online ,2.0
+10541,197,Suresh,Rao,suresh.rao197@gmail.com,+91-8811792265,Delhi,Beauty,Shampoo,5,2762.92,20.0,11051.68,2025/05/19,NetBanking,In-Store,
+10072,158,Amit,Reddy,amit.reddy158@yahoo.com,+91-9661745020,Pune,Electronics,USB Cable,5,1437.82,,7189.1,2025/08/15,Cash on Delivery,Online,4.0
+10907,249,Divya,Pillai,divya.pillai249@gmail.co,+91-8733941624,delhi,Beauty,Moisturizer,1,682.65,10.0,614.38,2025/01/14,Net Banking,Online,1.0
+10906,243,Ritu,Singh,ritu.singh243@gmial.com,+91-9063088799,Jaipur,Grocery,Basmati Rice 5kg,5,1837.04,,9185.2,17-Aug-2024,Cash on Delivery,online,4.0
+10637,264,Kavya,Pillai,KAVYA.PILLAI264@OUTLOOK.COM,+91-8445859871,Chennai,Grocery,Almonds 500g,4,1868.68,0.0,7474.72,2025/02/15,Cash on Delivery,online,2.0
+10994,21,Rohan,Gupta,rohan.gupta21@gmail.com,+91-8489870323,Delhi,Apparel,Cotton T-Shirt,2,4893.25,15.0,8318.52,29-Aug-2024,Debit Card,Online ,3.0
+10927,271,Rohan,Chopra,rohan.chopra271@yahoo.com,+91-8623875245,DELHI,Electronics,USB Cable,1,1418.8,,1418.8,21/09/2024,NetBanking,In store,4.0
+10005,292,Divya,Singh,divya.singh292@gmial.com,7171200764,Bombay,Home & Kitchen,LED Lamp,1,2423.19,,2423.19,07-Nov-2024,Net Banking,Online ,4.0
+10340,257,Suresh,Mehta,suresh.mehta257@gmail.com,+91-8966554388,Delhi,Grocery,Basmati Rice 5kg,5,3592.65,15.0,15268.76,06-29-2025,COD,Online ,2.0
+10695,41,  Sanjay ,Chopra,sanjay.chopra41@gmial.com,+91-7126978869,Bengaluru,Beauty,Shampoo,3,553.0,15.0,1410.15,06-26-2025,Net Banking,online,3.0
+10715,227,Manish,Kumar,,+91-9026690440,Jaipur,Home & Kitchen,Cushion Cover,1,1088.94,10.0,980.05,21/04/2024,Cash on Delivery,online,2.0
+10378,249,Divya,Pillai,divya.pillai249@gmial.com,+91-7603701279,delhi,Electronics,Wireless Earbuds,1,1672.44,0.0,1672.44,2024-11-01,UPI ,online,4.0
+10448,186,Rahul,Joshi,rahul.joshi186@gmail.co,+91-8545798406,Ahmedabad,Electronics,Wireless Earbuds,3,295.59,5.0,842.43,27/04/2024,Net Banking,In store,1.0
+10652,7,Suresh,Saxena,suresh.saxena7@gmail.com,+91-9955238301,Delhi,Electronics,Wireless Earbuds,1,2582.27,10.0,2324.04,2025-05-11,UPI,online,4.0
+11054,121,Rahul,Desai,rahul.desai121@outlook.com,+91-9363655643,Bengaluru,Grocery,Green Tea Pack,3,3301.9,,9905.7,,NetBanking,Online,3.0
+10501,46,Rahul,Malhotra,rahul.malhotra46@gmail.com,+91-9754832073,Pune,Beauty,Sunscreen SPF50,2,3216.82,0.0,6433.64,03-31-2025,Credit Card,Online,
+10805,175,Divya,Kapoor,divya.kapoor175@gmial.com,+91-8401020981,Kolkata,Home & Kitchen,Electric Kettle,3,2891.84,15.0,7374.19,2025-04-29,Credit Card,In store,4.0
+11078,133,Arjun,Reddy,arjun.reddy133@yahoo.com,+91-8991557399,delhi,Beauty,Shampoo,3,305.15,,915.45,2024-10-16,COD,Online,
+10095,292,Divya,Singh,divya.singh292@yahoo.com,+91-9347398593,,Apparel,Formal Shirt,3,1398.03,15.0,3564.98,15-May-2025,COD,In-Store,
+10096,31,  Meera ,Nair,meera.nair31@gmail.com,+91-7039262289,delhi,Grocery,Basmati Rice 5kg,1,4734.16,5.0,4497.45,2024-02-19,UPI ,In-Store,4.0
+10309,270,Arjun,Patel,arjun.patel270@gmail.co,8475519583,Hyderabad,Home & Kitchen,LED Lamp,1,2688.28,10.0,2419.45,31/03/2024,COD,Online,
+10747,131,Meera,Kumar,meera.kumar131@gmail.com,+91-9591222771,Chennai,Electronics,Smartwatch,5,2215.67,0.0,11078.35,21-Jun-2024,Net Banking,In-Store,5.0
+10490,42,Vikram,Agarwal,vikram.agarwal42@yahoo.com,+91-9456260112,Hyderabad,Home & Kitchen,LED Lamp,5,4936.33,5.0,23447.57,12-Apr-2024,Net Banking,Online ,
+10603,155,Priya,Bhatt,,+91-9232620908,Bengaluru,Home & Kitchen,Non-stick Pan,5,3174.77,0.0,15873.85,2024-07-24,Debit Card,Online,2.0
+10059,266,Rahul,Iyer,rahul.iyer266@gmial.com,+91-7582949109,Hyderabad,Beauty,Shampoo,1,1419.62,10.0,1277.66,23-Sep-2024,Cash on Delivery,Online ,2.0
+11147,6,Rahul,Reddy,rahul.reddy6@outlook.com,+91-7904560414,Bengaluru,Beauty,Sunscreen SPF50,1,3913.14,0.0,3913.14,12-21-2024,Cash on Delivery,Online,1.0
+10326,167,Nisha,Agarwal,nisha.agarwal167@gmail.com,+91-8783074271,Mumbai,Electronics,Smartwatch,1,1709.71,0.0,1709.71,2024-08-06,UPI,online,3.0
+10518,56,Rohan,Kumar,rohan.kumar56@yahoo.com,+91-7574152646,Kolkata,Beauty,Sunscreen SPF50,1,828.39,0.0,828.39,2025-03-20,credit card,In-Store,4.0
+10025,290,Ritu,Iyer,ritu.iyer290@outlook.com,+91-7621430136,mumbai,Apparel,Cotton T-Shirt,2,2993.96,0.0,5987.92,08-26-2024,UPI,Online ,3.0
+11055,162,Meera,Mehta,meera.mehta162@outlook.com,+91-8198071243,Delhi,Electronics,Wireless Earbuds,1,1113.0,0.0,1113.0,18-Jan-2024,UPI ,In-Store,5.0
+10245,46,Rahul,Malhotra,rahul.malhotra46@outlook.com,+91-9298232225,Pune,Beauty,Lipstick,3,2149.19,0.0,6447.57,06-08-2024,Credit Card,Online,1.0
+10026,14,Arjun,Singh,arjun.singh14@outlook.com,8808011838,Mumbai,Apparel,Cotton T-Shirt,3,3981.43,0.0,11944.29,2024/08/31,credit card,Online,
+10223,296,Karan,Verma,karan.verma296@yahoo.com,+91-9514145814,Delhi,Grocery,Basmati Rice 5kg,1,1968.89,0.0,1968.89,07-29-2024,UPI ,online,5.0
+10604,259,Kavya,Chopra,kavya.chopra259@gmail.co,+91-9631784386,delhi,Beauty,Sunscreen SPF50,1,4641.32,5.0,4409.25,03-Nov-2024,COD,In-Store,
+10106,142,Vikram,Desai,,+91-8308496151,Delhi,Beauty,Lipstick,5,3945.93,5.0,18743.17,01-04-2025,Cash on Delivery,In store,1.0
+11087,234,Rohan,Rao,rohan.rao234@outlook.com,+91-7199399060,Kolkata,Home & Kitchen,Cushion Cover,5,1717.9,20.0,6871.6,02/08/2025,Debit Card,In-Store,4.0
+10131,292,Divya,Singh,divya.singh292@yahoo.com,7259711746,Bombay,Beauty,Lipstick,1,3849.22,10.0,3464.3,2024-03-15,Debit Card,Online,4.0
+10154,198,Meera,Nair,meera.nair198@gmail.com,+91-9482729424,Bombay,Beauty,Sunscreen SPF50,1,4440.08,20.0,3552.06,19-May-2025,credit card,Online ,4.0
+11080,110,Rahul,Nair,rahul.nair110@gmail.co,+91-7748451387,Pune,Beauty,Face Wash,2,462.39,15.0,786.06,07-09-2025,Debit Card,In-Store,
+11144,147,Neha,Singh,neha.singh147@yahoo.com,+91-8574589497,Kolkata,Electronics,Power Bank,2,1063.37,0.0,2126.74,02-08-2024,Cash on Delivery,online,1.0
+10871,248,Sneha,Pillai,sneha.pillai248@outlook.com,+91-8598227684,Delhi,Electronics,Smartphone Case,5,4588.4,,22942.0,18-Jun-2024,Debit Card,Online,
+10569,114,Ajay,Pillai,ajay.pillai114@yahoo.com,+91-9741849428,Ahmedabad,Home & Kitchen,Electric Kettle,2,3672.62,0.0,7345.24,01-22-2025,Credit Card,online,2.0
+10076,149,Vikram,Nair,vikram.nair149@gmail.co,+91-9413849014,Bombay,Electronics,Bluetooth Speaker,1,1829.86,5.0,1738.37,03-28-2025,COD,In-Store,5.0
+11112,76,Amit,Gupta,amit.gupta76@yahoo.com,+91-7014625643,mumbai,Apparel,Formal Shirt,5,2346.89,20.0,9387.56,14-Aug-2025,UPI ,online,2.0
+11071,94,Meera,Singh,meera.singh94@outlook.com,+91-7650189042,Delhi,Electronics,Power Bank,2,1184.68,5.0,2250.89,03-Jan-2025,Net Banking,Online ,4.0
+10923,76,Amit,Gupta,AMIT.GUPTA76@GMAIL.CO,+91-7182363611,mumbai,Grocery,Honey Jar,5,1542.84,10.0,6942.78,2025-06-18,UPI,In-Store,5.0
+10317,112,Ajay,Saxena,ajay.saxena112@outlook.com,+91-9836730724,,Grocery,Basmati Rice 5kg,1,568.97,0.0,568.97,13-May-2024,UPI,Online,2.0
+10986,288,Sneha,Desai,sneha.desai288@gmail.co,+91-9876701353,DELHI,Home & Kitchen,LED Lamp,1,1987.71,0.0,1987.71,2025-08-07,credit card,In-Store,
+10743,78,Priya,Mehta,priya.mehta78@gmail.co,+91-9046748738,Mumbai,Grocery,Honey Jar,4,4312.73,20.0,13800.74,2024-10-12,UPI ,online,
+10200,21,Rohan,Gupta,rohan.gupta21@outlook.com,+91-7789711774,Delhi,Apparel,Hoodie,1,3902.26,0.0,3902.26,04-Nov-2024,NetBanking,online,
+10862,189,Rohan,Kumar,,+91-7583704324,Delhi,Grocery,Green Tea Pack,5,1342.08,0.0,6710.4,2024-06-28,Cash on Delivery,In-Store,1.0
+10135,234,Rohan,Rao,rohan.rao234@gmail.com,+91-9895325210,Kolkata,Grocery,Green Tea Pack,1,2573.11,10.0,2315.8,03/08/2025,credit card,In-Store,2.0
+10327,298,Vikram,Bhatt,vikram.bhatt298@gmail.com,7382858698,Mumbai,Electronics,Smartphone Case,1,3986.6,0.0,3986.6,20/01/2025,Credit Card,In store,5.0
+10260,296,Karan,Verma,karan.verma296@yahoo.com,+91-9576618444,Delhi,Home & Kitchen,LED Lamp,4,4431.7,15.0,15067.78,19/06/2024,NetBanking,In store,
+10973,55,Divya,Agarwal,divya.agarwal55@gmail.com,+91-9094949233,Jaipur,Grocery,Almonds 500g,3,1924.15,15.0,4906.58,2025/05/16,Net Banking,In store,5.0
+10004,233,Karan,Malhotra,karan.malhotra233@yahoo.com,+91-7610900200,Kolkata,Electronics,Smartwatch,2,4630.97,5.0,8798.84,21-Jul-2024,Debit Card,Online ,2.0
+10849,64,Rahul,Desai,rahul.desai64@gmail.co,+91-7855514602,DELHI,Beauty,Shampoo,4,165.85,10.0,597.06,07-12-2024,COD,In store,5.0
+10211,224,Kavya,Bhatt,kavya.bhatt224@outlook.com,+91-7467432617,Delhi,Home & Kitchen,Storage Container Set,1,3445.96,15.0,2929.07,05-Dec-2024,COD,In store,3.0
+10197,152,  Arjun ,Kapoor,ARJUN.KAPOOR152@YAHOO.COM,+91-9989849148,DELHI,Apparel,Sports Shoes,1,1889.61,20.0,1511.69,2025-04-08,NetBanking,In-Store,5.0
+11044,252,Neha,Singh,neha.singh252@gmial.com,+91-7823036653,mumbai,Grocery,Basmati Rice 5kg,5,2276.18,0.0,11380.9,11/02/2025,Cash on Delivery,online,
+10537,198,Meera,Nair,meera.nair198@yahoo.com,+91-8210383091,Bombay,Apparel,Hoodie,2,1245.54,0.0,2491.08,2025-01-28,COD,In-Store,5.0
+10592,49,Amit,Singh,amit.singh49@outlook.com,+91-8514518762,delhi,Electronics,Bluetooth Speaker,3,2345.19,10.0,6332.01,2024/12/25,Net Banking,In store,5.0
+10027,186,Rahul,Joshi,rahul.joshi186@gmial.com,+91-7133790981,Ahmedabad,Grocery,Honey Jar,1,2342.23,10.0,2108.01,2024/08/14,Credit Card,Online ,1.0
+11090,188,Neha,Joshi,neha.joshi188@outlook.com,+91-7350267603,,Grocery,Basmati Rice 5kg,4,666.12,15.0,2264.81,2024/04/24,UPI ,In-Store,5.0
+10902,59,Arjun,Bhatt,arjun.bhatt59@yahoo.com,+91-7172684301,Delhi,Beauty,Shampoo,2,3771.91,0.0,7543.82,2024/05/11,UPI,Online ,4.0
+11131,231,Kavya,Kumar,kavya.kumar231@outlook.com,8746789163,Bombay,Home & Kitchen,Non-stick Pan,4,4108.65,10.0,14791.14,01-29-2025,UPI ,Online,4.0
+10595,63,Rahul,Bhatt,rahul.bhatt63@gmail.co,+91-9679179683,Bombay,Beauty,Sunscreen SPF50,3,1548.78,0.0,4646.34,09-Jan-2024,UPI,In store,
+10062,239,Neha,Gupta,neha.gupta239@gmail.co,+91-7237996376,DELHI,Grocery,Green Tea Pack,1,4408.11,20.0,3526.49,2025/07/18,UPI,In-Store,2.0
+10723,211,Meera,Gupta,meera.gupta211@gmail.co,+91-7137799781,Bangalore,Beauty,Sunscreen SPF50,5,4020.77,0.0,20103.85,2025-06-25,NetBanking,online,
+11032,93,Rahul,Rao,rahul.rao93@gmail.com,+91-8814547042,DELHI,Electronics,Smartwatch,5,4974.22,0.0,24871.1,09-Sep-2024,Credit Card,online,1.0
+10984,33,Priya,Mehta,priya.mehta33@gmail.com,+91-9231624631,Pune,Apparel,Denim Jeans,1,4411.52,20.0,3529.22,01-08-2024,Debit Card,Online,4.0
+10682,193,Sanjay,Bhatt,sanjay.bhatt193@gmial.com,+91-9294007227,Pune,Beauty,Moisturizer,1,2029.73,10.0,1826.76,,UPI ,online,2.0
+10638,182,Ajay,Saxena,AJAY.SAXENA182@GMAIL.CO,+91-9187744636,delhi,Beauty,Sunscreen SPF50,5,3742.38,0.0,18711.9,03-22-2025,COD,In-Store,2.0
+10780,291,Ajay,Agarwal,ajay.agarwal291@outlook.com,+91-8661152212,Jaipur,Electronics,Smartphone Case,1,2883.65,20.0,2306.92,2024-03-16,COD,Online ,
+10598,205,Ritu,Rao,ritu.rao205@yahoo.com,+91-8788047722,Chennai,Electronics,Bluetooth Speaker,2,3045.64,0.0,6091.28,2024/06/26,UPI ,online,
+10574,144,Vikram,Kapoor,vikram.kapoor144@gmail.co,+91-8369015196,Bangalore,Beauty,Face Wash,2,953.42,20.0,1525.47,29-Jul-2024,UPI ,In store,2.0
+10458,161,Suresh,Malhotra,suresh.malhotra161@gmail.co,+91-8312421466,delhi,Apparel,Formal Shirt,4,1166.49,0.0,4665.96,2025/04/05,Credit Card,online,1.0
+10926,209,Rahul,Joshi,rahul.joshi209@yahoo.com,8150238140,Bengaluru,Apparel,Denim Jeans,4,3070.2,0.0,12280.8,25-Jul-2025,credit card,Online,1.0
+10886,293,Rohan,Joshi,rohan.joshi293@gmial.com,+91-9279523050,Bengaluru,Apparel,Hoodie,2,2328.97,10.0,4192.15,2024-11-03,Cash on Delivery,Online ,4.0
+10009,148,Meera,Kapoor,meera.kapoor148@gmail.co,+91-7965081954,Jaipur,Beauty,Sunscreen SPF50,1,290.02,0.0,290.02,02/09/2024,Net Banking,Online ,2.0
+10979,144,  Vikram ,Kapoor,vikram.kapoor144@gmail.co,+91-8562121534,Bangalore,Home & Kitchen,Electric Kettle,1,2539.65,15.0,2158.7,2024/12/11,credit card,online,5.0
+10667,178,Sanjay,Patel,sanjay.patel178@gmail.co,+91-9517660041,Jaipur,Beauty,Moisturizer,2,2004.92,15.0,3408.36,2024-07-02,Cash on Delivery,In store,5.0
+11173,190,Priya,Nair,priya.nair190@gmail.com,+91-9006131487,Hyderabad,Grocery,Cooking Oil 1L,1,3228.8,5.0,3067.36,2025/07/05,Debit Card,online,
+10649,210,Karan,Mehta,karan.mehta210@gmial.com,+91-7234648513,Kolkata,Electronics,USB Cable,3,1418.79,20.0,3405.1,21-Nov-2024,UPI ,In store,5.0
+10658,280,Neha,Malhotra,neha.malhotra280@gmial.com,+91-8613559300,mumbai,Beauty,Lipstick,2,1710.91,0.0,3421.82,2025/05/09,NetBanking,Online,3.0
+10820,288,  Sneha ,Desai,sneha.desai288@gmail.com,+91-7000040734,DELHI,Grocery,Green Tea Pack,2,526.72,0.0,1053.44,2024-04-19,Credit Card,Online ,5.0
+11118,82,Ritu,Nair,ritu.nair82@outlook.com,+91-9377788470,DELHI,Apparel,Formal Shirt,1,628.55,0.0,628.55,2025-05-18,UPI,In store,4.0
+10075,148,Meera,Kapoor,meera.kapoor148@gmail.co,+91-8630774093,Jaipur,Apparel,Jacket,5,1687.65,0.0,8438.25,2024/12/23,Net Banking,online,4.0
+10564,279,Amit,Gupta,amit.gupta279@gmial.com,+91-7491778504,Chennai,Electronics,Smartwatch,5,2591.3,5.0,12308.67,02-03-2024,UPI ,In-Store,4.0
+11020,24,Karan,Rao,karan.rao24@outlook.com,+91-7393005429,delhi,Beauty,Sunscreen SPF50,3,2445.38,0.0,7336.14,05/04/2024,Cash on Delivery,In store,2.0
+10058,79,Suresh,Nair,SURESH.NAIR79@GMIAL.COM,+91-8196963451,Chennai,Beauty,Lipstick,3,2303.11,15.0,5872.93,2024/03/19,UPI,Online ,4.0
+11028,254,Sneha,Pillai,sneha.pillai254@outlook.com,9436188489,DELHI,Apparel,Hoodie,1,3138.96,10.0,2825.06,03-15-2025,Credit Card,In-Store,4.0
+10479,154,Sneha,Malhotra,sneha.malhotra154@gmial.com,+91-9414381943,Bombay,Grocery,Honey Jar,1,2831.33,10.0,2548.2,06-28-2024,UPI ,In store,
+10298,26,Pooja,Reddy,pooja.reddy26@outlook.com,+91-7851035458,delhi,Electronics,Power Bank,1,567.68,15.0,482.53,05/02/2025,COD,Online ,
+10955,243,Ritu,Singh,ritu.singh243@gmail.com,+91-7852290085,Jaipur,Beauty,Face Wash,1,2892.29,10.0,2603.06,03-09-2024,Credit Card,In store,4.0
+10218,211,Meera,Gupta,meera.gupta211@gmail.com,+91-7773255350,Bangalore,Electronics,Smartphone Case,1,770.24,0.0,770.24,13/06/2024,NetBanking,Online,
+10713,227,Manish,Kumar,manish.kumar227@outlook.com,+91-9208473199,Jaipur,Apparel,Sports Shoes,5,4962.35,0.0,24811.75,14-Sep-2024,Net Banking,In store,5.0
+10669,233,Karan,Malhotra,karan.malhotra233@gmail.co,+91-7657953558,Kolkata,Beauty,Moisturizer,5,3787.19,0.0,18935.95,2025-07-12,Credit Card,online,3.0
+10345,230,Amit,Gupta,amit.gupta230@outlook.com,+91-9345677415,delhi,Grocery,Cooking Oil 1L,2,739.23,,1478.46,26-Jan-2024,COD,In-Store,
+10714,128,Meera,Joshi,meera.joshi128@gmail.co,+91-7700641785,delhi,Home & Kitchen,Storage Container Set,2,3185.72,15.0,5415.72,24/04/2024,COD,Online,3.0
+10481,198,Meera,Nair,MEERA.NAIR198@GMAIL.COM,+91-8821239360,Bombay,Grocery,Cooking Oil 1L,2,3850.31,15.0,6545.53,09-18-2024,NetBanking,In store,4.0
+10940,29,  Neha ,Patel,neha.patel29@gmail.com,+91-7914198611,Hyderabad,Grocery,Cooking Oil 1L,3,2044.36,,6133.08,2024-03-31,UPI ,In-Store,2.0
+10755,208,Neha,Iyer,neha.iyer208@gmail.co,+91-7353096152,Hyderabad,Home & Kitchen,Electric Kettle,3,2734.21,10.0,7382.37,10/02/2025,UPI ,Online,5.0
+11041,28,Anjali,Desai,anjali.desai28@gmail.co,+91-9286167917,mumbai,Apparel,Sports Shoes,2,1259.72,15.0,2141.52,05-05-2025,Cash on Delivery,In store,1.0
+10703,274,Amit,Agarwal,amit.agarwal274@gmial.com,+91-9197132176,Bengaluru,Electronics,Power Bank,5,4164.61,15.0,17699.59,03-02-2024,UPI ,Online,
+10869,264,Kavya,Pillai,kavya.pillai264@yahoo.com,+91-7843249180,Chennai,Electronics,Smartwatch,1,4993.43,10.0,4494.09,06-Jun-2024,credit card,In store,2.0
+10958,87,Priya,Singh,priya.singh87@gmial.com,+91-7227204294,Delhi,Grocery,Green Tea Pack,1,833.13,0.0,833.13,02-09-2025,NetBanking,Online,4.0
+10267,67,Karan,Agarwal,karan.agarwal67@yahoo.com,8847118259,Bombay,Apparel,Formal Shirt,2,2516.13,5.0,4780.65,,NetBanking,Online ,5.0
+10007,47,Nisha,Rao,nisha.rao47@outlook.com,+91-8719929315,Ahmedabad,Beauty,Lipstick,4,1766.55,,7066.2,17/04/2024,credit card,In store,
+10818,263,Meera,Bhatt,meera.bhatt263@yahoo.com,+91-8302966838,Hyderabad,Beauty,Moisturizer,1,696.56,10.0,626.9,2025-01-31,Cash on Delivery,In-Store,5.0
+10123,48,Karan,Desai,karan.desai48@gmail.com,+91-8969024554,Bombay,Beauty,Shampoo,2,3519.31,0.0,7038.62,12-Jan-2025,COD,online,5.0
+11050,141,Sneha,Gupta,sneha.gupta141@yahoo.com,+91-7875035550,mumbai,Beauty,Moisturizer,2,1977.68,10.0,3559.82,2024-02-07,NetBanking,In store,
+10139,5,Kavya,Verma,kavya.verma5@gmial.com,+91-7257247382,Delhi,Home & Kitchen,Non-stick Pan,4,4267.68,5.0,16217.18,2024-11-10,Cash on Delivery,Online ,3.0
+10164,122,Suresh,Iyer,suresh.iyer122@outlook.com,+91-9990082548,Bangalore,Electronics,Smartwatch,5,4616.05,10.0,20772.23,2025-01-16,credit card,online,2.0
+10734,241,Rohan,Sharma,rohan.sharma241@yahoo.com,+91-8497510805,,Electronics,Smartwatch,1,4580.85,0.0,4580.85,2024/02/17,UPI ,Online ,4.0
+10549,289,Anjali,Reddy,anjali.reddy289@gmail.co,+91-8677791629,Bengaluru,Beauty,Face Wash,1,1675.71,20.0,1340.57,2024-11-12,credit card,online,5.0
+11073,153,Neha,Iyer,neha.iyer153@gmial.com,+91-9662341262,Bangalore,Beauty,Moisturizer,1,1754.61,0.0,1754.61,24-Feb-2024,COD,online,5.0
+10044,270,Arjun,Patel,arjun.patel270@outlook.com,+91-9088517710,Hyderabad,Electronics,Smartwatch,4,2616.17,5.0,9941.45,01-19-2024,Net Banking,In-Store,4.0
+10779,34,KARAN,Gupta,karan.gupta34@gmail.com,+91-7025347201,Bengaluru,Beauty,Shampoo,1,3150.14,0.0,3150.14,06-22-2024,credit card,Online,4.0
+11057,116,Arjun,Nair,arjun.nair116@gmail.com,+91-7064615191,Chennai,Home & Kitchen,Non-stick Pan,5,2777.02,,13885.1,12-Apr-2024,Net Banking,Online ,5.0
+10320,229,Ajay,Pillai,ajay.pillai229@outlook.com,+91-9468061102,delhi,Electronics,Power Bank,1,3316.4,0.0,3316.4,2024-01-01,UPI ,online,1.0
+10801,88,Sanjay,Mehta,sanjay.mehta88@gmial.com,+91-8655985488,DELHI,Electronics,Smartwatch,3,2137.2,,6411.6,04-17-2025,UPI ,In store,4.0
+10796,42,Vikram,Agarwal,vikram.agarwal42@outlook.com,+91-7827376419,Hyderabad,Apparel,Cotton T-Shirt,1,168.63,20.0,134.9,26/08/2024,Credit Card,Online,
+10452,34,Karan,Gupta,karan.gupta34@yahoo.com,+91-8605796870,Bengaluru,Apparel,Sports Shoes,4,3793.84,,15175.36,06-05-2025,COD,Online ,
+10295,236,KAVYA,Iyer,kavya.iyer236@gmail.com,+91-9830315936,Bombay,Beauty,Shampoo,1,169.93,,169.93,2024/02/15,Debit Card,online,5.0
+10588,128,Meera,Joshi,,+91-7972659812,,Electronics,Smartphone Case,1,407.72,0.0,407.72,2024/02/06,Net Banking,In-Store,4.0
+10559,48,Karan,Desai,karan.desai48@gmial.com,+91-9975989014,Bombay,Beauty,Lipstick,2,947.99,0.0,1895.98,23-Dec-2024,COD,In store,4.0
+11021,139,Manish,Desai,manish.desai139@gmail.com,+91-9529055771,mumbai,Apparel,Sports Shoes,4,2864.49,,11457.96,31/05/2025,COD,In store,5.0
+10507,234,Rohan,Rao,rohan.rao234@yahoo.com,+91-9420824631,Kolkata,Electronics,Bluetooth Speaker,4,4709.97,10.0,16955.89,2024/05/26,Cash on Delivery,Online,
+10020,188,Neha,Joshi,neha.joshi188@gmial.com,+91-7604546780,Bengaluru,Grocery,Honey Jar,2,4177.79,0.0,8355.58,20-Sep-2024,Net Banking,online,4.0
+10519,102,Ritu,Kumar,ritu.kumar102@gmail.co,+91-8670091632,Bengaluru,Beauty,Lipstick,1,2192.31,20.0,1753.85,17-Jul-2025,UPI,online,3.0
+10474,7,Suresh,Saxena,suresh.saxena7@outlook.com,+91-7867634019,Delhi,Apparel,Cotton T-Shirt,1,1647.92,0.0,1647.92,14/03/2025,Debit Card,Online,3.0
+10675,297,Meera,Joshi,meera.joshi297@gmial.com,+91-9929243938,mumbai,Home & Kitchen,Storage Container Set,5,4173.08,5.0,19822.13,2024-06-23,UPI ,In-Store,5.0
+10700,12,Kavya,Mehta,kavya.mehta12@gmail.co,+91-7829064294,Chennai,Home & Kitchen,Cushion Cover,2,957.33,20.0,1531.73,2025-04-28,credit card,Online,3.0
+11056,39,Meera,Desai,meera.desai39@gmail.com,+91-8687867928,Chennai,Home & Kitchen,Non-stick Pan,1,2264.17,0.0,2264.17,03-Feb-2025,Net Banking,Online,5.0
+10410,117,Sanjay,Kumar,sanjay.kumar117@yahoo.com,+91-9213572221,delhi,Electronics,USB Cable,2,2508.87,10.0,4515.97,12-14-2024,Credit Card,Online ,2.0
+11102,263,Meera,Bhatt,meera.bhatt263@outlook.com,+91-7363506235,Hyderabad,Electronics,USB Cable,5,4753.35,5.0,22578.41,2024/04/10,UPI ,In-Store,4.0
+10138,156,Rohan,Rao,rohan.rao156@gmail.com,+91-7102693781,Kolkata,Grocery,Cooking Oil 1L,5,1936.13,0.0,9680.65,20/05/2025,NetBanking,In-Store,4.0
+11038,151,Amit,Patel,amit.patel151@outlook.com,+91-8675653639,mumbai,Apparel,Formal Shirt,4,4827.02,0.0,19308.08,04-May-2025,Net Banking,In store,1.0
+10527,282,Ajay,Chopra,ajay.chopra282@gmial.com,+91-9164102717,Hyderabad,Home & Kitchen,Cushion Cover,3,4490.33,,13470.99,2025-04-04,UPI ,Online,1.0
+10186,67,Karan,Agarwal,karan.agarwal67@gmail.com,+91-9911682538,Bombay,Beauty,Sunscreen SPF50,1,4454.83,15.0,3786.61,2025-03-27,Debit Card,online,
+10972,173,Arjun,Saxena,arjun.saxena173@yahoo.com,+91-9611071970,Kolkata,Beauty,Moisturizer,3,2037.02,5.0,5805.51,12/08/2025,UPI ,Online ,5.0
+11141,168,Sanjay,Pillai,sanjay.pillai168@yahoo.com,+91-7788415032,Bengaluru,Beauty,Sunscreen SPF50,2,560.51,0.0,1121.02,2024/08/16,NetBanking,online,4.0
+11158,163,Sneha,Iyer,sneha.iyer163@outlook.com,+91-7075320263,Bangalore,Beauty,Moisturizer,2,1047.18,0.0,2094.36,24-May-2025,credit card,In-Store,4.0
+10873,27,Karan,Gupta,karan.gupta27@gmial.com,+91-7423471891,Jaipur,Grocery,Green Tea Pack,2,666.51,5.0,1266.37,2024/05/31,Cash on Delivery,In-Store,
+11169,214,Kavya,Kapoor,kavya.kapoor214@gmial.com,+91-7975552068,Kolkata,Grocery,Cooking Oil 1L,1,439.26,,439.26,2025/02/11,UPI ,In-Store,3.0
+10508,223,  Ritu ,Nair,ritu.nair223@gmail.com,+91-7382141089,Chennai,Beauty,Face Wash,2,525.99,20.0,841.58,2024/05/07,Debit Card,Online ,5.0
+10328,65,Vikram,Kumar,vikram.kumar65@gmail.co,+91-9147001030,delhi,Apparel,Denim Jeans,2,2686.97,0.0,5373.94,25/02/2025,UPI,Online ,2.0
+10318,219,Ajay,Malhotra,ajay.malhotra219@gmail.com,+91-8136726892,Hyderabad,Home & Kitchen,Storage Container Set,1,3936.55,15.0,3346.07,2024-10-10,UPI ,In store,3.0
+10838,269,Amit,Bhatt,amit.bhatt269@gmail.com,8128612508,Bombay,Home & Kitchen,Cushion Cover,1,2180.33,20.0,1744.26,02-04-2024,UPI ,Online ,5.0
+10975,108,Suresh,Gupta,suresh.gupta108@gmail.com,+91-7745218312,Bombay,Beauty,Lipstick,1,1727.44,5.0,1641.07,2025-04-09,credit card,online,5.0
+10722,161,Suresh,Malhotra,suresh.malhotra161@yahoo.com,+91-8112507433,delhi,Home & Kitchen,LED Lamp,2,1043.08,15.0,1773.24,24/04/2025,COD,online,5.0
+10732,5,Kavya,Verma,kavya.verma5@outlook.com,+91-8781880445,Delhi,Apparel,Sports Shoes,1,830.07,5.0,788.57,2025-04-26,Credit Card,Online ,3.0
+10800,186,Rahul,Joshi,rahul.joshi186@gmial.com,+91-9100614636,Ahmedabad,Grocery,Basmati Rice 5kg,2,3676.67,15.0,6250.34,22-Nov-2024,credit card,In store,5.0
+10472,109,Anjali,Gupta,anjali.gupta109@yahoo.com,+91-9572123185,Jaipur,Beauty,Moisturizer,1,3341.11,0.0,3341.11,2024/10/12,credit card,Online,
+10484,74,Amit,Pillai,amit.pillai74@gmail.com,+91-8794607451,Ahmedabad,Home & Kitchen,Electric Kettle,4,3540.19,0.0,14160.76,07/01/2024,COD,Online,
+10786,289,Anjali,Reddy,anjali.reddy289@yahoo.com,+91-7560729808,Bengaluru,Apparel,Jacket,4,2939.09,,11756.36,21/07/2024,UPI ,online,
+10149,122,Suresh,Iyer,suresh.iyer122@gmial.com,+91-7754010571,Bangalore,Grocery,Green Tea Pack,3,4582.8,5.0,13060.98,01-29-2024,UPI,Online ,
+10489,128,Meera,Joshi,meera.joshi128@gmail.com,+91-8398120064,delhi,Home & Kitchen,LED Lamp,5,2647.33,15.0,11251.15,2024-07-11,credit card,Online,
+11000,5,Kavya,Verma,kavya.verma5@outlook.com,+91-8503132592,Delhi,Grocery,Green Tea Pack,1,878.12,5.0,834.21,20-Oct-2024,UPI,Online,4.0
+10709,101,Kavya,Desai,kavya.desai101@gmail.com,+91-7424514631,delhi,Home & Kitchen,LED Lamp,5,2911.63,15.0,12374.43,2024/01/13,Cash on Delivery,In-Store,5.0
+11185,191,Nisha,Gupta,nisha.gupta191@gmial.com,+91-9857292083,Hyderabad,Electronics,Wireless Earbuds,2,1466.21,0.0,2932.42,10-29-2024,Net Banking,In-Store,5.0
+11167,264,Kavya,Pillai,kavya.pillai264@gmail.com,8493942204,Chennai,Apparel,Cotton T-Shirt,1,426.51,0.0,426.51,18-Mar-2025,UPI ,Online,4.0
+10366,28,  Anjali ,Desai,anjali.desai28@gmail.co,+91-7328639113,mumbai,Electronics,Power Bank,1,4864.55,10.0,4378.1,2025/01/26,credit card,In-Store,
+10913,251,Rohan,Gupta,rohan.gupta251@gmail.com,+91-8498766660,Jaipur,Apparel,Formal Shirt,3,635.45,10.0,1715.72,2025/05/30,Cash on Delivery,Online ,5.0
+10531,282,Ajay,Chopra,AJAY.CHOPRA282@YAHOO.COM,+91-8201258571,Hyderabad,Home & Kitchen,Electric Kettle,4,4506.93,15.0,15323.56,10-28-2024,Credit Card,Online,3.0
+10821,50,Meera,Iyer,meera.iyer50@gmail.com,+91-7150292711,DELHI,Electronics,Bluetooth Speaker,2,3281.99,20.0,5251.18,03-09-2025,Debit Card,online,2.0
+10816,107,Suresh,Patel,suresh.patel107@gmial.com,+91-9303090267,Delhi,Apparel,Sports Shoes,5,184.69,0.0,923.45,2024/03/23,credit card,Online ,1.0
+10953,151,Amit,Patel,amit.patel151@gmial.com,+91-7216033305,mumbai,Grocery,Basmati Rice 5kg,-3,413.47,,1240.41,21/02/2025,NetBanking,In-Store,5.0
+10570,73,Neha,Gupta,neha.gupta73@gmial.com,+91-8777021820,Kolkata,Home & Kitchen,Storage Container Set,1,599.97,0.0,599.97,05-21-2025,Cash on Delivery,In store,2.0
+10233,62,Neha,Pillai,neha.pillai62@gmial.com,+91-9467541927,Mumbai,Electronics,Smartwatch,5,3127.06,15.0,13290.0,2025-07-08,COD,online,5.0
+10957,113,Nisha,Gupta,nisha.gupta113@yahoo.com,+91-7319270838,Pune,Beauty,Moisturizer,3,791.93,0.0,2375.79,2025/05/22,credit card,In store,
+11186,192,Kavya,Pillai,kavya.pillai192@gmial.com,+91-8827380626,Bengaluru,Apparel,Hoodie,1,1982.47,20.0,1585.98,2024-05-09,credit card,online,3.0
+10813,121,Rahul,Desai,rahul.desai121@gmail.co,8788222144,Bengaluru,Electronics,Bluetooth Speaker,3,1790.07,20.0,4296.17,02-26-2025,Debit Card,In store,4.0
+10591,181,Divya,Reddy,divya.reddy181@gmail.co,+91-8248369039,Pune,Beauty,Shampoo,1,2518.29,0.0,2518.29,10-Sep-2024,Debit Card,Online,4.0
+10159,116,Arjun,Nair,arjun.nair116@gmail.co,+91-7261923195,Chennai,Home & Kitchen,Cushion Cover,1,882.98,20.0,706.38,2024-04-09,credit card,Online ,4.0
+10316,161,Suresh,Malhotra,SURESH.MALHOTRA161@GMIAL.COM,+91-8216751436,delhi,Grocery,Basmati Rice 5kg,1,4183.69,0.0,4183.69,13-Jan-2024,Debit Card,Online ,5.0
+10257,67,Karan,Agarwal,karan.agarwal67@gmial.com,+91-9535323133,Bombay,Apparel,Cotton T-Shirt,2,669.22,20.0,1070.75,2024-07-15,Credit Card,Online ,5.0
+11116,181,Divya,Reddy,divya.reddy181@gmail.com,+91-9034446191,Pune,Apparel,Denim Jeans,1,969.53,0.0,969.53,29/03/2025,Cash on Delivery,Online ,4.0
+10097,248,Sneha,Pillai,sneha.pillai248@gmail.co,+91-7073626894,Delhi,Beauty,Face Wash,1,2731.23,10.0,2458.11,2025-02-25,Credit Card,Online ,
+11184,151,Amit,Patel,amit.patel151@yahoo.com,+91-9760543205,mumbai,Beauty,Sunscreen SPF50,1,2587.87,,2587.87,2025-05-06,Debit Card,Online ,1.0
+10463,295,Amit,Desai,amit.desai295@gmial.com,8714709481,Bangalore,Home & Kitchen,Cushion Cover,2,2587.0,0.0,5174.0,04-14-2025,Cash on Delivery,Online,4.0
+10385,164,  AJAY ,Iyer,AJAY.IYER164@OUTLOOK.COM,+91-8620577172,Delhi,Beauty,Sunscreen SPF50,1,1414.3,20.0,1131.44,12-01-2024,Cash on Delivery,Online,4.0
+11109,159,Arjun,Iyer,arjun.iyer159@gmail.com,9772902112,Bombay,Apparel,Jacket,1,2346.11,0.0,2346.11,26/02/2025,COD,In-Store,2.0
+10178,267,Neha,Rao,neha.rao267@yahoo.com,+91-8732553940,Jaipur,Grocery,Honey Jar,3,2253.28,5.0,6421.85,05-17-2024,COD,online,1.0
+10475,228,Meera,Sharma,meera.sharma228@yahoo.com,+91-8422794986,Pune,Home & Kitchen,Electric Kettle,2,1690.06,0.0,3380.12,2024/02/10,UPI ,online,5.0
+10329,3,Vikram,Singh,vikram.singh3@gmial.com,+91-9831788593,delhi,Grocery,Cooking Oil 1L,2,719.91,5.0,1367.83,2025-06-26,credit card,Online ,4.0
+10315,182,Ajay,Saxena,ajay.saxena182@gmial.com,+91-8038510073,delhi,Beauty,Shampoo,2,1774.59,20.0,2839.34,2024-09-30,Net Banking,Online ,4.0
+10416,279,Amit,Gupta,amit.gupta279@gmail.co,+91-7541190125,Chennai,Grocery,Honey Jar,5,3532.73,0.0,17663.65,18/02/2025,Net Banking,Online,
+10358,10,Manish,Pillai,manish.pillai10@outlook.com,8295558864,Chennai,Beauty,Sunscreen SPF50,1,1102.3,0.0,1102.3,2024/02/03,Credit Card,In store,1.0
+10348,29,Neha,Patel,neha.patel29@outlook.com,+91-8323216479,Hyderabad,Home & Kitchen,LED Lamp,1,3622.42,0.0,3622.42,03-13-2025,UPI ,online,
+10505,128,Meera,Joshi,MEERA.JOSHI128@GMAIL.CO,+91-7901253806,delhi,Home & Kitchen,Non-stick Pan,2,3346.91,15.0,5689.75,31/03/2025,COD,online,2.0
+10299,291,Ajay,Agarwal,ajay.agarwal291@yahoo.com,+91-9649746105,Jaipur,Apparel,Cotton T-Shirt,5,621.73,5.0,2953.22,13-Nov-2024,COD,In-Store,5.0
+11070,264,Kavya,Pillai,kavya.pillai264@outlook.com,+91-7660261334,Chennai,Apparel,Formal Shirt,2,4053.15,0.0,8106.3,2025-07-05,Cash on Delivery,Online,5.0
+11009,272,Karan,Mehta,karan.mehta272@gmail.com,+91-7780506631,Chennai,Home & Kitchen,LED Lamp,2,1117.55,0.0,2235.1,14/02/2025,Debit Card,In-Store,5.0
+10789,241,Rohan,Sharma,rohan.sharma241@gmial.com,+91-9048184216,Jaipur,Home & Kitchen,Electric Kettle,1,3369.77,0.0,3369.77,30-May-2024,Debit Card,Online,3.0
+10706,150,Anjali,Patel,ANJALI.PATEL150@GMAIL.CO,+91-8650240997,Pune,Home & Kitchen,Electric Kettle,2,,0.0,4910.26,03-26-2025,UPI,In-Store,5.0
+10961,264,Kavya,Pillai,kavya.pillai264@gmail.co,+91-9734391601,Chennai,Apparel,Sports Shoes,3,2130.86,,6392.58,12/12/2024,COD,Online,4.0
+10659,86,Kavya,Rao,kavya.rao86@yahoo.com,+91-9349712393,Bombay,Apparel,Formal Shirt,1,339.45,,339.45,10-Mar-2025,UPI,Online ,4.0
+10250,93,Rahul,Rao,rahul.rao93@gmail.com,+91-7403556437,DELHI,Apparel,Hoodie,4,4167.02,5.0,15834.68,04/05/2024,UPI ,In store,
+10844,214,Kavya,Kapoor,kavya.kapoor214@outlook.com,+91-8466656739,Kolkata,Electronics,USB Cable,1,3566.7,20.0,2853.36,2024-05-29,credit card,online,5.0
+10016,90,Rohan,Desai,rohan.desai90@outlook.com,+91-9864059081,Hyderabad,Electronics,USB Cable,4,3155.6,,12622.4,03-Sep-2024,UPI,In-Store,1.0
+11145,144,VIKRAM,Kapoor,VIKRAM.KAPOOR144@GMAIL.CO,+91-9678378017,Bangalore,Beauty,Sunscreen SPF50,3,1028.69,0.0,3086.07,10/12/2024,Cash on Delivery,In-Store,4.0
+10160,244,Rohan,Rao,rohan.rao244@gmail.com,+91-8928610987,mumbai,Grocery,Cooking Oil 1L,5,1599.43,0.0,7997.15,2025-02-08,NetBanking,Online ,3.0
+11095,255,Priya,Chopra,priya.chopra255@gmial.com,+91-7202013059,Ahmedabad,Home & Kitchen,Electric Kettle,1,1331.94,0.0,1331.94,2024-07-17,UPI,Online ,4.0
+10611,90,Rohan,Desai,rohan.desai90@gmial.com,+91-8228744350,Hyderabad,Home & Kitchen,Non-stick Pan,5,1981.5,10.0,8916.75,2025/08/10,Cash on Delivery,In-Store,4.0
+10361,55,Divya,Agarwal,divya.agarwal55@gmail.com,+91-9232212989,Jaipur,Apparel,Hoodie,4,2206.85,15.0,7503.29,10/06/2025,UPI ,Online,3.0
+10049,42,Vikram,Agarwal,vikram.agarwal42@outlook.com,+91-9029178475,Hyderabad,Home & Kitchen,Electric Kettle,1,1695.62,0.0,1695.62,04-11-2024,UPI,In-Store,3.0
+10203,261,ANJALI,Agarwal,anjali.agarwal261@yahoo.com,+91-9310584302,delhi,Beauty,Sunscreen SPF50,1,1587.7,0.0,1587.7,07-16-2024,NetBanking,Online,
+10331,91,Vikram,Kapoor,vikram.kapoor91@gmial.com,+91-9907059529,Bangalore,Apparel,Cotton T-Shirt,5,2647.28,15.0,11250.94,13/03/2024,COD,Online ,5.0
+10599,237,Rahul,Bhatt,rahul.bhatt237@outlook.com,+91-9942753879,Delhi,Grocery,Cooking Oil 1L,4,3944.67,,15778.68,2025-03-23,UPI,Online ,5.0
+10511,80,Ritu,Reddy,ritu.reddy80@gmial.com,+91-8520424503,Ahmedabad,Apparel,Denim Jeans,4,2902.67,20.0,9288.54,2024-09-30,credit card,In-Store,
+10113,35,Ajay,Mehta,ajay.mehta35@gmail.co,+91-9404532947,Bengaluru,Home & Kitchen,Non-stick Pan,1,259.54,0.0,259.54,2024-12-17,UPI,In-Store,4.0
+10339,71,Pooja,Rao,pooja.rao71@outlook.com,+91-8816466752,Ahmedabad,Home & Kitchen,Electric Kettle,1,3297.84,15.0,2803.16,17/08/2025,Cash on Delivery,online,5.0
+10308,256,Kavya,Chopra,kavya.chopra256@gmail.co,+91-8583033048,Mumbai,Apparel,Jacket,2,2142.56,0.0,4285.12,2025/07/13,credit card,Online,2.0
+10790,186,Rahul,Joshi,rahul.joshi186@outlook.com,7579577482,Ahmedabad,Beauty,Shampoo,1,2319.57,0.0,2319.57,21-Jan-2024,credit card,online,5.0
+10423,216,Priya,Reddy,priya.reddy216@gmail.com,+91-8793471616,Bombay,Electronics,Bluetooth Speaker,2,1195.57,15.0,2032.47,2025-05-15,Debit Card,Online ,
+10417,283,Meera,Agarwal,meera.agarwal283@yahoo.com,+91-8305421333,Kolkata,Home & Kitchen,Cushion Cover,3,3821.67,10.0,10318.51,2024-06-12,Credit Card,Online ,4.0
+10952,33,Priya,Mehta,priya.mehta33@gmail.com,7284423199,Pune,Electronics,Wireless Earbuds,4,2593.91,15.0,8819.29,2024-03-17,Cash on Delivery,Online ,4.0
+10411,235,Arjun,Malhotra,arjun.malhotra235@yahoo.com,+91-7674449642,Chennai,Electronics,Wireless Earbuds,1,4144.51,0.0,4144.51,2024/02/12,Debit Card,In-Store,5.0
+10981,38,Vikram,Nair,vikram.nair38@outlook.com,+91-9241057698,mumbai,Apparel,Denim Jeans,1,,15.0,3422.66,2024-11-20,Cash on Delivery,Online,4.0
+10792,86,Kavya,Rao,kavya.rao86@outlook.com,+91-9820476623,Bombay,Electronics,Smartwatch,2,3547.5,0.0,7095.0,26-Sep-2024,UPI ,online,
+10856,149,VIKRAM,Nair,,+91-8544129116,Bombay,Apparel,Formal Shirt,5,4809.18,0.0,24045.9,30/07/2025,Debit Card,In store,4.0
+10645,193,Sanjay,Bhatt,sanjay.bhatt193@yahoo.com,+91-7381013882,Pune,Apparel,Jacket,-2,1436.64,10.0,2585.95,04-Jun-2024,UPI,In store,
+10396,232,Manish,Patel,manish.patel232@gmail.co,+91-8638061586,Delhi,Home & Kitchen,Cushion Cover,1,1175.13,0.0,1175.13,02-19-2024,credit card,Online,2.0
+10668,258,Kavya,Bhatt,kavya.bhatt258@outlook.com,+91-9457498335,Mumbai,Electronics,USB Cable,2,312.61,10.0,562.7,,UPI ,Online,1.0
+10460,294,Pooja,Patel,pooja.patel294@gmail.com,+91-8939329441,Chennai,Beauty,Sunscreen SPF50,2,4751.16,,9502.32,2024/03/06,UPI ,In-Store,5.0
+10656,56,  Rohan ,Kumar,rohan.kumar56@gmial.com,+91-7360299556,Kolkata,Home & Kitchen,Storage Container Set,1,4076.95,5.0,3873.1,2024-03-26,NetBanking,In-Store,3.0
+10128,74,Amit,Pillai,amit.pillai74@gmial.com,+91-8900024225,Ahmedabad,Electronics,USB Cable,1,3110.05,0.0,3110.05,17-Jun-2024,credit card,In-Store,4.0
+11058,281,Neha,Joshi,neha.joshi281@gmail.co,+91-7066256864,delhi,Apparel,Hoodie,1,1982.92,20.0,1586.34,2025/08/04,UPI ,In-Store,
+11190,280,Neha,Malhotra,neha.malhotra280@gmail.co,+91-7731480931,mumbai,Apparel,Sports Shoes,3,2845.07,0.0,8535.21,2024/11/24,credit card,In-Store,5.0
+11093,118,Divya,Rao,divya.rao118@yahoo.com,+91-9254431036,Kolkata,Apparel,Jacket,1,436.92,10.0,393.23,03-31-2024,Net Banking,In store,2.0
+10774,22,Neha,Joshi,neha.joshi22@yahoo.com,+91-7718834634,Mumbai,Beauty,Moisturizer,2,492.04,0.0,984.08,2024-04-27,UPI,In store,5.0
+10450,108,Suresh,Gupta,suresh.gupta108@gmail.com,+91-7561758878,Bombay,Home & Kitchen,LED Lamp,2,1942.76,20.0,3108.42,16/01/2025,NetBanking,Online ,4.0
+10238,129,Sneha,Kumar,sneha.kumar129@gmail.com,+91-8437338886,Chennai,Grocery,Honey Jar,1,2082.25,,2082.25,2024-06-16,Cash on Delivery,online,5.0
+10168,293,Rohan,Joshi,ROHAN.JOSHI293@GMIAL.COM,+91-9780439666,Bengaluru,Apparel,Denim Jeans,2,3436.82,0.0,6873.64,02-Oct-2024,NetBanking,Online,3.0
+10783,199,Sneha,Rao,sneha.rao199@yahoo.com,+91-9441201826,Bangalore,Beauty,Lipstick,3,1731.15,5.0,4933.78,12/02/2025,NetBanking,In-Store,4.0
+10636,254,SNEHA,Pillai,sneha.pillai254@gmail.com,+91-7146353876,DELHI,Apparel,Denim Jeans,5,225.23,,1126.15,03-May-2024,Net Banking,Online ,4.0
+10081,166,Pooja,Mehta,pooja.mehta166@outlook.com,+91-9975418439,Pune,Apparel,Cotton T-Shirt,2,2010.34,0.0,4020.68,04-02-2025,credit card,online,4.0
+10415,267,Neha,Rao,neha.rao267@outlook.com,+91-9621652583,Jaipur,Home & Kitchen,LED Lamp,4,4446.05,0.0,17784.2,07-20-2025,credit card,online,3.0
+10670,62,Neha,Pillai,neha.pillai62@outlook.com,+91-8359272460,Mumbai,Electronics,Power Bank,1,1674.05,0.0,1674.05,07-11-2025,Cash on Delivery,Online ,3.0
+10301,55,Divya,Agarwal,divya.agarwal55@yahoo.com,+91-9353423112,Jaipur,Home & Kitchen,Cushion Cover,1,3993.29,20.0,3194.63,29-Jun-2025,UPI ,Online ,3.0
+10643,62,Neha,Pillai,neha.pillai62@yahoo.com,+91-8404951301,,Beauty,Sunscreen SPF50,5,1425.82,0.0,7129.1,05-20-2024,Debit Card,online,3.0
+10325,26,Pooja,Reddy,pooja.reddy26@gmail.com,+91-8830564310,delhi,Home & Kitchen,Non-stick Pan,5,3114.45,5.0,14793.64,2024-03-06,Debit Card,In store,5.0
+10936,242,Vikram,Nair,vikram.nair242@gmial.com,+91-8485167781,Bangalore,Beauty,Lipstick,2,4141.75,5.0,7869.32,02-May-2024,Credit Card,Online ,3.0
+10216,194,Neha,Kumar,neha.kumar194@outlook.com,+91-9070647070,delhi,Home & Kitchen,Cushion Cover,1,2655.82,15.0,2257.45,20/01/2025,NetBanking,In store,1.0
+10622,211,Meera,Gupta,meera.gupta211@gmail.com,+91-7609718865,Bangalore,Grocery,Almonds 500g,2,530.46,5.0,1007.87,2024/05/20,Cash on Delivery,online,1.0
+10031,217,Kavya,Malhotra,kavya.malhotra217@yahoo.com,+91-8503728142,DELHI,Electronics,Bluetooth Speaker,2,1855.48,,3710.96,2025/08/14,Cash on Delivery,In-Store,
+10753,117,Sanjay,Kumar,sanjay.kumar117@yahoo.com,+91-7868223869,delhi,Home & Kitchen,Storage Container Set,1,4583.73,,4583.73,02-Apr-2024,credit card,Online ,5.0
+10243,200,Manish,Agarwal,manish.agarwal200@gmail.com,8532621454,Ahmedabad,Home & Kitchen,Electric Kettle,2,3727.33,0.0,7454.66,29/03/2025,UPI,Online ,5.0
+10730,184,MANISH,Reddy,manish.reddy184@gmail.co,+91-8962601437,Ahmedabad,Home & Kitchen,LED Lamp,2,1170.09,10.0,2106.16,2024/04/02,credit card,In store,1.0
+10641,250,Sanjay,Malhotra,SANJAY.MALHOTRA250@YAHOO.COM,9371523913,mumbai,Beauty,Moisturizer,1,1549.12,10.0,1394.21,2024/09/22,Debit Card,In-Store,
+10336,7,Suresh,Saxena,,+91-9449766862,Delhi,Beauty,Moisturizer,1,1888.27,10.0,1699.44,2024-09-01,Credit Card,In store,1.0
+11006,129,Sneha,Kumar,sneha.kumar129@gmail.com,+91-8771986377,Chennai,Beauty,Sunscreen SPF50,1,686.22,0.0,686.22,2025-07-22,Debit Card,Online ,
+10210,163,Sneha,Iyer,sneha.iyer163@outlook.com,+91-7724301196,Bangalore,Beauty,Sunscreen SPF50,3,3139.26,15.0,8005.11,2024/11/09,UPI,Online ,1.0
+10548,15,Sanjay,Singh,sanjay.singh15@gmail.co,+91-7139014305,Kolkata,Apparel,Hoodie,1,2776.6,5.0,2637.77,07/03/2024,Credit Card,online,4.0
+10436,184,MANISH,Reddy,manish.reddy184@outlook.com,+91-9602866012,Ahmedabad,Apparel,Cotton T-Shirt,2,4070.81,0.0,8141.62,14/08/2024,COD,online,4.0
+11142,70,Divya,Malhotra,divya.malhotra70@gmail.com,7996392448,delhi,Electronics,Smartphone Case,2,1653.63,5.0,3141.9,26/10/2024,Net Banking,In store,
+11110,86,Kavya,Rao,kavya.rao86@outlook.com,+91-8557991237,Bombay,Apparel,Cotton T-Shirt,1,1936.55,10.0,1742.89,16-Jul-2025,Debit Card,Online ,5.0
+10569,114,Ajay,Pillai,ajay.pillai114@yahoo.com,+91-9741849428,Ahmedabad,Home & Kitchen,Electric Kettle,2,3672.62,0.0,7345.24,01-22-2025,Credit Card,online,2.0
+10404,98,Sanjay,Verma,sanjay.verma98@gmial.com,+91-9025030698,Bangalore,Electronics,Bluetooth Speaker,5,868.6,0.0,4343.0,2025-03-08,Debit Card,In-Store,1.0
+10284,3,Vikram,Singh,vikram.singh3@gmail.co,+91-8051035049,delhi,Grocery,Almonds 500g,2,1201.84,0.0,2403.68,02-May-2025,UPI ,In store,
+10363,189,Rohan,Kumar,,+91-9985161683,Delhi,Apparel,Cotton T-Shirt,5,3409.66,0.0,17048.3,09-Feb-2025,NetBanking,Online,2.0
+10272,46,Rahul,Malhotra,rahul.malhotra46@outlook.com,+91-7674332429,Pune,Apparel,Denim Jeans,5,2869.33,10.0,12911.99,2024-01-23,Cash on Delivery,Online ,1.0
+10467,204,Meera,Rao,meera.rao204@gmail.com,9821890600,Bangalore,Electronics,Wireless Earbuds,2,706.21,,1412.42,05-19-2024,COD,In store,4.0
+11085,294,Pooja,Patel,pooja.patel294@gmial.com,+91-7199264368,Chennai,Apparel,Denim Jeans,2,1642.42,0.0,3284.84,,Credit Card,Online,5.0
+10778,33,Priya,Mehta,priya.mehta33@gmail.co,+91-9391665989,Pune,Apparel,Denim Jeans,2,1779.06,5.0,3380.21,2025-03-25,COD,Online,3.0
+10278,212,  Vikram ,Nair,VIKRAM.NAIR212@OUTLOOK.COM,+91-8059928520,Pune,Apparel,Jacket,2,3825.22,,7650.44,08/03/2024,COD,Online ,4.0
+11083,292,Divya,Singh,divya.singh292@gmial.com,+91-7675063788,Bombay,Home & Kitchen,Storage Container Set,3,4330.16,,12990.48,2024-01-22,UPI ,In store,5.0
+11159,73,Neha,Gupta,neha.gupta73@gmail.com,8763138690,Kolkata,Grocery,Cooking Oil 1L,1,3322.48,10.0,2990.23,09/08/2025,UPI,Online ,4.0
+11149,9,Meera,Kapoor,meera.kapoor9@gmial.com,+91-8776343235,,Electronics,Power Bank,1,4794.42,0.0,4794.42,05-15-2024,Credit Card,online,5.0
+10698,163,  Sneha ,Iyer,sneha.iyer163@yahoo.com,+91-7762900555,Bangalore,Grocery,Honey Jar,4,1241.73,,4966.92,17-Feb-2025,COD,online,4.0
+10443,6,Rahul,Reddy,rahul.reddy6@gmail.co,+91-7441048728,Bengaluru,Beauty,Sunscreen SPF50,5,4006.55,15.0,17027.84,04-13-2024,Credit Card,In store,1.0
+10300,170,Kavya,Sharma,kavya.sharma170@yahoo.com,+91-8497291907,Ahmedabad,Home & Kitchen,LED Lamp,5,296.78,,1483.9,2025-05-01,credit card,In store,3.0
+10376,154,Sneha,Malhotra,sneha.malhotra154@yahoo.com,+91-9582272957,Bombay,Beauty,Sunscreen SPF50,3,4321.9,10.0,11669.13,06/03/2024,UPI ,online,4.0
+10664,142,Vikram,Desai,vikram.desai142@yahoo.com,+91-7001060288,Delhi,Grocery,Almonds 500g,2,965.28,0.0,1930.56,25/08/2024,Debit Card,Online ,5.0
+11182,135,Karan,Verma,karan.verma135@gmail.com,7914201261,Mumbai,Electronics,USB Cable,3,,15.0,5527.3,2024-08-30,UPI,In store,1.0
+10612,99,Sanjay,Sharma,sanjay.sharma99@outlook.com,+91-9440808550,Pune,Electronics,USB Cable,1,3201.21,0.0,3201.21,08/04/2024,Credit Card,In-Store,
+10473,292,  Divya ,Singh,divya.singh292@gmial.com,7075801011,Bombay,Apparel,Hoodie,1,3059.36,15.0,2600.46,01/02/2025,credit card,In-Store,
+10852,12,Kavya,Mehta,kavya.mehta12@yahoo.com,9637677990,Chennai,Grocery,Honey Jar,3,3847.4,0.0,11542.2,24-Jun-2024,Cash on Delivery,Online ,5.0
+11103,123,Pooja,Gupta,pooja.gupta123@yahoo.com,+91-7868901439,Bengaluru,Apparel,Jacket,2,4744.09,5.0,9013.77,07-10-2024,Credit Card,online,1.0
+10389,204,Meera,Rao,meera.rao204@gmail.com,+91-8008636315,Bangalore,Apparel,Jacket,4,3586.0,0.0,14344.0,2024-09-19,Debit Card,Online ,
+10023,199,Sneha,Rao,sneha.rao199@outlook.com,8591414076,Bangalore,Beauty,Lipstick,4,2998.6,20.0,9595.52,07-Jun-2024,Debit Card,In store,4.0
+10701,242,Vikram,Nair,vikram.nair242@gmail.co,+91-8038882364,Bangalore,Apparel,Hoodie,1,1570.96,5.0,1492.41,01/02/2024,COD,In store,3.0
+10916,216,Priya,Reddy,priya.reddy216@yahoo.com,+91-9234507697,Bombay,Electronics,Wireless Earbuds,1,1177.16,5.0,1118.3,06-Jun-2024,Debit Card,In store,
+10424,194,Neha,Kumar,neha.kumar194@outlook.com,9683368550,delhi,Beauty,Shampoo,1,3845.46,0.0,3845.46,31-May-2025,COD,In store,4.0
+11088,92,  KARAN ,Rao,karan.rao92@gmial.com,+91-7105931538,Bengaluru,Electronics,Smartwatch,1,2369.23,10.0,2132.31,2024/12/28,UPI,Online,3.0
+10744,39,Meera,Desai,meera.desai39@gmial.com,+91-8041370923,Chennai,Home & Kitchen,Cushion Cover,2,1162.46,0.0,2324.92,2024-03-09,UPI ,In-Store,4.0
+10956,161,Suresh,Malhotra,suresh.malhotra161@gmial.com,7705546622,delhi,Home & Kitchen,Electric Kettle,2,1821.99,0.0,3643.98,2025-02-14,COD,Online ,2.0
+10307,70,Divya,Malhotra,divya.malhotra70@gmail.co,+91-8652337143,delhi,Electronics,Smartphone Case,-4,4321.74,20.0,13829.57,2025/03/11,UPI,In store,5.0
+10143,263,MEERA,Bhatt,meera.bhatt263@gmail.com,+91-7600406558,Hyderabad,Electronics,Smartwatch,2,1411.81,5.0,2682.44,2024-06-27,UPI ,In store,2.0
+10051,33,Priya,Mehta,priya.mehta33@gmail.com,+91-8033215551,Pune,Electronics,Power Bank,1,3214.98,20.0,2571.98,11/08/2025,UPI,online,4.0
+10721,78,Priya,Mehta,priya.mehta78@gmail.co,+91-8251636720,Mumbai,Grocery,Green Tea Pack,2,2874.91,10.0,5174.84,24/03/2025,credit card,Online ,1.0
+10761,156,Rohan,Rao,rohan.rao156@outlook.com,+91-7305000198,Kolkata,Home & Kitchen,Electric Kettle,4,849.53,0.0,3398.12,2025/07/06,credit card,Online,2.0
+10082,208,Neha,Iyer,neha.iyer208@gmial.com,+91-9601628976,Hyderabad,Grocery,Green Tea Pack,1,3247.75,0.0,3247.75,10-29-2024,Cash on Delivery,In-Store,5.0
+10483,266,Rahul,Iyer,rahul.iyer266@gmail.co,+91-8767847167,Hyderabad,Apparel,Formal Shirt,1,4174.29,20.0,3339.43,09-15-2024,NetBanking,Online ,2.0
+10322,236,Kavya,Iyer,kavya.iyer236@outlook.com,+91-9717817798,Bombay,Home & Kitchen,Electric Kettle,1,2839.21,0.0,2839.21,28/01/2025,Net Banking,In store,
+11003,286,Divya,Iyer,divya.iyer286@gmail.co,7980116906,Bengaluru,Beauty,Lipstick,1,956.81,20.0,765.45,03-Mar-2024,Debit Card,In store,3.0
+10719,258,Kavya,Bhatt,kavya.bhatt258@gmail.com,+91-8675307885,Mumbai,Beauty,Lipstick,1,510.97,,510.97,06-13-2024,COD,Online ,
+10136,7,Suresh,Saxena,suresh.saxena7@yahoo.com,+91-8787808459,Delhi,Apparel,Cotton T-Shirt,5,1915.29,20.0,7661.16,02/06/2024,Credit Card,Online ,5.0
+10067,215,Meera,Rao,meera.rao215@gmial.com,+91-9136189070,Pune,Apparel,Denim Jeans,3,4678.69,,14036.07,16/11/2024,UPI,In store,1.0
+10960,94,Meera,Singh,meera.singh94@gmail.co,+91-8829744109,Delhi,Electronics,Smartwatch,2,1416.33,,2832.66,05/03/2025,NetBanking,online,4.0
+10937,64,Rahul,Desai,rahul.desai64@outlook.com,+91-9519243506,DELHI,Grocery,Honey Jar,2,677.95,,1355.9,26/10/2024,Cash on Delivery,In store,3.0
+10772,24,Karan,Rao,karan.rao24@yahoo.com,+91-8726399626,delhi,Beauty,Moisturizer,1,4632.91,20.0,3706.33,05/01/2024,credit card,In-Store,1.0
+10418,191,Nisha,Gupta,nisha.gupta191@gmial.com,+91-8014030282,Hyderabad,Home & Kitchen,Cushion Cover,3,750.49,0.0,2251.47,07-May-2024,Net Banking,Online ,
+11168,203,Suresh,Kapoor,suresh.kapoor203@gmail.co,+91-9361516086,Bombay,Apparel,Cotton T-Shirt,1,1710.56,5.0,1625.03,02-17-2024,UPI,online,1.0
+10065,280,Neha,Malhotra,neha.malhotra280@yahoo.com,+91-9079842771,mumbai,Home & Kitchen,Storage Container Set,5,1337.66,0.0,6688.3,02-19-2025,COD,Online,
+10944,149,Vikram,Nair,vikram.nair149@gmail.co,+91-8614340740,Bombay,Home & Kitchen,Cushion Cover,1,4684.56,20.0,3747.65,04-08-2025,UPI,In store,5.0
+10935,269,Amit,Bhatt,amit.bhatt269@gmail.com,+91-9564940128,Bombay,Electronics,Wireless Earbuds,1,1162.21,20.0,929.77,2024-01-28,Debit Card,online,
+11104,188,Neha,Joshi,neha.joshi188@gmial.com,+91-8947902573,Bengaluru,Grocery,Almonds 500g,4,285.75,10.0,1028.7,09-30-2024,COD,In store,4.0
+10492,168,Sanjay,Pillai,sanjay.pillai168@gmail.com,+91-8429369906,Bengaluru,Beauty,Lipstick,2,3638.0,,7276.0,2025-05-02,UPI,Online ,4.0
+10733,78,PRIYA,Mehta,PRIYA.MEHTA78@OUTLOOK.COM,+91-8138945199,Mumbai,Apparel,Hoodie,1,3964.8,20.0,3171.84,31-Jan-2024,Cash on Delivery,online,5.0
+10836,219,  Ajay ,Malhotra,AJAY.MALHOTRA219@GMAIL.COM,+91-9808356849,Hyderabad,Electronics,Smartwatch,1,4847.54,5.0,4605.16,19/03/2024,COD,In store,3.0
+10066,164,Ajay,Iyer,ajay.iyer164@gmial.com,+91-8931000173,Delhi,Home & Kitchen,LED Lamp,1,3839.23,5.0,3647.27,2025/06/11,Debit Card,online,4.0
+11023,55,DIVYA,Agarwal,divya.agarwal55@gmial.com,+91-8137442054,Jaipur,Beauty,Shampoo,4,1031.37,20.0,3300.38,2024/02/16,UPI ,online,4.0
+10596,151,Amit,Patel,amit.patel151@gmial.com,+91-7002756157,mumbai,Electronics,Power Bank,1,1204.03,0.0,1204.03,2024-05-06,COD,online,1.0
+11013,135,Karan,Verma,karan.verma135@gmail.com,+91-7739252238,Mumbai,Grocery,Cooking Oil 1L,1,4129.66,5.0,3923.18,07-30-2025,Credit Card,online,1.0
+10297,278,Ritu,Rao,ritu.rao278@outlook.com,+91-8454872478,DELHI,Home & Kitchen,Cushion Cover,3,1464.6,0.0,4393.8,2024/10/17,Cash on Delivery,In-Store,
+10420,67,Karan,Agarwal,karan.agarwal67@outlook.com,+91-9733579809,Bombay,Beauty,Moisturizer,5,528.65,20.0,2114.6,22-Jun-2025,NetBanking,Online ,4.0
+10439,265,Arjun,Nair,arjun.nair265@gmial.com,+91-7351366546,Bombay,Electronics,Smartwatch,2,377.78,0.0,755.56,2025/03/06,COD,online,1.0
+10262,18,Sneha,Malhotra,sneha.malhotra18@outlook.com,9962321335,Mumbai,Home & Kitchen,Cushion Cover,1,2660.41,5.0,2527.39,2024-11-05,Net Banking,In-Store,5.0
+10726,200,Manish,Agarwal,manish.agarwal200@gmail.co,+91-9857879268,Ahmedabad,Electronics,Wireless Earbuds,2,1713.56,15.0,2913.05,06-03-2024,Cash on Delivery,Online ,4.0
+10282,231,Kavya,Kumar,kavya.kumar231@gmail.com,+91-8439643578,Bombay,Home & Kitchen,Non-stick Pan,4,3675.34,20.0,11761.09,2025/06/07,UPI,In store,3.0
+10859,96,Neha,Patel,neha.patel96@gmail.co,+91-7755673434,Pune,Apparel,Formal Shirt,2,958.15,0.0,1916.3,09/03/2024,Debit Card,Online ,5.0
+10883,213,  Vikram ,Reddy,VIKRAM.REDDY213@OUTLOOK.COM,+91-7775297094,Mumbai,Electronics,Power Bank,3,868.61,,2605.83,23/05/2024,NetBanking,Online ,4.0
+10189,294,Pooja,Patel,pooja.patel294@gmial.com,9358361363,Chennai,Beauty,Face Wash,5,2318.28,20.0,9273.12,01-May-2024,Credit Card,Online,1.0
+10930,149,Vikram,Nair,vikram.nair149@yahoo.com,+91-7099918544,Bombay,Electronics,Smartphone Case,4,3975.0,10.0,14310.0,01-12-2025,NetBanking,In-Store,2.0
+10252,8,Meera,Reddy,meera.reddy8@gmail.co,+91-7384313264,mumbai,Apparel,Hoodie,1,2069.67,,2069.67,2024-09-05,Credit Card,Online ,4.0
+10784,187,Nisha,Mehta,nisha.mehta187@gmail.com,+91-8942698815,Mumbai,Beauty,Shampoo,4,1967.86,,7871.44,10/11/2024,UPI ,In-Store,5.0
+11124,189,Rohan,Kumar,rohan.kumar189@gmail.com,+91-9879884113,Delhi,Electronics,Power Bank,2,,10.0,898.74,08-02-2025,credit card,In store,2.0
+10515,174,Sneha,Joshi,SNEHA.JOSHI174@GMAIL.CO,+91-8309191041,Ahmedabad,Apparel,Sports Shoes,1,1556.81,0.0,1556.81,05-09-2025,Net Banking,In-Store,
+10619,189,Rohan,Kumar,ROHAN.KUMAR189@YAHOO.COM,+91-9303036955,Delhi,Home & Kitchen,Electric Kettle,3,2267.15,0.0,6801.45,29/02/2024,Cash on Delivery,Online,1.0
+10488,162,MEERA,Mehta,meera.mehta162@gmial.com,+91-8725753751,Delhi,Apparel,Hoodie,4,1985.41,0.0,7941.64,02-28-2024,credit card,Online,3.0
+10274,117,Sanjay,Kumar,sanjay.kumar117@yahoo.com,+91-9495507871,delhi,Beauty,Moisturizer,1,2218.36,0.0,2218.36,2024/11/15,credit card,In store,
+10997,236,Kavya,Iyer,kavya.iyer236@gmail.com,+91-7776130576,Bombay,Beauty,Sunscreen SPF50,1,409.49,20.0,327.59,2024-04-01,Debit Card,In store,1.0
+11191,60,  Sneha ,Chopra,sneha.chopra60@gmail.com,+91-9734743433,Bombay,Grocery,Green Tea Pack,5,1935.98,15.0,8227.91,27-Mar-2024,Debit Card,Online,1.0
+10449,113,Nisha,Gupta,nisha.gupta113@outlook.com,+91-7090167505,Pune,Home & Kitchen,Electric Kettle,3,,0.0,12781.62,08/09/2024,Cash on Delivery,Online,3.0
+10412,51,Arjun,Singh,arjun.singh51@gmail.com,+91-9034368522,Chennai,Apparel,Jacket,3,1772.85,20.0,4254.84,2024-05-21,Cash on Delivery,In store,5.0
+10888,298,Vikram,Bhatt,vikram.bhatt298@gmail.co,+91-7061037293,Mumbai,Apparel,Sports Shoes,2,3931.42,0.0,7862.84,28-Aug-2024,NetBanking,online,4.0
+10751,222,Meera,Saxena,meera.saxena222@gmial.com,+91-8088835309,Bengaluru,Electronics,Smartphone Case,1,267.1,0.0,267.1,2024-12-02,Net Banking,In store,5.0
+10971,273,Nisha,Iyer,nisha.iyer273@outlook.com,+91-8119819986,Ahmedabad,Grocery,Green Tea Pack,4,4177.0,0.0,16708.0,,NetBanking,Online ,2.0
+10987,53,Amit,Iyer,amit.iyer53@yahoo.com,+91-7933167221,Ahmedabad,Beauty,Face Wash,1,3633.7,,3633.7,03-May-2024,UPI,Online,3.0
+10150,11,Amit,Patel,amit.patel11@gmail.com,9519467229,mumbai,Grocery,Almonds 500g,1,1758.91,15.0,1495.07,25/07/2024,credit card,In-Store,3.0
+10219,10,Manish,Pillai,manish.pillai10@gmail.co,+91-9502446090,Chennai,Home & Kitchen,Non-stick Pan,2,2328.64,20.0,3725.82,27-Apr-2025,UPI,In-Store,3.0
+10240,147,Neha,Singh,neha.singh147@yahoo.com,+91-8346395203,Kolkata,Beauty,Moisturizer,1,3256.82,0.0,3256.82,11-Dec-2024,UPI ,Online,5.0
+10752,128,Meera,Joshi,meera.joshi128@gmial.com,+91-7738983529,delhi,Home & Kitchen,LED Lamp,1,1723.89,15.0,1465.31,26/09/2024,Cash on Delivery,Online ,
+10193,259,Kavya,Chopra,,+91-7761078677,delhi,Apparel,Formal Shirt,1,2722.27,,2722.27,2024/02/19,UPI ,Online ,3.0
+10192,131,Meera,Kumar,meera.kumar131@gmail.com,+91-7199717518,Chennai,Grocery,Cooking Oil 1L,2,735.62,15.0,1250.55,06/02/2025,COD,In-Store,2.0
+11061,293,Rohan,Joshi,rohan.joshi293@gmial.com,+91-8248922054,Bengaluru,Home & Kitchen,Electric Kettle,1,3952.23,0.0,3952.23,01-04-2025,NetBanking,online,2.0
+10737,155,Priya,Bhatt,priya.bhatt155@gmail.co,+91-7146996591,Bengaluru,Home & Kitchen,LED Lamp,2,3835.48,0.0,7670.96,05-14-2024,UPI ,online,4.0
+10705,134,Karan,Agarwal,karan.agarwal134@yahoo.com,+91-8238799281,Hyderabad,Home & Kitchen,Storage Container Set,5,1753.71,0.0,8768.55,04-06-2025,Net Banking,Online ,1.0
+10738,8,Meera,Reddy,meera.reddy8@gmail.co,+91-8477046857,mumbai,Apparel,Jacket,1,4201.59,0.0,4201.59,31/08/2024,UPI ,online,4.0
+10624,23,Neha,Singh,neha.singh23@gmail.co,+91-7111635207,Pune,Apparel,Denim Jeans,4,1044.47,0.0,4177.88,2025/03/17,Credit Card,online,5.0
+10978,264,Kavya,Pillai,kavya.pillai264@gmail.com,+91-9506401725,Chennai,Grocery,Honey Jar,3,2100.64,20.0,5041.54,05-20-2024,NetBanking,In store,
+10741,232,Manish,Patel,manish.patel232@yahoo.com,+91-7952868958,Delhi,Beauty,Shampoo,1,4836.52,5.0,4594.69,31/05/2025,UPI ,Online ,1.0
+10583,144,Vikram,Kapoor,VIKRAM.KAPOOR144@YAHOO.COM,+91-7322742735,Bangalore,Home & Kitchen,LED Lamp,2,595.23,5.0,1130.94,2024-10-30,credit card,Online ,
+11132,20,Nisha,Chopra,nisha.chopra20@gmail.co,+91-7589927430,Jaipur,Grocery,Almonds 500g,2,2890.47,0.0,5780.94,09-Jul-2024,COD,Online,4.0
+10324,268,Nisha,Malhotra,nisha.malhotra268@gmail.com,+91-9655887892,Kolkata,Beauty,Shampoo,-1,3744.1,,3744.1,2024-08-26,Credit Card,In-Store,1.0
+10969,96,Neha,Patel,neha.patel96@gmial.com,+91-7131572627,Pune,Apparel,Hoodie,1,3523.18,15.0,2994.7,01-31-2024,UPI ,In store,2.0
+10894,293,Rohan,Joshi,rohan.joshi293@yahoo.com,+91-9553995829,Bengaluru,Home & Kitchen,Non-stick Pan,3,3296.28,0.0,9888.84,2025-03-01,credit card,In store,
+10688,190,Priya,Nair,PRIYA.NAIR190@OUTLOOK.COM,+91-8918863194,Hyderabad,Home & Kitchen,LED Lamp,3,3423.73,10.0,9244.07,2024/01/25,Net Banking,In-Store,5.0
+10438,12,Kavya,Mehta,kavya.mehta12@gmial.com,+91-8747518666,Chennai,Grocery,Honey Jar,2,3451.3,15.0,5867.21,2025-04-09,UPI ,Online,5.0
+10807,49,Amit,Singh,amit.singh49@gmial.com,+91-8186314486,delhi,Beauty,Moisturizer,3,544.34,,1633.02,17-May-2025,Net Banking,Online,3.0
+10877,69,  Meera ,Reddy,meera.reddy69@gmail.com,9503379686,mumbai,Home & Kitchen,Storage Container Set,3,3380.38,15.0,8619.97,2024-03-30,UPI,online,2.0
+10342,11,Amit,Patel,amit.patel11@outlook.com,+91-9859826923,mumbai,Home & Kitchen,Electric Kettle,1,256.88,15.0,218.35,2024/08/25,credit card,In store,
+10003,51,Arjun,Singh,arjun.singh51@yahoo.com,8934898666,Chennai,Apparel,Jacket,2,1433.53,0.0,2867.06,24/03/2024,Cash on Delivery,In-Store,
+10230,295,Amit,Desai,amit.desai295@gmial.com,+91-7290143353,Bangalore,Home & Kitchen,LED Lamp,4,2881.37,0.0,11525.48,09-06-2024,COD,In store,4.0
+10740,266,Rahul,Iyer,rahul.iyer266@gmial.com,+91-7516588979,Hyderabad,Home & Kitchen,Non-stick Pan,3,2218.6,5.0,6323.01,2024/01/27,UPI,Online,
+11178,181,Divya,Reddy,divya.reddy181@gmail.com,+91-8041666447,Pune,Grocery,Honey Jar,2,2117.3,10.0,3811.14,2024/03/18,Cash on Delivery,Online ,5.0
+10077,125,Manish,Desai,manish.desai125@gmail.com,+91-7590416424,mumbai,Electronics,Smartwatch,2,3244.03,,6488.06,2024-02-23,UPI ,online,1.0
+11127,111,Sneha,Pillai,sneha.pillai111@yahoo.com,+91-8672475044,Bengaluru,Electronics,Smartphone Case,4,2529.17,0.0,10116.68,10/05/2025,Debit Card,Online ,1.0
+10372,294,  Pooja ,Patel,pooja.patel294@yahoo.com,+91-8560508934,Chennai,Electronics,Power Bank,1,3500.69,15.0,2975.59,07-29-2024,COD,Online ,4.0
+10181,54,Anjali,Agarwal,anjali.agarwal54@outlook.com,+91-7866179751,Mumbai,Grocery,Honey Jar,1,1521.13,5.0,1445.07,18-Apr-2024,Cash on Delivery,Online ,5.0
+10745,100,  Karan ,Rao,KARAN.RAO100@YAHOO.COM,+91-9887240519,Chennai,Apparel,Hoodie,1,1247.58,0.0,1247.58,09/10/2024,UPI ,Online,5.0
+10578,64,Rahul,Desai,rahul.desai64@gmail.co,+91-8983295004,DELHI,Beauty,Moisturizer,3,3017.18,0.0,9051.54,2024/08/30,Credit Card,online,5.0
+10770,22,Neha,Joshi,neha.joshi22@gmail.co,8301142829,Mumbai,Apparel,Cotton T-Shirt,2,4476.65,0.0,8953.3,2025/08/07,UPI,online,4.0
+10795,122,Suresh,Iyer,suresh.iyer122@outlook.com,+91-7454548152,Bangalore,Electronics,Wireless Earbuds,1,3657.07,,3657.07,2024/12/15,Debit Card,In-Store,2.0
+11045,244,Rohan,Rao,rohan.rao244@outlook.com,+91-9728771596,mumbai,Home & Kitchen,Non-stick Pan,1,4035.8,0.0,4035.8,2024/03/09,UPI ,In-Store,4.0
+11036,293,Rohan,Joshi,rohan.joshi293@yahoo.com,+91-8587117837,,Beauty,Lipstick,3,4829.08,0.0,14487.24,2024/07/15,Credit Card,In store,5.0
+10870,23,  Neha ,Singh,neha.singh23@gmail.co,+91-7904588768,Pune,Home & Kitchen,Non-stick Pan,1,1093.29,20.0,874.63,05/08/2025,UPI ,In-Store,1.0
+10590,88,Sanjay,Mehta,sanjay.mehta88@outlook.com,8133150622,DELHI,Home & Kitchen,Non-stick Pan,-1,1058.62,20.0,846.9,11/04/2025,Credit Card,In store,2.0
+11046,118,Divya,Rao,divya.rao118@gmail.com,+91-9724594931,Kolkata,Home & Kitchen,Cushion Cover,1,1443.81,0.0,1443.81,08-22-2024,Cash on Delivery,online,2.0
+10854,210,Karan,Mehta,karan.mehta210@yahoo.com,+91-9111061584,Kolkata,Beauty,Sunscreen SPF50,1,3734.95,10.0,3361.45,2025/01/28,UPI ,Online,4.0
+11011,131,Meera,Kumar,meera.kumar131@yahoo.com,+91-9040124062,Chennai,Beauty,Sunscreen SPF50,4,4142.49,5.0,15741.46,03-21-2024,Debit Card,Online ,1.0
+10931,149,Vikram,Nair,vikram.nair149@outlook.com,+91-7576615880,Bombay,Grocery,Honey Jar,1,3894.38,0.0,3894.38,04-21-2024,Cash on Delivery,Online ,
+10038,159,Arjun,Iyer,arjun.iyer159@outlook.com,+91-9772156452,Bombay,Home & Kitchen,Electric Kettle,3,3928.72,5.0,11196.85,2024/03/19,Debit Card,Online ,3.0
+10354,183,Arjun,Rao,arjun.rao183@gmail.co,+91-9335226700,Hyderabad,Electronics,Bluetooth Speaker,2,2718.62,0.0,5437.24,2024/03/19,Cash on Delivery,In-Store,5.0
+11119,94,Meera,Singh,meera.singh94@yahoo.com,+91-8128097218,Delhi,Electronics,Power Bank,4,4626.76,,18507.04,2024/09/25,Net Banking,In store,3.0
+10237,285,Pooja,Rao,pooja.rao285@gmial.com,+91-9708629635,Chennai,Beauty,Sunscreen SPF50,2,857.34,20.0,1371.74,02-Jun-2024,Credit Card,In-Store,
+11068,221,  Sanjay ,Kapoor,sanjay.kapoor221@gmail.co,+91-8258578199,Ahmedabad,Grocery,Green Tea Pack,1,172.33,10.0,155.1,05-10-2025,Debit Card,Online ,4.0
+10500,174,Sneha,Joshi,sneha.joshi174@gmial.com,+91-9954869235,Ahmedabad,Grocery,Almonds 500g,1,3190.82,5.0,3031.28,,Credit Card,Online,3.0
+10554,67,Karan,Agarwal,karan.agarwal67@gmail.co,+91-7245065147,Bombay,Beauty,Lipstick,3,1962.36,0.0,5887.08,2025/02/27,COD,online,4.0
+10056,165,Sneha,Saxena,sneha.saxena165@outlook.com,+91-8514230707,,Electronics,Wireless Earbuds,3,3355.46,,10066.38,09-Nov-2024,UPI ,In-Store,4.0
+10303,208,Neha,Iyer,neha.iyer208@yahoo.com,+91-9494379098,Hyderabad,Electronics,USB Cable,1,3474.72,0.0,3474.72,01-23-2025,COD,Online,1.0
+10287,63,Rahul,Bhatt,rahul.bhatt63@gmial.com,+91-9597501810,Bombay,Home & Kitchen,Storage Container Set,4,2694.53,0.0,10778.12,2024/08/02,Credit Card,Online,5.0
+11052,26,  Pooja ,Reddy,pooja.reddy26@yahoo.com,+91-7009073541,delhi,Grocery,Honey Jar,2,963.75,0.0,1927.5,2024-05-04,Debit Card,Online,1.0
+10220,176,Sanjay,Joshi,sanjay.joshi176@gmail.co,+91-9166207663,Ahmedabad,Beauty,Shampoo,1,1264.6,5.0,1201.37,29/01/2025,Debit Card,Online,4.0
+10665,226,Sanjay,Patel,sanjay.patel226@gmial.com,+91-8524677466,Bombay,Beauty,Sunscreen SPF50,3,1617.41,20.0,3881.78,30/04/2024,NetBanking,In store,5.0
+10388,215,MEERA,Rao,meera.rao215@gmail.co,+91-8967799880,Pune,Apparel,Formal Shirt,1,289.55,15.0,246.12,25/09/2024,COD,In-Store,2.0
+10771,223,Ritu,Nair,ritu.nair223@yahoo.com,+91-7313375771,Chennai,Grocery,Honey Jar,1,2617.42,0.0,2617.42,15/02/2024,Debit Card,In store,4.0
+10391,46,Rahul,Malhotra,rahul.malhotra46@outlook.com,+91-8847205403,Pune,Home & Kitchen,Cushion Cover,4,837.71,,3350.84,04-29-2024,Credit Card,In-Store,5.0
+10353,62,Neha,Pillai,neha.pillai62@gmial.com,+91-7581956867,Mumbai,Home & Kitchen,Cushion Cover,1,4249.61,15.0,3612.17,2024/06/15,Credit Card,In-Store,5.0
+10194,165,Sneha,Saxena,sneha.saxena165@gmial.com,+91-7593478613,Pune,Grocery,Almonds 500g,4,4900.58,10.0,17642.09,09-11-2024,UPI ,online,4.0
+10236,256,  Kavya ,Chopra,kavya.chopra256@yahoo.com,+91-9473440423,Mumbai,Beauty,Moisturizer,4,3548.46,,14193.84,01-16-2025,UPI ,online,4.0
+11062,95,Meera,Sharma,meera.sharma95@yahoo.com,+91-9050966899,Mumbai,Electronics,Wireless Earbuds,1,1509.6,0.0,1509.6,16/02/2025,UPI ,online,5.0
+10481,198,Meera,Nair,MEERA.NAIR198@GMAIL.COM,+91-8821239360,Bombay,Grocery,Cooking Oil 1L,2,3850.31,15.0,6545.53,09-18-2024,NetBanking,In store,4.0
+10568,48,Karan,Desai,karan.desai48@gmail.com,+91-7560699443,Bombay,Electronics,Wireless Earbuds,4,205.96,20.0,659.07,2024-06-05,NetBanking,Online,
+10117,217,Kavya,Malhotra,kavya.malhotra217@gmial.com,+91-8542061491,DELHI,Apparel,Formal Shirt,1,,15.0,2415.13,05-16-2025,UPI,In-Store,1.0
+10983,150,Anjali,Patel,anjali.patel150@gmail.com,+91-7742487799,Pune,Beauty,Moisturizer,1,779.22,5.0,740.26,11/06/2025,credit card,online,
+10654,160,Rahul,Iyer,rahul.iyer160@gmial.com,+91-7399699943,Kolkata,Home & Kitchen,LED Lamp,1,1615.45,,1615.45,14/04/2025,Debit Card,online,4.0
+11012,218,Ajay,Sharma,AJAY.SHARMA218@GMAIL.CO,+91-9007290007,Bombay,Electronics,Bluetooth Speaker,3,3190.16,,9570.48,2024-01-26,Debit Card,Online,2.0
+11130,234,Rohan,Rao,rohan.rao234@gmial.com,+91-9339707148,Kolkata,Home & Kitchen,LED Lamp,1,,,3598.19,02/01/2024,UPI ,Online ,4.0
+10802,196,  Kavya ,Nair,KAVYA.NAIR196@GMAIL.COM,+91-7643814849,Bangalore,Apparel,Formal Shirt,3,217.66,0.0,652.98,25/06/2024,UPI,In-Store,5.0
+10814,107,Suresh,Patel,SURESH.PATEL107@GMAIL.COM,+91-9994828174,Delhi,Beauty,Moisturizer,1,3849.41,0.0,3849.41,24/09/2024,Cash on Delivery,Online,4.0
+10121,106,Ajay,Bhatt,ajay.bhatt106@gmail.co,+91-9209395548,Ahmedabad,Electronics,USB Cable,3,2731.56,10.0,7375.21,05/07/2025,credit card,online,2.0
+10857,218,Ajay,Sharma,ajay.sharma218@yahoo.com,+91-9514680091,Bombay,Electronics,Power Bank,2,1838.92,0.0,3677.84,10-02-2024,Net Banking,In store,
+11042,87,Priya,Singh,priya.singh87@outlook.com,+91-8152574890,Delhi,Home & Kitchen,Storage Container Set,1,1652.35,15.0,1404.5,2024/05/06,Cash on Delivery,Online ,1.0
+11166,112,Ajay,Saxena,ajay.saxena112@yahoo.com,+91-8744835933,Delhi,Electronics,Bluetooth Speaker,5,4697.66,,23488.3,2025-08-04,Debit Card,In store,5.0
+10063,116,Arjun,Nair,arjun.nair116@outlook.com,+91-7401271939,Chennai,Home & Kitchen,Cushion Cover,2,4252.78,0.0,8505.56,13/09/2024,NetBanking,online,
+10697,149,Vikram,Nair,vikram.nair149@outlook.com,+91-9707013363,Bombay,Apparel,Denim Jeans,4,2817.84,10.0,10144.22,26/12/2024,UPI ,Online ,2.0
+10454,69,Meera,Reddy,meera.reddy69@gmial.com,+91-8857597666,mumbai,Electronics,Bluetooth Speaker,5,2666.28,15.0,11331.69,2024/08/23,Credit Card,In store,4.0
+10516,250,Sanjay,Malhotra,sanjay.malhotra250@outlook.com,+91-7799541256,mumbai,Electronics,Bluetooth Speaker,1,3135.32,0.0,3135.32,12-02-2024,credit card,Online,4.0
+10571,215,Meera,Rao,meera.rao215@gmail.com,+91-8489424742,Pune,Beauty,Lipstick,-5,4071.46,0.0,20357.3,07-03-2024,Credit Card,In-Store,
+10224,142,Vikram,Desai,vikram.desai142@outlook.com,+91-9480992821,Delhi,Beauty,Moisturizer,4,2827.71,,11310.84,24-Jul-2025,UPI,online,5.0
+10614,265,Arjun,Nair,arjun.nair265@yahoo.com,+91-8245095872,Bombay,Home & Kitchen,Non-stick Pan,1,2568.75,0.0,2568.75,2024/02/22,NetBanking,online,5.0
+10222,196,Kavya,Nair,kavya.nair196@gmail.co,+91-8755124229,Bangalore,Home & Kitchen,Cushion Cover,1,2213.62,10.0,1992.26,17-Sep-2024,Cash on Delivery,Online,5.0
+10704,135,Karan,Verma,karan.verma135@outlook.com,9757521784,Mumbai,Grocery,Basmati Rice 5kg,1,1927.35,5.0,1830.98,13/12/2024,Cash on Delivery,In store,2.0
+10831,96,Neha,Patel,neha.patel96@gmail.co,+91-8665362032,Pune,Electronics,Wireless Earbuds,2,2345.11,0.0,4690.22,01-May-2024,credit card,In store,5.0
+10466,189,Rohan,Kumar,rohan.kumar189@gmial.com,9743911263,Delhi,Electronics,Wireless Earbuds,3,2138.97,0.0,6416.91,06-17-2024,Cash on Delivery,Online ,
+10053,298,Vikram,Bhatt,VIKRAM.BHATT298@YAHOO.COM,8965718821,Mumbai,Home & Kitchen,Electric Kettle,1,1858.65,0.0,1858.65,12/12/2024,COD,In store,1.0
+11117,219,Ajay,Malhotra,ajay.malhotra219@gmail.com,+91-8671128657,Hyderabad,Electronics,USB Cable,3,4864.17,,14592.51,25-Apr-2025,Debit Card,Online,
+10486,56,ROHAN,Kumar,rohan.kumar56@gmail.co,+91-9083893876,Kolkata,Apparel,Cotton T-Shirt,2,565.68,0.0,1131.36,,Debit Card,online,2.0
+11164,258,Kavya,Bhatt,kavya.bhatt258@outlook.com,+91-8714962339,Mumbai,Beauty,Sunscreen SPF50,5,1336.08,20.0,5344.32,2024/11/17,credit card,In store,5.0
+10965,82,Ritu,Nair,ritu.nair82@gmail.co,+91-9784730778,DELHI,Apparel,Cotton T-Shirt,3,4022.17,10.0,10859.86,2024/08/23,UPI ,Online ,3.0
+10156,16,Pooja,Saxena,,+91-9319821061,Chennai,Beauty,Moisturizer,4,911.95,20.0,2918.24,04-13-2024,Cash on Delivery,In-Store,5.0
+10963,179,Ajay,Joshi,ajay.joshi179@gmail.com,+91-8739181225,Pune,Home & Kitchen,Electric Kettle,1,4961.93,,4961.93,2025-01-09,credit card,Online ,3.0
+10601,28,Anjali,Desai,anjali.desai28@gmail.com,+91-9791213115,mumbai,Beauty,Moisturizer,4,3399.88,0.0,13599.52,2025/04/18,COD,Online,2.0
+10921,142,  Vikram ,Desai,vikram.desai142@yahoo.com,+91-9736062521,Delhi,Home & Kitchen,Non-stick Pan,1,3862.58,15.0,3283.19,2024-01-28,Credit Card,Online,2.0
+10249,47,Nisha,Rao,nisha.rao47@gmail.com,+91-7627442454,Ahmedabad,Apparel,Cotton T-Shirt,5,1203.36,,6016.8,03-06-2025,COD,online,1.0
+10442,66,Ritu,Desai,ritu.desai66@outlook.com,+91-8725215636,Bangalore,Electronics,Power Bank,1,1612.13,0.0,1612.13,2025-03-18,Debit Card,Online,2.0
+11107,74,Amit,Pillai,amit.pillai74@gmial.com,+91-8186200767,Ahmedabad,Home & Kitchen,Storage Container Set,4,2075.81,0.0,8303.24,02/04/2025,Debit Card,In-Store,3.0
+11120,79,Suresh,Nair,suresh.nair79@yahoo.com,+91-8519297269,Chennai,Apparel,Denim Jeans,1,3228.49,0.0,3228.49,10-26-2024,UPI,online,4.0
+10543,151,Amit,Patel,,+91-9989823509,,Beauty,Moisturizer,4,1326.11,0.0,5304.44,2024-08-17,UPI,Online,4.0
+10702,170,Kavya,Sharma,kavya.sharma170@gmial.com,8791386226,Ahmedabad,Apparel,Denim Jeans,5,3651.92,,18259.6,2024-03-12,Credit Card,In store,5.0
+10118,288,Sneha,Desai,sneha.desai288@gmail.co,7947167036,DELHI,Grocery,Almonds 500g,4,3470.78,0.0,13883.12,01-Mar-2025,COD,In-Store,5.0
+10758,121,Rahul,Desai,rahul.desai121@gmail.com,+91-9179497616,Bengaluru,Home & Kitchen,Cushion Cover,3,,0.0,1570.95,05-17-2024,Cash on Delivery,Online ,
+10629,59,Arjun,Bhatt,arjun.bhatt59@outlook.com,8517562451,,Electronics,Smartphone Case,5,2962.47,10.0,13331.11,2024/02/12,Cash on Delivery,Online,
+11183,207,  Suresh ,Bhatt,suresh.bhatt207@gmail.co,+91-9428087857,delhi,Electronics,USB Cable,3,3278.49,0.0,9835.47,01-18-2024,UPI ,online,4.0
+10968,224,Kavya,Bhatt,kavya.bhatt224@gmial.com,+91-7163981533,Delhi,Grocery,Almonds 500g,1,4209.67,5.0,3999.19,05-12-2024,NetBanking,Online ,
+10292,170,Kavya,Sharma,kavya.sharma170@gmail.co,+91-7804786298,Ahmedabad,Home & Kitchen,Non-stick Pan,1,1510.23,0.0,1510.23,02-01-2024,UPI ,Online ,2.0
+11064,188,Neha,Joshi,neha.joshi188@gmial.com,+91-7226950966,Bengaluru,Beauty,Face Wash,1,4699.77,15.0,3994.8,2024-02-20,UPI ,In-Store,
+10382,5,Kavya,Verma,kavya.verma5@outlook.com,+91-9767803644,Delhi,Beauty,Lipstick,2,587.71,,1175.42,08-29-2024,Cash on Delivery,In-Store,4.0
+10908,145,Priya,Joshi,priya.joshi145@gmail.co,+91-8465856264,Kolkata,Home & Kitchen,Electric Kettle,1,3193.47,15.0,2714.45,2025-06-25,UPI,Online,1.0
+10954,254,Sneha,Pillai,sneha.pillai254@yahoo.com,+91-8479833057,DELHI,Beauty,Sunscreen SPF50,2,2045.08,20.0,3272.13,29-Feb-2024,UPI,In store,1.0
+10201,275,Rahul,Nair,rahul.nair275@yahoo.com,+91-9655494969,mumbai,Beauty,Face Wash,3,1222.81,10.0,3301.59,08-06-2024,credit card,online,
+10597,258,Kavya,Bhatt,kavya.bhatt258@outlook.com,+91-9032283015,Mumbai,Grocery,Cooking Oil 1L,1,3609.01,0.0,3609.01,26/05/2024,UPI ,Online ,5.0
+11027,175,Divya,Kapoor,divya.kapoor175@outlook.com,+91-7094192358,Kolkata,Apparel,Denim Jeans,1,4604.0,20.0,3683.2,2024/11/24,NetBanking,Online,3.0
+11161,283,Meera,Agarwal,meera.agarwal283@outlook.com,+91-7964003404,Kolkata,Home & Kitchen,Non-stick Pan,2,1143.1,0.0,2286.2,19/04/2024,NetBanking,Online,3.0
+10839,71,Pooja,Rao,pooja.rao71@gmail.co,+91-7286984909,Ahmedabad,Electronics,Wireless Earbuds,1,568.93,15.0,483.59,10/07/2024,COD,Online ,3.0
+10900,292,Divya,Singh,divya.singh292@gmail.com,+91-8173876472,Bombay,Electronics,Smartwatch,1,2431.03,20.0,1944.82,09/05/2024,NetBanking,In-Store,4.0
+10506,73,  Neha ,Gupta,neha.gupta73@gmail.co,+91-9361581808,Kolkata,Home & Kitchen,Electric Kettle,1,3070.4,0.0,3070.4,2024/08/09,credit card,online,5.0
+10349,228,  Meera ,Sharma,meera.sharma228@yahoo.com,+91-9038447866,Pune,Beauty,Sunscreen SPF50,2,944.38,0.0,1888.76,10-Mar-2025,UPI,Online ,
+10970,176,Sanjay,Joshi,sanjay.joshi176@yahoo.com,+91-9625888978,Ahmedabad,Home & Kitchen,Storage Container Set,2,1035.4,20.0,1656.64,20-Jun-2025,COD,Online ,5.0
+10229,100,Karan,Rao,karan.rao100@gmail.co,+91-7502549822,Chennai,Beauty,Sunscreen SPF50,1,1416.37,0.0,1416.37,,Debit Card,Online ,
+10341,40,Ajay,Kapoor,ajay.kapoor40@outlook.com,+91-9930900179,Jaipur,Electronics,Smartphone Case,2,693.32,0.0,1386.64,31-May-2024,UPI,In-Store,
+10616,17,Priya,Rao,priya.rao17@gmail.com,+91-7313154228,Ahmedabad,Home & Kitchen,LED Lamp,2,1122.48,15.0,1908.22,01/03/2024,Cash on Delivery,Online ,1.0
+10155,151,Amit,Patel,amit.patel151@gmail.com,+91-7399881571,mumbai,Electronics,Bluetooth Speaker,2,,0.0,9531.12,03-16-2024,UPI,In store,5.0
+11128,272,Karan,Mehta,karan.mehta272@yahoo.com,+91-7393829222,Chennai,Grocery,Honey Jar,5,3296.43,10.0,14833.93,03-06-2025,Cash on Delivery,In-Store,4.0
+10799,129,Sneha,Kumar,sneha.kumar129@gmail.com,+91-8915263394,Chennai,Home & Kitchen,Electric Kettle,1,448.85,20.0,359.08,05-20-2025,Credit Card,Online ,1.0
+10078,244,Rohan,Rao,rohan.rao244@yahoo.com,+91-7755006725,mumbai,Beauty,Moisturizer,2,1707.66,0.0,3415.32,2024-03-01,Cash on Delivery,Online ,1.0
+10288,295,AMIT,Desai,AMIT.DESAI295@GMAIL.CO,+91-8247636714,Bangalore,Grocery,Green Tea Pack,1,3129.31,0.0,3129.31,2025/05/23,COD,In store,4.0
+10323,123,Pooja,Gupta,pooja.gupta123@gmail.com,+91-8450490338,Bengaluru,Beauty,Sunscreen SPF50,1,3994.78,0.0,3994.78,11-Nov-2024,NetBanking,In store,1.0
+10861,5,Kavya,Verma,kavya.verma5@yahoo.com,+91-9014626962,Delhi,Home & Kitchen,Electric Kettle,2,2639.24,20.0,4222.78,2024/01/22,NetBanking,Online,3.0
+10901,199,Sneha,Rao,sneha.rao199@outlook.com,+91-7535362532,Bangalore,Apparel,Sports Shoes,-2,1819.7,10.0,3275.46,2025/02/18,UPI ,Online ,4.0
+10834,241,Rohan,Sharma,rohan.sharma241@yahoo.com,+91-9900145275,Jaipur,Electronics,Bluetooth Speaker,2,2830.23,0.0,5660.46,07/04/2025,UPI ,Online,1.0
+10083,276,Kavya,Bhatt,kavya.bhatt276@gmail.com,+91-9171050399,Ahmedabad,Apparel,Denim Jeans,1,2698.71,0.0,2698.71,06-24-2025,Debit Card,Online ,4.0
+10830,97,RITU,Bhatt,RITU.BHATT97@YAHOO.COM,+91-7414838946,Bengaluru,Electronics,USB Cable,1,2551.73,10.0,2296.56,03-14-2024,Cash on Delivery,In store,4.0
+10465,235,Arjun,Malhotra,arjun.malhotra235@gmail.com,+91-7933102557,Chennai,Beauty,Moisturizer,1,2058.72,10.0,1852.85,14/02/2024,UPI,online,
+10884,176,Sanjay,Joshi,sanjay.joshi176@outlook.com,+91-9168877473,Ahmedabad,Grocery,Green Tea Pack,3,163.28,0.0,489.84,2025/05/09,Cash on Delivery,In-Store,5.0
+10793,6,Rahul,Reddy,rahul.reddy6@gmial.com,+91-9201532437,Bengaluru,Grocery,Basmati Rice 5kg,2,1996.25,10.0,3593.25,26-Apr-2025,UPI ,Online,4.0
+11195,90,Rohan,Desai,rohan.desai90@gmail.com,+91-7524961542,Hyderabad,Beauty,Shampoo,5,1102.05,15.0,4683.71,2024/10/19,UPI ,In-Store,
+10833,180,Meera,Sharma,meera.sharma180@gmail.com,+91-9711407770,Chennai,Beauty,Face Wash,4,337.56,0.0,1350.24,2025-05-14,COD,online,2.0
+10334,81,Vikram,Pillai,vikram.pillai81@gmial.com,+91-8838720022,Jaipur,Grocery,Cooking Oil 1L,2,569.4,,1138.8,18-Jun-2025,Cash on Delivery,Online ,4.0
+10011,213,Vikram,Reddy,vikram.reddy213@gmail.co,+91-8427818730,Mumbai,Home & Kitchen,Cushion Cover,2,4129.66,,8259.32,,COD,In-Store,
+10739,232,Manish,Patel,manish.patel232@yahoo.com,+91-9093174424,Delhi,Apparel,Formal Shirt,2,2797.52,15.0,4755.78,04-30-2024,NetBanking,online,
+10471,168,SANJAY,Pillai,sanjay.pillai168@yahoo.com,+91-8388854268,Bengaluru,Home & Kitchen,Cushion Cover,-2,3179.67,5.0,6041.37,08-Jul-2025,UPI ,Online,3.0
+10033,16,Pooja,Saxena,pooja.saxena16@outlook.com,+91-9437795758,Chennai,Electronics,Smartwatch,2,1974.54,10.0,3554.17,04-09-2025,UPI,online,2.0
+10819,130,Sneha,Singh,sneha.singh130@gmial.com,+91-8966598238,mumbai,Apparel,Sports Shoes,1,1653.02,,1653.02,09/08/2024,credit card,In-Store,4.0
+10414,75,Neha,Pillai,neha.pillai75@gmial.com,+91-9835435059,Bengaluru,Electronics,Smartwatch,1,561.17,0.0,561.17,18-Nov-2024,UPI,In store,3.0
+10581,116,Arjun,Nair,arjun.nair116@gmail.com,+91-8306916015,Chennai,Apparel,Cotton T-Shirt,2,3661.92,10.0,6591.46,2025/01/12,Credit Card,Online,2.0
+10383,252,Neha,Singh,NEHA.SINGH252@OUTLOOK.COM,+91-9352472676,mumbai,Beauty,Sunscreen SPF50,3,3629.32,0.0,10887.96,12/04/2024,Net Banking,Online ,5.0
+10864,106,Ajay,Bhatt,AJAY.BHATT106@OUTLOOK.COM,+91-8350961249,Ahmedabad,Electronics,USB Cable,3,4233.44,20.0,10160.26,2024/04/28,UPI ,In store,
+10797,96,Neha,Patel,neha.patel96@outlook.com,+91-9327865555,Pune,Beauty,Lipstick,1,2296.2,5.0,2181.39,2025-06-03,Debit Card,In-Store,4.0
+11157,192,Kavya,Pillai,kavya.pillai192@gmail.co,+91-7780220926,Bengaluru,Grocery,Almonds 500g,3,496.15,10.0,1339.6,16/11/2024,COD,In store,4.0
+10878,99,Sanjay,Sharma,sanjay.sharma99@yahoo.com,9603470574,Pune,Apparel,Formal Shirt,5,671.56,10.0,3022.02,2024/10/25,NetBanking,Online,5.0
+11163,299,Amit,Pillai,amit.pillai299@yahoo.com,+91-9893602501,Chennai,Electronics,USB Cable,3,1421.4,10.0,3837.78,2025-07-04,UPI ,online,1.0
+10379,268,Nisha,Malhotra,nisha.malhotra268@gmail.co,+91-8013346322,Kolkata,Grocery,Honey Jar,2,2557.79,15.0,4348.24,02/04/2024,Debit Card,online,4.0
+10090,90,Rohan,Desai,rohan.desai90@gmial.com,+91-8616884203,Hyderabad,Beauty,Shampoo,5,377.39,20.0,1509.56,18-Dec-2024,NetBanking,online,3.0
+10829,251,Rohan,Gupta,,+91-7457098881,Jaipur,Electronics,Bluetooth Speaker,3,2809.99,15.0,7165.47,2025/02/08,UPI ,In-Store,4.0
+10602,247,Sneha,Patel,sneha.patel247@gmail.co,+91-9127317293,Chennai,Home & Kitchen,Non-stick Pan,1,3741.29,0.0,3741.29,2025-06-07,Cash on Delivery,Online ,3.0
+10214,85,Kavya,Chopra,kavya.chopra85@gmail.com,+91-9094407076,Pune,Grocery,Cooking Oil 1L,5,,15.0,3919.48,2025/08/02,UPI,In store,4.0
+10333,100,Karan,Rao,karan.rao100@gmail.com,+91-8969581487,Chennai,Home & Kitchen,Storage Container Set,2,1779.07,0.0,3558.14,2024/02/02,Credit Card,online,4.0
+10134,84,Sneha,Singh,sneha.singh84@gmial.com,+91-7274328104,delhi,Beauty,Lipstick,2,959.77,15.0,1631.61,05-09-2024,Debit Card,Online,5.0
+10347,100,Karan,Rao,karan.rao100@gmail.com,+91-8694036518,Chennai,Grocery,Honey Jar,2,3939.22,,7878.44,11/10/2024,Credit Card,Online,4.0
+10899,3,Vikram,Singh,vikram.singh3@yahoo.com,+91-9410294696,delhi,Electronics,Power Bank,1,,10.0,2183.16,04-Jan-2025,NetBanking,Online,4.0
+10008,60,Sneha,Chopra,sneha.chopra60@gmail.co,+91-9141011556,Bombay,Beauty,Shampoo,1,3339.65,5.0,3172.67,09-Jul-2025,UPI ,Online,
+10882,130,SNEHA,Singh,sneha.singh130@gmial.com,+91-9433394189,mumbai,Beauty,Moisturizer,5,2397.99,15.0,10191.46,02-11-2025,COD,In-Store,3.0
+10321,224,Kavya,Bhatt,kavya.bhatt224@outlook.com,+91-9715589803,Delhi,Beauty,Face Wash,2,166.04,15.0,282.27,2025-05-08,NetBanking,online,2.0
+11081,192,Kavya,Pillai,kavya.pillai192@gmial.com,+91-9480811934,Bengaluru,Grocery,Green Tea Pack,1,371.67,20.0,297.34,2025-02-01,Credit Card,Online,1.0
+10188,241,Rohan,Sharma,rohan.sharma241@gmail.co,+91-9763026830,Jaipur,Beauty,Moisturizer,1,3794.44,0.0,3794.44,24/11/2024,credit card,online,4.0
+10635,292,Divya,Singh,divya.singh292@outlook.com,+91-7506651617,Bombay,Apparel,Sports Shoes,2,3915.77,10.0,7048.39,2025/02/21,UPI,Online ,2.0
+10553,46,Rahul,Malhotra,rahul.malhotra46@gmail.co,+91-8561100805,Pune,Electronics,Smartphone Case,5,1401.03,0.0,7005.15,04-29-2025,COD,In-Store,5.0
+10305,190,Priya,Nair,priya.nair190@gmial.com,+91-8693369537,Hyderabad,Grocery,Basmati Rice 5kg,1,3561.27,5.0,3383.21,2025-01-02,Net Banking,Online,5.0
+10032,220,Amit,Chopra,amit.chopra220@outlook.com,+91-7779130936,Chennai,Grocery,Honey Jar,1,3103.63,10.0,2793.27,2024-09-30,UPI,online,3.0
+10876,43,Rahul,Verma,RAHUL.VERMA43@GMAIL.COM,+91-9995239329,Bombay,Electronics,Wireless Earbuds,1,4011.54,,4011.54,09/01/2024,NetBanking,In store,3.0
+10685,204,Meera,Rao,MEERA.RAO204@OUTLOOK.COM,+91-9177421416,Bangalore,Grocery,Basmati Rice 5kg,5,4060.21,0.0,20301.05,2024-12-20,UPI ,Online,4.0
+11089,177,Vikram,Reddy,vikram.reddy177@gmail.com,+91-9252422265,Pune,Apparel,Denim Jeans,1,1027.52,0.0,1027.52,17/03/2025,Debit Card,Online ,2.0
+10241,203,Suresh,Kapoor,suresh.kapoor203@gmail.com,+91-8007716123,Bombay,Home & Kitchen,LED Lamp,3,3777.29,0.0,11331.87,17-Jun-2025,UPI ,In-Store,5.0
+10068,124,Pooja,Joshi,pooja.joshi124@gmail.com,+91-8135902437,Bangalore,Apparel,Sports Shoes,3,385.99,0.0,1157.97,15-Oct-2024,COD,online,5.0
+10175,235,  Arjun ,Malhotra,arjun.malhotra235@gmail.com,+91-7899290419,Chennai,Apparel,Hoodie,1,3927.86,0.0,3927.86,05-14-2025,UPI,online,3.0
+10767,80,Ritu,Reddy,ritu.reddy80@outlook.com,+91-7607228395,Ahmedabad,Grocery,Green Tea Pack,5,4653.74,0.0,23268.7,15-Jul-2025,COD,Online,4.0
+11194,43,Rahul,Verma,,+91-9297583702,Bombay,Electronics,Smartwatch,2,1312.28,0.0,2624.56,2025/06/17,UPI,In store,3.0
+10246,154,Sneha,Malhotra,sneha.malhotra154@gmail.co,+91-8073295668,Bombay,Electronics,Power Bank,2,3045.47,20.0,4872.75,2024/01/08,credit card,In-Store,3.0
+10057,39,Meera,Desai,meera.desai39@gmail.com,+91-9770953471,Chennai,Beauty,Lipstick,1,4771.03,0.0,4771.03,2024/05/26,COD,Online,5.0
+10631,172,Kavya,Gupta,kavya.gupta172@gmail.com,+91-7644516752,delhi,Beauty,Lipstick,5,4721.03,15.0,20064.38,2024/10/28,Credit Card,In-Store,1.0
+10584,198,  Meera ,Nair,meera.nair198@yahoo.com,+91-7453808274,Bombay,Apparel,Formal Shirt,1,1801.18,,1801.18,2025/06/24,credit card,online,3.0
+11048,186,Rahul,Joshi,rahul.joshi186@gmail.co,+91-9304812059,Ahmedabad,Electronics,Power Bank,2,2334.13,5.0,4434.85,2025-07-19,Credit Card,online,
+10146,77,Priya,Nair,priya.nair77@gmail.com,+91-7589424206,Mumbai,Electronics,USB Cable,2,3289.3,0.0,6578.6,25-May-2025,NetBanking,In store,4.0
+10091,154,Sneha,Malhotra,,+91-8418468740,Bombay,Apparel,Formal Shirt,1,2877.57,20.0,2302.06,2025/03/02,NetBanking,In-Store,2.0
+11138,179,Ajay,Joshi,ajay.joshi179@yahoo.com,8296097615,Pune,Apparel,Hoodie,4,1947.14,0.0,7788.56,2025/04/28,UPI,In-Store,5.0
+10393,240,Priya,Sharma,priya.sharma240@gmail.com,+91-7635885849,Bengaluru,Beauty,Face Wash,5,347.84,,1739.2,2024/12/31,COD,In store,2.0
+10893,109,Anjali,Gupta,ANJALI.GUPTA109@GMIAL.COM,+91-8584288034,Jaipur,Apparel,Denim Jeans,5,3901.3,,19506.5,09/03/2024,COD,Online ,4.0
+10683,14,Arjun,Singh,arjun.singh14@gmail.co,+91-8710173316,Mumbai,Apparel,Sports Shoes,1,,0.0,3874.04,01-12-2025,credit card,Online ,2.0
+10311,150,ANJALI,Patel,anjali.patel150@yahoo.com,+91-8182048491,Pune,Grocery,Basmati Rice 5kg,2,2501.09,10.0,4501.96,2024/05/09,Debit Card,online,5.0
+10360,8,  Meera ,Reddy,meera.reddy8@gmail.co,+91-9038887576,mumbai,Grocery,Cooking Oil 1L,2,4826.68,5.0,9170.69,2024/06/24,Credit Card,Online,5.0
+10094,51,Arjun,Singh,arjun.singh51@outlook.com,+91-9508397912,Chennai,Beauty,Lipstick,2,1947.92,0.0,3895.84,2025-02-27,Cash on Delivery,In-Store,4.0
+11129,297,Meera,Joshi,meera.joshi297@outlook.com,+91-8499396420,,Home & Kitchen,Electric Kettle,2,754.74,0.0,1509.48,16/02/2024,Debit Card,Online ,
+11047,243,Ritu,Singh,ritu.singh243@outlook.com,+91-8836087710,Jaipur,Grocery,Green Tea Pack,1,4236.42,10.0,3812.78,19/12/2024,Net Banking,online,1.0
+10377,126,Divya,Saxena,divya.saxena126@outlook.com,+91-8109805988,DELHI,Home & Kitchen,LED Lamp,5,2865.15,0.0,14325.75,22-Mar-2025,Credit Card,In-Store,5.0
+10244,140,Kavya,Desai,kavya.desai140@gmail.co,+91-9292585396,Delhi,Grocery,Almonds 500g,1,4852.28,20.0,3881.82,06/07/2025,COD,Online ,5.0
+10315,182,Ajay,Saxena,ajay.saxena182@gmial.com,+91-8038510073,delhi,Beauty,Shampoo,2,1774.59,20.0,2839.34,,Net Banking,Online ,4.0
+10088,58,Suresh,Sharma,SURESH.SHARMA58@GMAIL.CO,9567466567,Jaipur,Electronics,Smartwatch,4,3132.38,0.0,12529.52,17/01/2024,Cash on Delivery,Online,1.0
+10215,106,Ajay,Bhatt,ajay.bhatt106@gmail.co,+91-8174653422,Ahmedabad,Grocery,Green Tea Pack,4,2427.92,0.0,9711.68,2025-04-10,Credit Card,online,5.0
+10445,184,Manish,Reddy,manish.reddy184@gmail.com,+91-9824700379,Ahmedabad,Home & Kitchen,Cushion Cover,1,864.93,15.0,735.19,2024/11/12,credit card,online,3.0
+10174,37,Manish,Kumar,manish.kumar37@yahoo.com,+91-7860267314,Chennai,Beauty,Moisturizer,1,4357.36,0.0,4357.36,2025/01/25,Net Banking,In store,5.0
+10426,97,Ritu,Bhatt,ritu.bhatt97@yahoo.com,+91-9489160101,Bengaluru,Beauty,Shampoo,1,733.37,5.0,696.7,28/06/2025,Credit Card,online,
+11063,136,KAVYA,Iyer,kavya.iyer136@gmail.com,+91-9172384206,Delhi,Home & Kitchen,Storage Container Set,1,660.39,,660.39,07-20-2025,Net Banking,online,3.0
+10119,235,Arjun,Malhotra,arjun.malhotra235@gmial.com,+91-8826025489,Chennai,Grocery,Almonds 500g,1,2927.66,0.0,2927.66,2024/10/01,credit card,Online ,2.0
+10120,17,Priya,Rao,priya.rao17@gmail.co,+91-9621054475,Ahmedabad,Beauty,Lipstick,3,4331.67,5.0,12345.26,30-Mar-2024,Debit Card,In-Store,4.0
+11035,223,Ritu,Nair,ritu.nair223@outlook.com,+91-8564173484,Chennai,Beauty,Sunscreen SPF50,4,392.51,10.0,1413.04,03-22-2025,UPI,Online,
+11096,30,Sanjay,Iyer,sanjay.iyer30@gmail.co,9307553106,delhi,Home & Kitchen,Cushion Cover,2,4684.28,20.0,7494.85,26-Mar-2025,COD,online,4.0
+10001,175,Divya,Kapoor,divya.kapoor175@gmail.com,+91-9948284698,Kolkata,Apparel,Cotton T-Shirt,2,4714.16,,9428.32,2025-05-04,Debit Card,In store,1.0
+10395,63,Rahul,Bhatt,RAHUL.BHATT63@GMIAL.COM,+91-8156713879,Bombay,Beauty,Lipstick,1,4209.34,,4209.34,2024-06-06,Debit Card,In store,1.0
+10402,55,Divya,Agarwal,divya.agarwal55@gmial.com,+91-9585086853,Jaipur,Beauty,Shampoo,1,178.36,,178.36,2024-04-29,UPI,In store,
+10405,292,Divya,Singh,divya.singh292@gmail.com,+91-9087787720,Bombay,Beauty,Face Wash,3,188.19,10.0,508.11,18-Mar-2025,COD,Online ,
+10880,159,Arjun,Iyer,arjun.iyer159@yahoo.com,+91-8928097540,Bombay,Home & Kitchen,Electric Kettle,2,2387.24,0.0,4774.48,2024-06-07,Debit Card,Online,3.0
+10891,262,  Karan ,Saxena,karan.saxena262@yahoo.com,+91-8074926870,DELHI,Electronics,Power Bank,2,3959.66,20.0,6335.46,2024-12-30,credit card,In-Store,1.0
+10163,147,Neha,Singh,neha.singh147@outlook.com,+91-9655339870,Kolkata,Grocery,Green Tea Pack,4,1431.06,0.0,5724.24,2025/05/12,COD,Online,4.0
+10115,101,Kavya,Desai,kavya.desai101@gmail.co,+91-7490623034,delhi,Beauty,Face Wash,2,3402.9,20.0,5444.64,2025/05/16,credit card,Online ,5.0
+10671,265,Arjun,Nair,arjun.nair265@outlook.com,8904383663,Bombay,Electronics,Smartwatch,4,2169.44,0.0,8677.76,2024-03-03,Cash on Delivery,Online ,1.0
+10151,38,Vikram,Nair,vikram.nair38@outlook.com,+91-9413674172,mumbai,Home & Kitchen,LED Lamp,1,1782.32,,1782.32,26/11/2024,UPI,In store,5.0
+10842,262,Karan,Saxena,karan.saxena262@outlook.com,+91-8127293439,DELHI,Apparel,Cotton T-Shirt,5,2639.92,20.0,10559.68,2024/03/15,UPI,In-Store,4.0
+10982,52,Kavya,Patel,kavya.patel52@yahoo.com,+91-9965076441,Hyderabad,Home & Kitchen,Storage Container Set,2,4277.94,,8555.88,2025/06/21,UPI ,In store,4.0
+10562,158,Amit,Reddy,amit.reddy158@gmail.co,+91-8442364344,Pune,Grocery,Basmati Rice 5kg,5,3297.22,15.0,14013.18,11-Apr-2025,UPI ,online,2.0
+10369,201,Nisha,Mehta,nisha.mehta201@gmail.co,8573719360,DELHI,Home & Kitchen,LED Lamp,4,3142.16,0.0,12568.64,12-27-2024,credit card,Online,5.0
+10544,38,Vikram,Nair,vikram.nair38@gmail.com,+91-8788831866,mumbai,Beauty,Shampoo,1,296.4,0.0,296.4,09/01/2025,Debit Card,In-Store,3.0
+10478,140,Kavya,Desai,kavya.desai140@yahoo.com,+91-9070177372,Delhi,Beauty,Face Wash,3,2081.49,20.0,4995.58,20-Jun-2024,COD,In store,1.0
+11152,76,Amit,Gupta,amit.gupta76@yahoo.com,7202491725,mumbai,Apparel,Formal Shirt,2,3191.93,0.0,6383.86,2025/04/07,Debit Card,In-Store,2.0
+10533,189,Rohan,Kumar,rohan.kumar189@yahoo.com,+91-7090397488,Delhi,Apparel,Formal Shirt,1,2555.41,,2555.41,15/04/2025,UPI,In-Store,5.0
+10626,122,Suresh,Iyer,suresh.iyer122@outlook.com,+91-7165812391,Bangalore,Apparel,Cotton T-Shirt,2,4028.01,10.0,7250.42,2024-10-07,Cash on Delivery,Online ,5.0
+11022,46,Rahul,Malhotra,rahul.malhotra46@gmial.com,+91-9967523670,Pune,Grocery,Almonds 500g,1,1869.86,0.0,1869.86,15-Feb-2024,NetBanking,In-Store,
+10513,6,Rahul,Reddy,rahul.reddy6@gmail.co,+91-7031311400,Bengaluru,Beauty,Shampoo,1,2476.33,0.0,2476.33,2025/06/11,Debit Card,In store,4.0
+10840,104,AJAY,Desai,ajay.desai104@gmail.com,+91-8141978201,Delhi,Apparel,Hoodie,1,3771.21,0.0,3771.21,2025-02-04,credit card,Online,
+10073,57,Anjali,Desai,anjali.desai57@gmail.com,+91-9227727430,DELHI,Apparel,Cotton T-Shirt,5,1671.41,,8357.05,04-Jun-2024,Cash on Delivery,In store,4.0
+10808,115,Arjun,Iyer,arjun.iyer115@gmial.com,+91-9597471753,Bengaluru,Electronics,Bluetooth Speaker,3,4150.46,15.0,10583.67,2025/05/09,UPI,online,
+10259,40,Ajay,Kapoor,ajay.kapoor40@gmail.co,+91-9448250186,Jaipur,Apparel,Sports Shoes,1,640.94,5.0,608.89,2024/08/24,UPI ,In-Store,3.0
+10625,111,Sneha,Pillai,sneha.pillai111@gmail.co,+91-9459309237,Bengaluru,Electronics,Bluetooth Speaker,4,4348.85,10.0,15655.86,2024-02-28,NetBanking,In store,
+10827,239,Neha,Gupta,neha.gupta239@gmail.co,+91-7684737890,DELHI,Beauty,Shampoo,1,4465.24,15.0,3795.45,2024/12/17,UPI,Online ,3.0
+10235,5,Kavya,Verma,kavya.verma5@yahoo.com,+91-8018504919,Delhi,Electronics,Smartwatch,2,1990.23,10.0,3582.41,04-13-2024,credit card,Online ,5.0
+10136,7,Suresh,Saxena,suresh.saxena7@yahoo.com,+91-8787808459,Delhi,Apparel,Cotton T-Shirt,5,1915.29,20.0,7661.16,02/06/2024,Credit Card,Online ,5.0
+10617,42,VIKRAM,Agarwal,vikram.agarwal42@outlook.com,+91-8303171900,Hyderabad,Grocery,Almonds 500g,1,1461.97,5.0,1388.87,2024-02-12,Credit Card,In store,4.0
+10517,44,Sneha,Kumar,sneha.kumar44@gmial.com,+91-8285419081,delhi,Grocery,Honey Jar,1,2141.99,5.0,2034.89,2025-05-14,UPI,online,5.0
+11072,280,Neha,Malhotra,neha.malhotra280@gmail.co,+91-7759679834,mumbai,Beauty,Face Wash,4,2321.85,5.0,8823.03,15/07/2025,Net Banking,online,5.0
+10837,175,Divya,Kapoor,divya.kapoor175@gmail.co,+91-8881613547,Kolkata,Grocery,Almonds 500g,2,3612.07,0.0,7224.14,2024-04-28,UPI,In-Store,
+10843,203,Suresh,Kapoor,suresh.kapoor203@yahoo.com,+91-9238788179,Bombay,Electronics,Smartphone Case,3,2045.26,20.0,4908.62,18/08/2024,COD,Online ,5.0
+10803,156,Rohan,Rao,rohan.rao156@gmail.com,+91-7455315952,Kolkata,Grocery,Green Tea Pack,2,1071.24,,2142.48,26-May-2025,UPI ,In-Store,2.0
+10810,216,Priya,Reddy,priya.reddy216@gmail.co,+91-8348993465,Bombay,Electronics,Bluetooth Speaker,5,3912.61,0.0,19563.05,31-May-2024,UPI ,Online ,2.0
+10593,248,Sneha,Pillai,sneha.pillai248@gmail.com,+91-9988464377,Delhi,Electronics,Bluetooth Speaker,1,867.32,,867.32,24/02/2025,UPI,online,4.0
+11079,188,NEHA,Joshi,neha.joshi188@yahoo.com,+91-9486692500,Bengaluru,Electronics,Smartphone Case,1,383.5,0.0,383.5,02-06-2025,Cash on Delivery,online,2.0
+10502,246,Nisha,Saxena,nisha.saxena246@gmail.com,+91-9308592457,mumbai,Home & Kitchen,Non-stick Pan,1,2012.21,15.0,1710.38,03-20-2025,UPI,Online,3.0
+10539,189,Rohan,Kumar,rohan.kumar189@gmial.com,+91-9054849838,Delhi,Home & Kitchen,Non-stick Pan,1,4329.31,20.0,3463.45,01/06/2024,credit card,In-Store,2.0
+10946,100,Karan,Rao,KARAN.RAO100@GMAIL.CO,+91-7235246186,Chennai,Apparel,Denim Jeans,1,1047.03,20.0,837.62,08-16-2024,UPI,In store,4.0
+10729,195,Amit,Singh,amit.singh195@gmail.co,+91-9218334233,DELHI,Electronics,Power Bank,5,2086.01,0.0,10430.05,29-Jul-2024,Debit Card,Online,2.0
+10582,195,Amit,Singh,amit.singh195@gmial.com,+91-9240958047,DELHI,Home & Kitchen,Electric Kettle,1,2979.75,20.0,2383.8,02/05/2024,credit card,In-Store,
+10344,79,Suresh,Nair,suresh.nair79@outlook.com,+91-9415864311,Chennai,Apparel,Denim Jeans,1,349.58,10.0,314.62,2024/11/20,UPI,In store,1.0
+10977,182,AJAY,Saxena,ajay.saxena182@gmail.co,+91-7565365414,delhi,Apparel,Formal Shirt,4,3136.24,0.0,12544.96,2024/05/04,NetBanking,In store,
+10890,281,Neha,Joshi,neha.joshi281@gmail.com,+91-8449679618,delhi,Electronics,Wireless Earbuds,1,4385.12,0.0,4385.12,04/01/2024,Debit Card,online,2.0
+10294,228,Meera,Sharma,meera.sharma228@outlook.com,+91-7421987239,Pune,Grocery,Basmati Rice 5kg,5,4539.04,10.0,20425.68,06/06/2024,credit card,In store,
+10365,183,Arjun,Rao,arjun.rao183@gmail.com,+91-9135774649,Hyderabad,Beauty,Shampoo,4,4939.49,0.0,19757.96,06-07-2025,UPI,In store,4.0
+10898,282,Ajay,Chopra,ajay.chopra282@gmial.com,8431368938,Hyderabad,Grocery,Basmati Rice 5kg,2,4545.65,10.0,8182.17,2024-10-31,UPI ,Online,5.0
+10660,151,Amit,Patel,amit.patel151@gmail.co,+91-9637109140,mumbai,Home & Kitchen,Cushion Cover,3,3133.24,10.0,8459.75,2025/01/15,UPI,In-Store,5.0
+10015,52,Kavya,Patel,kavya.patel52@outlook.com,+91-8048819999,Hyderabad,Beauty,Moisturizer,2,4531.61,15.0,7703.74,02-17-2024,Credit Card,online,
+10687,197,Suresh,Rao,suresh.rao197@gmial.com,8209952243,Delhi,Electronics,Smartphone Case,1,1785.01,,1785.01,21/09/2024,NetBanking,Online ,1.0
+10087,276,Kavya,Bhatt,kavya.bhatt276@gmail.co,+91-8628980027,Ahmedabad,Beauty,Shampoo,1,3680.11,,3680.11,2024-08-16,Credit Card,online,4.0
+10371,173,Arjun,Saxena,arjun.saxena173@gmail.com,+91-9525394550,Kolkata,Apparel,Cotton T-Shirt,3,331.28,10.0,894.46,2025/03/08,NetBanking,In store,1.0
+10166,260,Manish,Kumar,manish.kumar260@gmail.com,+91-7855169963,Pune,Beauty,Moisturizer,1,992.63,,992.63,2024-07-24,Cash on Delivery,Online,5.0
+10132,213,Vikram,Reddy,vikram.reddy213@outlook.com,7872726570,Mumbai,Beauty,Sunscreen SPF50,1,3256.61,0.0,3256.61,2025/07/04,UPI,online,3.0
+10336,7,Suresh,Saxena,suresh.saxena7@yahoo.com,+91-9449766862,Delhi,Beauty,Moisturizer,1,1888.27,10.0,1699.44,2024-09-01,Credit Card,In store,1.0
+10060,45,Anjali,Kapoor,anjali.kapoor45@gmail.co,+91-7863204110,Jaipur,Home & Kitchen,Storage Container Set,1,2817.49,15.0,2394.87,10-24-2024,UPI,In-Store,3.0
+10710,276,Kavya,Bhatt,kavya.bhatt276@yahoo.com,+91-8958788771,Ahmedabad,Electronics,Wireless Earbuds,5,2898.51,5.0,13767.92,10/09/2024,Net Banking,In-Store,3.0
+11034,294,Pooja,Patel,pooja.patel294@gmial.com,+91-9930921810,,Home & Kitchen,Electric Kettle,2,2722.21,10.0,4899.98,08-17-2025,UPI,Online,5.0
+10677,18,Sneha,Malhotra,sneha.malhotra18@outlook.com,+91-7430388763,Mumbai,Home & Kitchen,Non-stick Pan,3,4366.25,15.0,11133.94,09/01/2024,UPI ,In store,3.0
+10355,155,  Priya ,Bhatt,priya.bhatt155@outlook.com,+91-8769502913,Bengaluru,Home & Kitchen,Storage Container Set,1,2741.94,10.0,2467.75,26/12/2024,Credit Card,In-Store,5.0
+11014,153,Neha,Iyer,neha.iyer153@gmial.com,+91-9942721383,Bangalore,Grocery,Almonds 500g,4,3949.13,5.0,15006.69,25-Jun-2025,Cash on Delivery,Online,2.0
+10425,24,  Karan ,Rao,karan.rao24@gmail.co,9657313676,delhi,Beauty,Lipstick,1,4349.87,0.0,4349.87,2024/01/26,Net Banking,Online ,
+10293,162,Meera,Mehta,,+91-7482029643,Delhi,Electronics,Bluetooth Speaker,4,570.97,5.0,2169.69,08-31-2024,COD,online,5.0
+10042,225,Sanjay,Mehta,sanjay.mehta225@outlook.com,7405899939,delhi,Beauty,Shampoo,1,1914.91,0.0,1914.91,16-Oct-2024,UPI ,online,
+11082,281,Neha,Joshi,neha.joshi281@gmail.co,+91-9921514427,delhi,Electronics,Wireless Earbuds,4,3628.07,,14512.28,05-03-2025,Credit Card,In-Store,3.0
+10330,243,Ritu,Singh,ritu.singh243@gmial.com,+91-9649218939,Jaipur,Beauty,Moisturizer,1,3400.19,5.0,3230.18,2024-02-14,credit card,online,
+10615,81,Vikram,Pillai,vikram.pillai81@gmail.co,+91-7476202228,Jaipur,Home & Kitchen,Non-stick Pan,2,4288.0,0.0,8576.0,05-27-2025,UPI ,Online ,
+10430,120,Nisha,Pillai,nisha.pillai120@gmial.com,9730735895,Mumbai,Electronics,Bluetooth Speaker,1,1344.63,20.0,1075.7,22/07/2025,Net Banking,Online ,
+10080,235,Arjun,Malhotra,arjun.malhotra235@gmial.com,+91-7372535899,Chennai,Home & Kitchen,Electric Kettle,1,3722.6,20.0,2978.08,2024/10/29,Cash on Delivery,In-Store,4.0
+10694,286,Divya,Iyer,DIVYA.IYER286@GMAIL.CO,+91-9890452655,Bengaluru,Electronics,Bluetooth Speaker,3,1700.27,5.0,4845.77,31/03/2025,COD,In store,4.0
+10029,151,Amit,Patel,amit.patel151@yahoo.com,+91-8947762953,mumbai,Beauty,Shampoo,4,631.02,,2524.08,2024/04/27,Cash on Delivery,In store,4.0
+10708,249,Divya,Pillai,divya.pillai249@outlook.com,+91-7644625298,delhi,Apparel,Sports Shoes,5,1000.63,5.0,4752.99,2025-01-23,Debit Card,online,5.0
+11025,294,Pooja,Patel,pooja.patel294@outlook.com,+91-7649994725,Chennai,Apparel,Hoodie,4,2733.61,0.0,10934.44,28/05/2025,Credit Card,In store,
+11187,5,Kavya,Verma,kavya.verma5@outlook.com,+91-8669873130,Delhi,Home & Kitchen,Electric Kettle,2,4669.57,,9339.14,28-Oct-2024,Credit Card,online,5.0
+10255,284,Kavya,Desai,kavya.desai284@gmail.co,+91-7796863703,Kolkata,Apparel,Cotton T-Shirt,1,2329.51,0.0,2329.51,2024/09/26,credit card,In store,1.0
+10161,99,  Sanjay ,Sharma,sanjay.sharma99@outlook.com,+91-7287814151,Pune,Apparel,Cotton T-Shirt,4,530.09,10.0,1908.32,21/03/2025,UPI,Online ,2.0
+10459,116,Arjun,Nair,arjun.nair116@gmail.co,+91-7597579155,Chennai,Beauty,Sunscreen SPF50,4,3849.78,0.0,15399.12,07-04-2025,credit card,Online ,3.0
+10384,95,Meera,Sharma,meera.sharma95@yahoo.com,+91-9788209287,Mumbai,Beauty,Moisturizer,1,2093.21,0.0,2093.21,11-08-2024,Debit Card,Online,3.0
+10314,273,Nisha,Iyer,NISHA.IYER273@GMIAL.COM,+91-8355872317,Ahmedabad,Apparel,Formal Shirt,4,2451.76,10.0,8826.34,2024/05/28,UPI ,Online,
+10085,158,Amit,Reddy,amit.reddy158@outlook.com,+91-9324279536,Pune,Electronics,Power Bank,2,4109.8,20.0,6575.68,2024/08/11,Debit Card,Online,1.0
+10575,192,Kavya,Pillai,kavya.pillai192@gmial.com,7772682813,Bengaluru,Electronics,Power Bank,1,4463.83,15.0,3794.26,06-07-2025,UPI ,online,5.0
+10763,176,Sanjay,Joshi,sanjay.joshi176@outlook.com,+91-7973412274,Ahmedabad,Apparel,Cotton T-Shirt,2,,0.0,3745.02,03-16-2025,COD,Online,5.0
+10137,258,KAVYA,Bhatt,kavya.bhatt258@outlook.com,+91-9375509447,Mumbai,Electronics,Smartphone Case,2,4051.04,10.0,7291.87,17-Feb-2024,Debit Card,In store,
+10112,152,Arjun,Kapoor,arjun.kapoor152@yahoo.com,+91-8495938377,DELHI,Beauty,Face Wash,1,4181.89,,4181.89,05-25-2024,Net Banking,online,
+10195,281,Neha,Joshi,neha.joshi281@gmail.com,+91-9414975110,delhi,Home & Kitchen,Cushion Cover,2,1124.31,15.0,1911.33,10-24-2024,UPI,In-Store,
+10853,209,Rahul,Joshi,rahul.joshi209@yahoo.com,+91-8869140915,Bengaluru,Apparel,Denim Jeans,5,3106.59,0.0,15532.95,,Net Banking,Online,4.0
+10179,12,Kavya,Mehta,KAVYA.MEHTA12@GMAIL.CO,+91-9843139149,Chennai,Grocery,Honey Jar,1,747.34,0.0,747.34,08-Feb-2024,Net Banking,Online ,2.0
+10556,56,Rohan,Kumar,ROHAN.KUMAR56@YAHOO.COM,+91-9045347041,Kolkata,Beauty,Sunscreen SPF50,2,2097.37,,4194.74,03-07-2024,credit card,Online ,2.0
+10724,145,Priya,Joshi,priya.joshi145@gmail.co,+91-7376798590,Kolkata,Grocery,Green Tea Pack,1,3712.0,0.0,3712.0,2025-08-01,NetBanking,Online,
+10860,121,Rahul,Desai,rahul.desai121@gmial.com,+91-8584544804,Bengaluru,Electronics,Smartphone Case,1,476.8,0.0,476.8,04-13-2024,UPI,Online ,3.0
+10497,92,Karan,Rao,karan.rao92@gmial.com,+91-8495967867,Bengaluru,Beauty,Sunscreen SPF50,2,,15.0,8371.29,2024-06-12,NetBanking,In store,4.0
+10904,189,Rohan,Kumar,rohan.kumar189@gmial.com,+91-9859833994,Delhi,Home & Kitchen,LED Lamp,4,3348.67,5.0,12724.95,08-Oct-2024,Cash on Delivery,In-Store,4.0
+10806,244,Rohan,Rao,rohan.rao244@gmail.co,+91-8069872336,mumbai,Home & Kitchen,Cushion Cover,3,2949.52,5.0,8406.13,05/12/2024,UPI,online,
+10130,201,Nisha,Mehta,nisha.mehta201@gmail.co,+91-7051827414,DELHI,Home & Kitchen,Non-stick Pan,2,2550.21,0.0,5100.42,25/04/2024,COD,Online ,5.0
+10716,80,Ritu,Reddy,ritu.reddy80@gmail.co,+91-8156991983,Ahmedabad,Home & Kitchen,Electric Kettle,2,3867.03,,7734.06,24/06/2024,UPI,online,4.0
+10338,172,Kavya,Gupta,kavya.gupta172@outlook.com,+91-9783880354,delhi,Electronics,USB Cable,3,4456.69,0.0,13370.07,23-Apr-2024,credit card,In store,
+10190,156,Rohan,Rao,rohan.rao156@gmial.com,+91-9661840210,Kolkata,Grocery,Honey Jar,2,3324.79,5.0,6317.1,04-12-2025,credit card,Online,
+10609,166,Pooja,Mehta,pooja.mehta166@yahoo.com,7456213281,Pune,Grocery,Honey Jar,3,2984.79,0.0,8954.37,2025-02-17,Credit Card,Online,
+10125,9,Meera,Kapoor,meera.kapoor9@outlook.com,8548058189,Bengaluru,Electronics,Smartphone Case,5,2364.11,0.0,11820.55,14/03/2025,UPI,online,5.0
+10196,274,Amit,Agarwal,amit.agarwal274@yahoo.com,+91-7691212228,Bengaluru,Home & Kitchen,LED Lamp,1,2685.24,0.0,2685.24,26-Jan-2024,UPI,Online,5.0
+10227,225,Sanjay,Mehta,sanjay.mehta225@gmail.com,+91-9813285701,delhi,Electronics,Smartphone Case,2,1094.52,0.0,2189.04,2025/06/06,Cash on Delivery,Online ,1.0
+10690,269,Amit,Bhatt,amit.bhatt269@gmial.com,+91-7338292529,Bombay,Grocery,Almonds 500g,1,521.2,0.0,521.2,2025-01-16,UPI,Online ,5.0
+10269,192,Kavya,Pillai,KAVYA.PILLAI192@OUTLOOK.COM,+91-7477935341,Bengaluru,Apparel,Jacket,1,695.0,0.0,695.0,25/02/2024,UPI,online,5.0
+10153,122,Suresh,Iyer,suresh.iyer122@yahoo.com,+91-7291176364,Bangalore,Home & Kitchen,Storage Container Set,-1,,10.0,2911.96,03-31-2024,COD,Online,5.0
+10910,124,Pooja,Joshi,pooja.joshi124@yahoo.com,+91-7188449193,Bangalore,Grocery,Green Tea Pack,5,1253.75,0.0,6268.75,2025-07-29,Debit Card,Online,4.0
+10585,263,Meera,Bhatt,meera.bhatt263@yahoo.com,+91-7460306182,Hyderabad,Apparel,Formal Shirt,2,482.9,0.0,965.8,09/03/2025,Net Banking,Online ,2.0
+10951,77,Priya,Nair,,9867819817,Mumbai,Apparel,Sports Shoes,2,4271.35,,8542.7,2024-10-05,Credit Card,In-Store,
+10104,139,Manish,Desai,manish.desai139@gmail.com,8520050282,mumbai,Electronics,Smartphone Case,1,1058.85,20.0,847.08,2025/04/04,NetBanking,Online ,
+10594,194,Neha,Kumar,neha.kumar194@gmial.com,+91-8186472391,delhi,Electronics,Bluetooth Speaker,5,4938.56,15.0,20988.88,23/06/2025,Net Banking,online,5.0
+11121,173,Arjun,Saxena,arjun.saxena173@gmail.co,8704327824,Kolkata,Apparel,Hoodie,-1,4516.06,0.0,4516.06,05-Sep-2024,Cash on Delivery,Online,
+10787,19,Meera,Joshi,meera.joshi19@yahoo.com,+91-7914878945,Bombay,Electronics,Wireless Earbuds,1,254.11,15.0,215.99,,Debit Card,online,5.0
+11019,71,Pooja,Rao,pooja.rao71@gmail.co,+91-7049538256,Ahmedabad,Apparel,Cotton T-Shirt,5,4742.0,,23710.0,2024/12/30,NetBanking,In-Store,
+10885,101,Kavya,Desai,kavya.desai101@outlook.com,+91-8749496067,delhi,Beauty,Face Wash,5,4826.09,0.0,24130.45,,NetBanking,In store,2.0
+10777,97,Ritu,Bhatt,ritu.bhatt97@outlook.com,+91-9766539517,Bengaluru,Apparel,Jacket,3,362.23,0.0,1086.69,15/01/2024,credit card,online,1.0
+10949,16,Pooja,Saxena,pooja.saxena16@gmail.com,+91-8642541045,Chennai,Grocery,Cooking Oil 1L,4,3013.98,10.0,10850.33,2025/01/02,UPI,In store,4.0
+10850,56,Rohan,Kumar,,+91-8191235049,Kolkata,Beauty,Sunscreen SPF50,4,1668.74,0.0,6674.96,23/05/2024,Debit Card,online,2.0
+10895,254,Sneha,Pillai,sneha.pillai254@outlook.com,7457732911,DELHI,Grocery,Honey Jar,3,730.8,20.0,1753.92,02-03-2024,Cash on Delivery,online,1.0
+10228,205,Ritu,Rao,ritu.rao205@gmail.co,+91-8495057700,Chennai,Home & Kitchen,LED Lamp,4,2992.49,10.0,10772.96,2025-06-14,Debit Card,Online,5.0
+11143,203,Suresh,Kapoor,suresh.kapoor203@yahoo.com,+91-9808129503,Bombay,Grocery,Basmati Rice 5kg,1,2828.02,0.0,2828.02,17/11/2024,Net Banking,In store,2.0
+10302,221,Sanjay,Kapoor,sanjay.kapoor221@gmail.com,+91-8988176599,Ahmedabad,Beauty,Shampoo,3,2790.96,,8372.88,29/08/2024,Debit Card,Online ,5.0
+10855,256,Kavya,Chopra,kavya.chopra256@yahoo.com,+91-7889620495,Mumbai,Grocery,Honey Jar,4,4215.36,20.0,13489.15,07-29-2024,UPI,Online,4.0
+10276,211,Meera,Gupta,meera.gupta211@gmail.co,+91-9601051560,Bangalore,Home & Kitchen,LED Lamp,2,886.99,0.0,1773.98,2024-07-11,UPI,In-Store,4.0
+10127,62,Neha,Pillai,neha.pillai62@outlook.com,+91-7588965831,Mumbai,Beauty,Moisturizer,5,493.52,15.0,2097.46,2025-01-27,Debit Card,Online,4.0
+10406,250,Sanjay,Malhotra,sanjay.malhotra250@outlook.com,+91-8791591720,,Apparel,Jacket,1,2712.3,0.0,2712.3,2025/03/08,credit card,Online ,
+10776,56,Rohan,Kumar,ROHAN.KUMAR56@GMAIL.CO,+91-7613143978,,Electronics,Smartphone Case,1,4190.51,20.0,3352.41,2024-07-07,Debit Card,In-Store,
+10822,105,Arjun,Verma,ARJUN.VERMA105@YAHOO.COM,+91-9490123268,Delhi,Electronics,Smartwatch,1,4419.41,0.0,4419.41,02/05/2025,Credit Card,Online,
+10712,164,Ajay,Iyer,ajay.iyer164@gmail.co,+91-9445250621,Delhi,Electronics,Smartphone Case,5,714.57,5.0,3394.21,26-Mar-2024,Cash on Delivery,Online,1.0
+10766,91,Vikram,Kapoor,vikram.kapoor91@gmail.com,+91-7774884071,Bangalore,Grocery,Cooking Oil 1L,5,297.16,10.0,1337.22,2024/02/09,Debit Card,online,
+10684,109,Anjali,Gupta,anjali.gupta109@gmial.com,+91-9064384875,Jaipur,Home & Kitchen,LED Lamp,1,1797.0,10.0,1617.3,03-Jul-2024,UPI,online,1.0
+10750,51,Arjun,Singh,arjun.singh51@outlook.com,+91-8890838239,Chennai,Grocery,Basmati Rice 5kg,1,4838.64,0.0,4838.64,09-01-2024,UPI ,In store,
+11146,294,Pooja,Patel,pooja.patel294@gmial.com,+91-7290858683,Chennai,Electronics,Smartphone Case,2,4407.4,10.0,7933.32,2024-08-23,Cash on Delivery,In-Store,2.0
+10037,214,Kavya,Kapoor,kavya.kapoor214@gmial.com,+91-8045036297,Kolkata,Home & Kitchen,Non-stick Pan,4,251.15,0.0,1004.6,28/11/2024,COD,online,4.0
+10140,267,Neha,Rao,neha.rao267@gmial.com,9438771483,Jaipur,Beauty,Lipstick,5,4876.59,0.0,24382.95,2024/03/27,Debit Card,Online ,1.0
+10304,150,Anjali,Patel,anjali.patel150@gmail.com,+91-9626332786,Pune,Beauty,Shampoo,5,1098.98,15.0,4670.66,11-20-2024,Net Banking,In store,
+10268,212,  Vikram ,Nair,vikram.nair212@outlook.com,+91-8899277934,Pune,Beauty,Lipstick,3,1073.88,0.0,3221.64,2024/12/18,Credit Card,online,3.0
+10835,238,Meera,Verma,MEERA.VERMA238@GMAIL.CO,+91-8940148119,Kolkata,Home & Kitchen,Cushion Cover,4,4036.34,0.0,16145.36,2025-07-02,Net Banking,Online ,5.0
+10534,97,RITU,Bhatt,ritu.bhatt97@gmail.com,+91-8622961340,Bengaluru,Electronics,Smartphone Case,1,2218.02,0.0,2218.02,10-Apr-2025,Debit Card,Online ,4.0
+10546,233,Karan,Malhotra,karan.malhotra233@yahoo.com,+91-8719715299,Kolkata,Grocery,Green Tea Pack,2,3590.36,20.0,5744.58,09/03/2025,Net Banking,Online,1.0
+10213,277,Neha,Bhatt,neha.bhatt277@gmial.com,+91-7045490921,delhi,Beauty,Moisturizer,3,2053.62,0.0,6160.86,24/10/2024,COD,Online ,4.0
+10897,48,Karan,Desai,karan.desai48@yahoo.com,+91-9500651061,Bombay,Apparel,Sports Shoes,1,1908.28,0.0,1908.28,04-07-2024,credit card,online,2.0
+10469,18,Sneha,Malhotra,sneha.malhotra18@gmail.com,+91-7209013271,Mumbai,Grocery,Cooking Oil 1L,5,3529.2,,17646.0,2025-06-19,UPI ,online,4.0
+10199,91,VIKRAM,Kapoor,vikram.kapoor91@gmail.co,+91-7691184145,Bangalore,Electronics,Smartphone Case,1,3715.14,10.0,3343.63,02-May-2024,Credit Card,In store,5.0
+11049,276,Kavya,Bhatt,kavya.bhatt276@outlook.com,+91-8350776151,Ahmedabad,Beauty,Shampoo,4,4942.63,0.0,19770.52,2025/06/24,UPI,Online ,
+10868,267,Neha,Rao,neha.rao267@gmail.com,+91-9515223769,Jaipur,Home & Kitchen,Non-stick Pan,5,2106.55,15.0,8952.84,04-16-2025,credit card,online,2.0
+10673,163,Sneha,Iyer,sneha.iyer163@outlook.com,+91-9758732190,Bangalore,Grocery,Basmati Rice 5kg,1,3975.37,5.0,3776.6,08-10-2024,COD,Online,4.0
+10917,300,Ritu,Bhatt,ritu.bhatt300@yahoo.com,+91-8911585982,Hyderabad,Home & Kitchen,LED Lamp,1,4169.56,20.0,3335.65,,Cash on Delivery,In store,5.0
+10528,149,  Vikram ,Nair,vikram.nair149@yahoo.com,+91-9187333938,Bombay,Electronics,USB Cable,1,4002.79,0.0,4002.79,13-Jul-2024,COD,Online ,4.0
+10676,138,Vikram,Iyer,vikram.iyer138@gmial.com,+91-9520375991,Bangalore,Electronics,USB Cable,2,1402.34,0.0,2804.68,04-23-2025,Credit Card,Online,5.0
+11075,52,Kavya,Patel,kavya.patel52@outlook.com,+91-8912055932,Hyderabad,Electronics,Wireless Earbuds,5,3927.71,15.0,16692.77,2025-02-01,Credit Card,In-Store,4.0
+10815,79,Suresh,Nair,SURESH.NAIR79@GMAIL.COM,+91-9994127977,Chennai,Apparel,Sports Shoes,3,1716.31,,5148.93,2025-02-09,NetBanking,online,4.0
+10242,86,Kavya,Rao,kavya.rao86@gmail.co,+91-7357561213,Bombay,Beauty,Face Wash,1,459.39,20.0,367.51,2025/04/29,Credit Card,Online,2.0
+10343,68,Nisha,Kapoor,nisha.kapoor68@outlook.com,+91-7714523942,Bengaluru,Home & Kitchen,Electric Kettle,2,1249.89,15.0,2124.81,01-15-2025,Credit Card,In-Store,3.0
+10550,209,Rahul,Joshi,rahul.joshi209@yahoo.com,+91-7338240928,Bengaluru,Grocery,Basmati Rice 5kg,1,264.87,0.0,264.87,26-Jan-2025,Credit Card,online,2.0
+10387,270,Arjun,Patel,arjun.patel270@gmial.com,+91-7887365823,Hyderabad,Beauty,Sunscreen SPF50,5,724.78,,3623.9,27/07/2024,Net Banking,online,4.0
+11125,165,  Sneha ,Saxena,sneha.saxena165@gmail.com,+91-8866578979,Pune,Beauty,Shampoo,5,1885.1,0.0,9425.5,2024-07-08,COD,Online,3.0
+10967,101,Kavya,Desai,kavya.desai101@gmial.com,+91-9285770047,delhi,Grocery,Cooking Oil 1L,1,,0.0,4679.44,04-07-2025,UPI ,Online,
+10207,201,Nisha,Mehta,nisha.mehta201@gmail.com,9459807647,DELHI,Grocery,Green Tea Pack,1,1595.57,0.0,1595.57,2025-01-17,NetBanking,Online ,4.0
+10296,108,Suresh,Gupta,suresh.gupta108@yahoo.com,+91-7491603670,Bombay,Home & Kitchen,Electric Kettle,2,1539.85,10.0,2771.73,06-29-2025,COD,Online,1.0
+10696,221,Sanjay,Kapoor,sanjay.kapoor221@gmial.com,+91-7530402737,Ahmedabad,Beauty,Face Wash,2,2848.73,0.0,5697.46,17/05/2025,UPI ,Online ,2.0
+11092,261,Anjali,Agarwal,anjali.agarwal261@yahoo.com,7762924767,delhi,Home & Kitchen,Storage Container Set,2,4351.23,,8702.46,2024/04/08,UPI,In-Store,
+10074,193,  Sanjay ,Bhatt,sanjay.bhatt193@yahoo.com,+91-8198323340,Pune,Home & Kitchen,Electric Kettle,5,4573.8,,22869.0,2024/12/16,credit card,online,
+10606,55,Divya,Agarwal,divya.agarwal55@gmail.com,+91-7146387689,Jaipur,Beauty,Sunscreen SPF50,4,868.61,20.0,2779.55,17-Oct-2024,Debit Card,Online ,
+10105,198,Meera,Nair,meera.nair198@gmial.com,+91-8154998170,Bombay,Electronics,Bluetooth Speaker,4,2030.83,0.0,8123.32,2024/03/27,Cash on Delivery,Online ,5.0
+10996,3,Vikram,Singh,vikram.singh3@gmail.com,+91-7651921884,delhi,Grocery,Almonds 500g,5,550.84,20.0,2203.36,2025-05-26,Debit Card,In-Store,2.0
+11026,33,Priya,Mehta,priya.mehta33@yahoo.com,+91-7463686680,Pune,Electronics,Bluetooth Speaker,1,1190.09,0.0,1190.09,2024/04/25,Cash on Delivery,online,4.0
+11193,298,Vikram,Bhatt,vikram.bhatt298@yahoo.com,+91-9294868026,Mumbai,Home & Kitchen,Cushion Cover,5,1117.28,15.0,4748.44,2024/10/23,Cash on Delivery,Online,1.0
+10017,280,Neha,Malhotra,neha.malhotra280@yahoo.com,+91-9075362821,mumbai,Apparel,Cotton T-Shirt,5,4734.39,10.0,21304.76,02-Nov-2024,Net Banking,In store,2.0
+10440,39,Meera,Desai,meera.desai39@gmail.com,+91-9689925587,Chennai,Apparel,Denim Jeans,1,1746.74,20.0,1397.39,2024-03-05,Credit Card,In store,5.0
+10092,98,Sanjay,Verma,SANJAY.VERMA98@GMIAL.COM,+91-8430070821,Bangalore,Electronics,Bluetooth Speaker,4,3417.31,5.0,12985.78,2024-02-10,Cash on Delivery,Online ,5.0
+10089,277,  Neha ,Bhatt,neha.bhatt277@yahoo.com,+91-7615298850,delhi,Apparel,Cotton T-Shirt,1,2593.89,15.0,2204.81,23/10/2024,credit card,Online ,
+11059,290,Ritu,Iyer,RITU.IYER290@YAHOO.COM,+91-7333007568,mumbai,Electronics,Power Bank,5,3940.71,20.0,15762.84,03-15-2024,Credit Card,online,
+10909,218,Ajay,Sharma,ajay.sharma218@gmial.com,+91-8051769041,Bombay,Home & Kitchen,Storage Container Set,2,3199.91,20.0,5119.86,2025/08/01,credit card,Online,5.0
+10451,220,Amit,Chopra,amit.chopra220@outlook.com,+91-9183000783,Chennai,Apparel,Cotton T-Shirt,2,4294.01,0.0,8588.02,28/10/2024,credit card,In-Store,
+10718,182,Ajay,Saxena,ajay.saxena182@gmail.com,+91-8642422715,delhi,Apparel,Formal Shirt,2,244.48,15.0,415.62,,Net Banking,online,5.0
+10103,44,SNEHA,Kumar,sneha.kumar44@gmial.com,+91-7457632732,delhi,Grocery,Green Tea Pack,2,3608.58,0.0,7217.16,03-25-2024,UPI,In store,2.0
+10239,132,Divya,Saxena,divya.saxena132@outlook.com,+91-9192342557,Bengaluru,Home & Kitchen,Non-stick Pan,4,738.0,10.0,2656.8,2024/07/22,NetBanking,In-Store,
+10069,292,Divya,Singh,divya.singh292@gmail.co,+91-7510289448,,Grocery,Cooking Oil 1L,3,2833.13,10.0,7649.45,16-Mar-2024,NetBanking,In store,3.0
+10943,109,Anjali,Gupta,anjali.gupta109@gmail.com,+91-7203973411,Jaipur,Apparel,Jacket,3,3130.37,,9391.11,2024-05-07,Debit Card,online,
+10247,113,Nisha,Gupta,nisha.gupta113@gmial.com,+91-7294050451,Pune,Home & Kitchen,Non-stick Pan,4,3182.82,10.0,11458.15,2025/06/13,Net Banking,online,3.0
+10939,22,Neha,Joshi,neha.joshi22@gmail.com,+91-8831872219,Mumbai,Home & Kitchen,Non-stick Pan,3,1302.6,0.0,3907.8,08-Feb-2025,UPI ,Online,1.0
+10240,147,Neha,Singh,neha.singh147@yahoo.com,+91-8346395203,Kolkata,Beauty,Moisturizer,1,3256.82,0.0,3256.82,11-Dec-2024,UPI ,Online,5.0
+10158,243,Ritu,Singh,ritu.singh243@outlook.com,+91-8586568081,Jaipur,Electronics,Bluetooth Speaker,4,2434.08,0.0,9736.32,2024-09-28,NetBanking,In store,3.0
+10480,80,Ritu,Reddy,RITU.REDDY80@OUTLOOK.COM,+91-8322037419,Ahmedabad,Apparel,Cotton T-Shirt,1,4329.03,20.0,3463.22,18-Jan-2025,UPI ,In store,2.0
+10839,71,Pooja,Rao,pooja.rao71@gmail.co,+91-7286984909,Ahmedabad,Electronics,Wireless Earbuds,1,568.93,15.0,483.59,10/07/2024,COD,Online ,3.0
+10646,35,Ajay,Mehta,ajay.mehta35@gmail.co,+91-8497671324,Bengaluru,Beauty,Shampoo,2,3593.45,20.0,5749.52,09-Feb-2024,Net Banking,Online ,
+10006,118,Divya,Rao,divya.rao118@gmail.co,+91-8194673401,Kolkata,Grocery,Honey Jar,1,4997.93,,4997.93,2024/10/02,Credit Card,In-Store,3.0
+11099,214,Kavya,Kapoor,kavya.kapoor214@outlook.com,+91-8302219895,Kolkata,Beauty,Sunscreen SPF50,1,2008.35,20.0,1606.68,07/02/2025,Debit Card,Online ,5.0
+10872,170,Kavya,Sharma,kavya.sharma170@gmial.com,+91-8409409076,,Home & Kitchen,Cushion Cover,1,3388.6,0.0,3388.6,06-16-2025,Cash on Delivery,In-Store,
+10966,263,Meera,Bhatt,meera.bhatt263@gmial.com,7768980818,Hyderabad,Grocery,Basmati Rice 5kg,1,1525.29,0.0,1525.29,2025/04/07,NetBanking,In store,4.0
+10019,71,Pooja,Rao,pooja.rao71@outlook.com,+91-8784572192,Ahmedabad,Electronics,Smartwatch,1,1648.32,0.0,1648.32,2025-03-27,credit card,In-Store,3.0
+11018,230,Amit,Gupta,amit.gupta230@gmail.co,7303265004,delhi,Apparel,Cotton T-Shirt,1,4883.65,10.0,4395.28,2024/01/23,NetBanking,Online ,
+10122,31,Meera,Nair,meera.nair31@gmail.co,+91-9696435541,delhi,Home & Kitchen,Electric Kettle,1,1360.93,0.0,1360.93,25/11/2024,UPI ,In store,4.0
+10947,80,Ritu,Reddy,ritu.reddy80@gmail.co,+91-7979726517,Ahmedabad,Beauty,Face Wash,5,3854.39,10.0,17344.76,01-Feb-2024,UPI,In-Store,
+10662,32,Arjun,Verma,arjun.verma32@outlook.com,+91-8830367533,Bengaluru,Grocery,Almonds 500g,1,473.84,5.0,450.15,26/07/2025,credit card,Online,5.0
+11017,277,Neha,Bhatt,neha.bhatt277@yahoo.com,+91-9642304584,delhi,Apparel,Cotton T-Shirt,1,2142.1,0.0,2142.1,2024-06-11,Net Banking,Online,
+10275,269,Amit,Bhatt,amit.bhatt269@yahoo.com,+91-7625015806,Bombay,Apparel,Formal Shirt,1,3332.72,0.0,3332.72,01/08/2025,credit card,Online,1.0
+10434,2,Karan,Nair,karan.nair2@gmail.co,9787851568,Bengaluru,Grocery,Almonds 500g,1,4522.01,20.0,3617.61,26-Jun-2024,NetBanking,In store,2.0
+10812,92,Karan,Rao,karan.rao92@yahoo.com,+91-7291605342,Bengaluru,Home & Kitchen,Cushion Cover,1,3271.56,0.0,3271.56,2024/11/27,Credit Card,Online ,3.0
+11151,241,  Rohan ,Sharma,rohan.sharma241@gmial.com,+91-9292552515,Jaipur,Apparel,Hoodie,1,1022.41,15.0,869.05,2024/11/20,Credit Card,Online ,5.0
+10312,78,Priya,Mehta,priya.mehta78@outlook.com,+91-7623071990,Mumbai,Beauty,Lipstick,1,1417.08,0.0,1417.08,29-Aug-2024,UPI,Online ,3.0
+11135,157,Divya,Nair,divya.nair157@gmail.co,+91-7972444827,Bengaluru,Grocery,Basmati Rice 5kg,4,2911.52,10.0,10481.47,2024/09/07,Cash on Delivery,online,5.0
+11147,6,Rahul,Reddy,rahul.reddy6@outlook.com,+91-7904560414,Bengaluru,Beauty,Sunscreen SPF50,1,3913.14,0.0,3913.14,12-21-2024,Cash on Delivery,Online,1.0
+10781,129,Sneha,Kumar,sneha.kumar129@yahoo.com,+91-7748841095,Chennai,Home & Kitchen,LED Lamp,5,4609.22,5.0,21893.8,05-Jun-2024,NetBanking,online,4.0
+10547,287,Sneha,Reddy,sneha.reddy287@gmial.com,+91-7465578258,Kolkata,Grocery,Basmati Rice 5kg,5,2465.47,15.0,10478.25,18-Feb-2025,UPI,Online,2.0
+10182,255,Priya,Chopra,priya.chopra255@yahoo.com,+91-9197757742,Ahmedabad,Apparel,Jacket,5,1753.43,,8767.15,2024-01-03,Debit Card,Online,2.0
+10185,216,Priya,Reddy,priya.reddy216@gmail.co,+91-7778508164,Bombay,Apparel,Cotton T-Shirt,1,3526.42,,3526.42,01/03/2024,Debit Card,In store,4.0
+10407,230,Amit,Gupta,amit.gupta230@gmail.co,+91-9941941302,delhi,Beauty,Face Wash,1,1546.85,5.0,1469.51,15-Jul-2024,credit card,In store,5.0
+10720,31,Meera,Nair,meera.nair31@yahoo.com,+91-7317779325,delhi,Electronics,Wireless Earbuds,3,1488.82,,4466.46,13-Jan-2025,Net Banking,Online,5.0
+11024,34,Karan,Gupta,karan.gupta34@gmail.co,+91-9707187272,Bengaluru,Beauty,Face Wash,-1,2870.04,15.0,2439.53,14-Apr-2024,UPI,In-Store,4.0
+10607,240,Priya,Sharma,priya.sharma240@gmail.co,+91-7269576948,Bengaluru,Beauty,Lipstick,1,4911.51,15.0,4174.78,2025/01/01,NetBanking,In-Store,3.0
+10693,237,Rahul,Bhatt,rahul.bhatt237@gmail.co,+91-9525072109,Delhi,Grocery,Green Tea Pack,1,1223.42,10.0,1101.08,01-19-2024,Cash on Delivery,Online,4.0
+10521,262,Karan,Saxena,karan.saxena262@gmail.com,+91-9157507853,DELHI,Apparel,Denim Jeans,2,3868.63,,7737.26,26/09/2024,UPI ,In-Store,3.0
+10866,105,Arjun,Verma,arjun.verma105@gmail.com,+91-8660249009,Delhi,Beauty,Moisturizer,4,4804.15,15.0,16334.11,08/09/2024,Debit Card,online,4.0
+11004,55,Divya,Agarwal,divya.agarwal55@yahoo.com,7072413751,Jaipur,Home & Kitchen,Storage Container Set,2,4771.64,0.0,9543.28,2024-06-11,Cash on Delivery,online,5.0
+10381,186,Rahul,Joshi,rahul.joshi186@outlook.com,+91-8558450763,Ahmedabad,Beauty,Lipstick,2,252.21,20.0,403.54,2024-02-05,Cash on Delivery,online,2.0
+10428,46,Rahul,Malhotra,rahul.malhotra46@gmail.com,+91-7424103194,Pune,Apparel,Hoodie,4,3441.25,0.0,13765.0,2024/03/01,credit card,In-Store,5.0
+10079,149,  Vikram ,Nair,,+91-9010133918,Bombay,Electronics,Wireless Earbuds,2,2904.62,,5809.24,04-19-2024,Net Banking,In store,5.0
+11010,219,Ajay,Malhotra,ajay.malhotra219@yahoo.com,+91-7860563746,Hyderabad,Beauty,Shampoo,2,2556.44,15.0,4345.95,2024-07-28,NetBanking,Online,4.0
+11199,175,Divya,Kapoor,divya.kapoor175@outlook.com,+91-9210189224,Kolkata,Apparel,Cotton T-Shirt,1,2770.47,0.0,2770.47,2025/02/23,Net Banking,online,
+10608,174,Sneha,Joshi,sneha.joshi174@gmial.com,+91-7774702721,Ahmedabad,Beauty,Moisturizer,2,3957.06,20.0,6331.3,06-Nov-2024,Debit Card,In store,
+11077,183,  Arjun ,Rao,arjun.rao183@yahoo.com,+91-7786377498,Hyderabad,Electronics,Wireless Earbuds,1,4320.67,15.0,3672.57,2024-02-21,credit card,Online,5.0
+11105,138,Vikram,Iyer,vikram.iyer138@gmial.com,+91-9553990422,Bangalore,Home & Kitchen,Electric Kettle,3,4840.21,20.0,11616.5,03-23-2025,COD,online,
+11065,241,Rohan,Sharma,rohan.sharma241@gmial.com,+91-9219253242,Jaipur,Apparel,Sports Shoes,1,4609.78,0.0,4609.78,12-01-2024,Credit Card,Online,3.0
+10959,204,  Meera ,Rao,meera.rao204@gmail.com,7693538173,Bangalore,Beauty,Shampoo,1,4649.27,0.0,4649.27,19-Apr-2025,NetBanking,In-Store,2.0
+10560,102,Ritu,Kumar,ritu.kumar102@gmial.com,+91-7487937820,Bengaluru,Electronics,Smartwatch,1,1720.1,0.0,1720.1,2024-11-20,UPI,In store,4.0
+10847,97,Ritu,Bhatt,,+91-7744814397,Bengaluru,Grocery,Cooking Oil 1L,2,1071.34,5.0,2035.55,2025/01/05,NetBanking,online,2.0
+10691,12,Kavya,Mehta,KAVYA.MEHTA12@OUTLOOK.COM,+91-9315664373,Chennai,Apparel,Jacket,2,3649.73,10.0,6569.51,22-Mar-2024,Debit Card,In-Store,4.0
+11180,6,Rahul,Reddy,rahul.reddy6@gmail.com,+91-8245016452,Bengaluru,Home & Kitchen,Electric Kettle,1,4203.12,,4203.12,02/02/2024,UPI ,In-Store,
+11133,239,Neha,Gupta,neha.gupta239@yahoo.com,+91-8008332610,DELHI,Electronics,Smartphone Case,3,1846.36,20.0,4431.26,2024/06/14,UPI,In store,2.0
+10437,57,Anjali,Desai,anjali.desai57@gmail.com,+91-9447715974,DELHI,Home & Kitchen,Cushion Cover,5,976.81,0.0,4884.05,2024/07/17,UPI,Online,4.0
+10491,281,  Neha ,Joshi,neha.joshi281@yahoo.com,+91-9833583621,delhi,Beauty,Moisturizer,5,4782.0,5.0,22714.5,2025/05/08,Cash on Delivery,In-Store,2.0
+10322,236,Kavya,Iyer,kavya.iyer236@outlook.com,+91-9717817798,Bombay,Home & Kitchen,Electric Kettle,1,2839.21,0.0,2839.21,28/01/2025,Net Banking,In store,
+11114,238,Meera,Verma,meera.verma238@gmail.co,+91-9981256048,Kolkata,Apparel,Cotton T-Shirt,4,278.38,20.0,890.82,04/11/2024,Debit Card,In-Store,2.0
+10070,174,Sneha,Joshi,sneha.joshi174@gmail.com,+91-8430398942,Ahmedabad,Grocery,Green Tea Pack,1,1115.43,0.0,1115.43,05-Jun-2025,NetBanking,Online,
+10809,62,Neha,Pillai,NEHA.PILLAI62@GMAIL.COM,+91-7877204248,Mumbai,Home & Kitchen,Non-stick Pan,2,2688.99,20.0,4302.38,05-31-2025,Cash on Delivery,In store,3.0
+10012,97,Ritu,Bhatt,RITU.BHATT97@GMIAL.COM,+91-9800400286,Bengaluru,Apparel,Sports Shoes,4,1282.78,20.0,4104.9,2025-02-24,credit card,In store,3.0
+10145,170,Kavya,Sharma,kavya.sharma170@gmial.com,+91-7742201314,Ahmedabad,Electronics,Wireless Earbuds,5,395.59,0.0,1977.95,10-Aug-2025,UPI ,In store,5.0
+10918,11,Amit,Patel,amit.patel11@yahoo.com,+91-7986716431,mumbai,Apparel,Formal Shirt,2,1971.3,0.0,3942.6,02-Jul-2025,Debit Card,Online ,
+10640,166,Pooja,Mehta,pooja.mehta166@gmail.co,+91-8350197673,Pune,Beauty,Lipstick,1,4774.54,10.0,4297.09,12/02/2024,UPI ,Online ,2.0
+10177,10,Manish,Pillai,manish.pillai10@gmail.co,+91-7717346250,Chennai,Electronics,Smartwatch,2,1247.39,20.0,1995.82,12-18-2024,UPI,Online,2.0
+10995,48,Karan,Desai,karan.desai48@yahoo.com,+91-9807855040,Bombay,Electronics,Smartphone Case,1,3929.22,10.0,3536.3,08-23-2025,Credit Card,Online,
+10441,175,Divya,Kapoor,divya.kapoor175@gmail.com,+91-7143209999,Kolkata,Electronics,Bluetooth Speaker,2,4726.21,0.0,9452.42,2025-03-25,COD,Online ,4.0
+10522,77,Priya,Nair,priya.nair77@gmail.co,+91-7218851616,Mumbai,Apparel,Cotton T-Shirt,1,2096.22,0.0,2096.22,07/10/2024,UPI,In store,4.0
+11005,232,Manish,Patel,manish.patel232@gmial.com,+91-8056980874,Delhi,Home & Kitchen,LED Lamp,2,3171.1,10.0,5707.98,14-Jan-2025,credit card,online,5.0
+10144,67,Karan,Agarwal,karan.agarwal67@gmail.com,+91-9774492599,Bombay,Apparel,Formal Shirt,3,3478.48,0.0,10435.44,2024/03/27,Net Banking,Online,
+10754,225,Sanjay,Mehta,sanjay.mehta225@gmail.co,+91-8709273414,delhi,Home & Kitchen,Electric Kettle,1,1715.38,10.0,1543.84,24/04/2024,Net Banking,Online ,2.0
+10520,80,  Ritu ,Reddy,ritu.reddy80@gmial.com,+91-8212140146,Ahmedabad,Home & Kitchen,Cushion Cover,1,3871.82,0.0,3871.82,2024-08-30,credit card,In store,
+10823,33,Priya,Mehta,priya.mehta33@gmial.com,+91-7056990204,Pune,Apparel,Denim Jeans,1,2078.06,20.0,1662.45,2025-01-21,Credit Card,In store,1.0
+10429,62,Neha,Pillai,neha.pillai62@gmail.com,+91-8367244618,Mumbai,Electronics,Smartphone Case,2,3797.85,20.0,6076.56,23/08/2025,COD,Online ,
+10613,271,Rohan,Chopra,rohan.chopra271@gmail.com,+91-9686376206,DELHI,Beauty,Moisturizer,2,2916.29,0.0,5832.58,2025/04/30,credit card,online,4.0
+11033,285,Pooja,Rao,POOJA.RAO285@OUTLOOK.COM,+91-7239707971,Chennai,Beauty,Moisturizer,4,1674.78,10.0,6029.21,24/02/2025,Debit Card,Online ,4.0
+10157,202,Manish,Saxena,manish.saxena202@gmail.co,+91-7416555576,Bombay,Grocery,Honey Jar,5,894.91,10.0,4027.1,2025-01-04,UPI ,Online,1.0
+10540,75,Neha,Pillai,neha.pillai75@gmial.com,+91-8777877424,Bengaluru,Electronics,Bluetooth Speaker,1,1032.08,20.0,825.66,01-29-2025,credit card,In store,5.0
+10462,211,Meera,Gupta,meera.gupta211@yahoo.com,+91-8330396939,Bangalore,Beauty,Moisturizer,1,776.32,5.0,737.5,04-Mar-2025,Debit Card,In store,4.0
+10577,270,Arjun,Patel,arjun.patel270@outlook.com,+91-7213286953,Hyderabad,Apparel,Cotton T-Shirt,2,3623.89,15.0,6160.61,2024/03/17,UPI ,In store,
+10256,165,Sneha,Saxena,sneha.saxena165@outlook.com,+91-8383082793,Pune,Electronics,Smartwatch,4,1070.87,10.0,3855.13,2025/05/24,UPI,Online ,2.0
+10980,258,Kavya,Bhatt,kavya.bhatt258@gmail.com,8317873236,Mumbai,Apparel,Hoodie,1,4843.03,0.0,4843.03,03-14-2025,Credit Card,In-Store,5.0
+11007,47,Nisha,Rao,nisha.rao47@gmial.com,+91-9545830617,Ahmedabad,Beauty,Moisturizer,4,2653.96,15.0,9023.46,2025-07-11,NetBanking,Online,1.0
+10561,65,Vikram,Kumar,vikram.kumar65@yahoo.com,+91-7821021651,delhi,Beauty,Shampoo,1,326.96,20.0,261.57,11-Jul-2024,NetBanking,In-Store,1.0
+10209,237,Rahul,Bhatt,rahul.bhatt237@outlook.com,+91-9883192498,Delhi,Grocery,Basmati Rice 5kg,2,3407.67,,6815.34,2024-09-13,Cash on Delivery,Online ,4.0
+10911,53,Amit,Iyer,amit.iyer53@outlook.com,9523291662,Ahmedabad,Grocery,Almonds 500g,1,,0.0,1220.55,07/08/2024,credit card,Online,4.0
+10002,44,Sneha,Kumar,sneha.kumar44@outlook.com,+91-8841810119,delhi,Apparel,Cotton T-Shirt,4,3090.64,,12362.56,2024/08/19,UPI ,In store,5.0
+10270,276,Kavya,Bhatt,kavya.bhatt276@outlook.com,+91-8219828872,Ahmedabad,Apparel,Denim Jeans,2,2811.68,0.0,5623.36,2024-05-24,UPI ,Online ,4.0
+10266,202,Manish,Saxena,manish.saxena202@gmail.com,+91-7211789542,Bombay,Beauty,Shampoo,1,1227.12,15.0,1043.05,23-Oct-2024,UPI,In-Store,
+10915,17,Priya,Rao,priya.rao17@gmial.com,+91-7736050676,Ahmedabad,Electronics,Smartwatch,2,1928.22,0.0,3856.44,02-Nov-2024,UPI,Online,5.0
+10231,118,Divya,Rao,divya.rao118@gmial.com,+91-8468848245,Kolkata,Home & Kitchen,LED Lamp,3,2655.05,0.0,7965.15,01-10-2024,Cash on Delivery,online,2.0
+10684,109,Anjali,Gupta,anjali.gupta109@gmial.com,+91-9064384875,Jaipur,Home & Kitchen,LED Lamp,1,,10.0,1617.3,03-Jul-2024,UPI,online,1.0
+11198,175,Divya,Kapoor,divya.kapoor175@gmial.com,+91-7072850799,Kolkata,Electronics,USB Cable,1,3494.04,15.0,2969.93,2024-04-24,NetBanking,Online ,
+10865,76,Amit,Gupta,amit.gupta76@yahoo.com,+91-8086282914,mumbai,Beauty,Shampoo,1,3298.0,0.0,3298.0,05-Nov-2024,Cash on Delivery,In-Store,
+11067,92,Karan,Rao,KARAN.RAO92@GMIAL.COM,9446034887,Bengaluru,Beauty,Face Wash,1,1677.67,5.0,1593.79,2025-03-13,Credit Card,online,3.0
+10874,291,Ajay,Agarwal,AJAY.AGARWAL291@GMIAL.COM,+91-7661622285,Jaipur,Home & Kitchen,Storage Container Set,1,1326.1,20.0,1060.88,2025-05-07,credit card,Online,4.0
+11086,285,Pooja,Rao,pooja.rao285@gmial.com,+91-7584463799,Chennai,Beauty,Shampoo,2,1328.43,20.0,2125.49,2024-06-04,Debit Card,In store,1.0
+10399,115,Arjun,Iyer,arjun.iyer115@yahoo.com,+91-8290245335,Bengaluru,Apparel,Formal Shirt,1,1559.91,0.0,1559.91,2025-03-23,COD,online,4.0
+11165,67,Karan,Agarwal,karan.agarwal67@yahoo.com,+91-8312706399,Bombay,Apparel,Hoodie,1,692.2,0.0,692.2,24-May-2024,UPI,In-Store,2.0
+10046,122,Suresh,Iyer,suresh.iyer122@gmial.com,+91-7833293142,Bangalore,Beauty,Shampoo,2,3799.1,10.0,6838.38,04/04/2025,NetBanking,In-Store,5.0
+10162,142,Vikram,Desai,vikram.desai142@yahoo.com,+91-9502579013,Delhi,Grocery,Almonds 500g,1,3964.77,0.0,3964.77,19-Jun-2025,Debit Card,In store,2.0
+10992,125,Manish,Desai,manish.desai125@gmail.co,+91-7161736062,mumbai,Apparel,Denim Jeans,1,4089.76,0.0,4089.76,10/04/2024,credit card,In store,1.0
+10728,104,Ajay,Desai,ajay.desai104@gmial.com,+91-8611102142,Delhi,Home & Kitchen,Electric Kettle,4,4956.37,0.0,19825.48,26/08/2024,credit card,Online,1.0
+10630,40,Ajay,Kapoor,ajay.kapoor40@gmial.com,8831697593,Jaipur,Grocery,Almonds 500g,1,2628.52,15.0,2234.24,30/08/2024,credit card,Online ,5.0
+10289,61,Divya,Nair,divya.nair61@yahoo.com,+91-8092714915,Delhi,Apparel,Sports Shoes,4,2158.1,0.0,8632.4,12-07-2024,NetBanking,In-Store,2.0
+11060,65,Vikram,Kumar,vikram.kumar65@gmial.com,7337839117,delhi,Electronics,Wireless Earbuds,1,2243.32,0.0,2243.32,02-Jan-2025,NetBanking,Online ,
+11188,115,Arjun,Iyer,arjun.iyer115@gmial.com,+91-7589183114,Bengaluru,Grocery,Almonds 500g,3,978.0,0.0,2934.0,2024/08/25,Cash on Delivery,online,5.0
+10576,111,Sneha,Pillai,sneha.pillai111@yahoo.com,+91-8381094981,Bengaluru,Home & Kitchen,Storage Container Set,1,3930.65,15.0,3341.05,2024-05-05,credit card,Online,4.0
+10851,217,Kavya,Malhotra,kavya.malhotra217@yahoo.com,+91-9655629399,DELHI,Apparel,Cotton T-Shirt,1,197.8,20.0,158.24,2024/12/11,Net Banking,online,5.0
+10912,231,  Kavya ,Kumar,kavya.kumar231@gmail.com,+91-8190055987,Bombay,Apparel,Cotton T-Shirt,3,4629.3,5.0,13193.51,2024-05-01,Net Banking,Online ,
+11101,198,Meera,Nair,meera.nair198@outlook.com,+91-9382870452,Bombay,Apparel,Formal Shirt,1,579.03,0.0,579.03,05-30-2024,Cash on Delivery,In store,5.0
+10933,114,Ajay,Pillai,ajay.pillai114@gmail.co,+91-8035500821,Ahmedabad,Apparel,Cotton T-Shirt,1,608.69,0.0,608.69,2025/04/10,COD,Online,2.0
+10248,232,Manish,Patel,manish.patel232@yahoo.com,+91-8211672712,Delhi,Home & Kitchen,Cushion Cover,-5,1060.78,0.0,5303.9,20/01/2024,Credit Card,Online ,5.0
+10477,282,Ajay,Chopra,ajay.chopra282@gmial.com,+91-8069315552,Hyderabad,Apparel,Denim Jeans,1,2217.26,5.0,2106.4,04-23-2025,UPI,In-Store,5.0
+10086,17,Priya,Rao,priya.rao17@gmial.com,9842377282,Ahmedabad,Home & Kitchen,LED Lamp,1,3879.51,20.0,3103.61,03-06-2025,UPI ,In store,
+10470,123,Pooja,Gupta,POOJA.GUPTA123@GMAIL.COM,+91-9852325403,Bengaluru,Apparel,Cotton T-Shirt,1,2195.16,5.0,2085.4,01-15-2024,Cash on Delivery,Online,3.0
+10226,223,Ritu,Nair,ritu.nair223@gmail.co,+91-8230375990,Chennai,Electronics,Wireless Earbuds,2,1225.59,20.0,1960.94,2024/03/22,Credit Card,In store,1.0
+10775,146,Priya,Chopra,,+91-9138752908,Bengaluru,Grocery,Green Tea Pack,2,4299.21,5.0,8168.5,2024-09-24,Debit Card,In store,4.0
+10332,122,Suresh,Iyer,suresh.iyer122@yahoo.com,+91-9617497180,Bangalore,Beauty,Moisturizer,4,4473.12,20.0,14313.98,16-Mar-2024,COD,Online,
+10234,144,Vikram,Kapoor,vikram.kapoor144@gmial.com,+91-7750761833,Bangalore,Beauty,Moisturizer,1,412.62,15.0,350.73,09-Mar-2025,NetBanking,Online,
+10589,138,  Vikram ,Iyer,vikram.iyer138@yahoo.com,+91-9671977972,Bangalore,Beauty,Moisturizer,1,3960.78,0.0,3960.78,12-21-2024,Net Banking,Online,
+10476,128,Meera,Joshi,meera.joshi128@gmail.com,+91-7223797248,delhi,Apparel,Sports Shoes,4,2679.14,,10716.56,06-Jul-2024,Credit Card,Online,3.0
+10600,211,Meera,Gupta,meera.gupta211@yahoo.com,+91-8602500198,Bangalore,Beauty,Face Wash,1,4793.84,10.0,4314.46,2025-03-07,UPI,Online ,3.0
+10422,210,Karan,Mehta,karan.mehta210@outlook.com,+91-8302492141,Kolkata,Electronics,Wireless Earbuds,3,2923.06,15.0,7453.8,2024/02/11,UPI,Online,5.0
+10183,119,Rahul,Sharma,rahul.sharma119@outlook.com,+91-7497791242,Hyderabad,Beauty,Lipstick,-2,2401.75,15.0,4082.97,12/04/2024,Credit Card,online,2.0
+10989,126,Divya,Saxena,divya.saxena126@gmial.com,+91-9117856053,DELHI,Grocery,Honey Jar,2,1702.99,,3405.98,11-11-2024,UPI ,Online,4.0
+11001,1,Sneha,Sharma,sneha.sharma1@gmial.com,+91-8183100019,mumbai,Apparel,Jacket,3,771.79,5.0,2199.6,20-Aug-2025,Credit Card,Online,4.0
+10050,41,Sanjay,Chopra,sanjay.chopra41@outlook.com,+91-7523334661,Bengaluru,Electronics,Bluetooth Speaker,2,4199.57,0.0,8399.14,2025/07/15,NetBanking,In store,1.0
+11140,201,Nisha,Mehta,nisha.mehta201@gmail.co,+91-7295426456,DELHI,Apparel,Hoodie,3,3195.82,0.0,9587.46,2025-04-27,NetBanking,In store,5.0
+11030,265,Arjun,Nair,arjun.nair265@gmail.co,+91-9651741407,Bombay,Electronics,Smartphone Case,3,3169.36,20.0,7606.46,07-Feb-2025,Net Banking,Online ,4.0
+10530,122,Suresh,Iyer,suresh.iyer122@yahoo.com,+91-7006012787,Bangalore,Home & Kitchen,Non-stick Pan,1,4718.92,5.0,4482.97,11/10/2024,Net Banking,Online,5.0
+10487,299,Amit,Pillai,amit.pillai299@gmial.com,+91-9595756047,Chennai,Electronics,Wireless Earbuds,2,2683.32,,5366.64,08-Jan-2024,NetBanking,online,4.0
+10498,100,Karan,Rao,karan.rao100@gmail.co,+91-9989106216,Chennai,Grocery,Almonds 500g,1,784.87,0.0,784.87,,Net Banking,In store,
+10107,169,Karan,Verma,karan.verma169@gmial.com,+91-8710425977,mumbai,Beauty,Lipstick,4,4105.06,5.0,15599.23,05-19-2024,credit card,Online ,5.0
+10444,100,Karan,Rao,karan.rao100@yahoo.com,+91-7259807661,Chennai,Grocery,Cooking Oil 1L,2,1873.65,5.0,3559.93,2025/05/07,COD,In-Store,3.0
+10647,119,  Rahul ,Sharma,rahul.sharma119@outlook.com,7482614370,Hyderabad,Home & Kitchen,LED Lamp,5,4014.22,,20071.1,2025/02/05,credit card,Online ,5.0
+11037,95,Meera,Sharma,meera.sharma95@gmail.com,+91-9900252040,Mumbai,Beauty,Lipstick,2,412.83,0.0,825.66,02-10-2025,credit card,In-Store,4.0
+10727,296,Karan,Verma,karan.verma296@yahoo.com,+91-7297499002,Delhi,Apparel,Denim Jeans,1,1149.8,0.0,1149.8,2024-07-04,Credit Card,Online ,5.0
+10191,50,Meera,Iyer,meera.iyer50@gmail.com,+91-9114937010,DELHI,Apparel,Cotton T-Shirt,3,1872.42,0.0,5617.26,2024/10/25,NetBanking,online,3.0
+10283,27,Karan,Gupta,karan.gupta27@yahoo.com,8087103368,Jaipur,Beauty,Lipstick,2,3691.28,0.0,7382.56,04-01-2025,UPI,Online,1.0
+10030,131,Meera,Kumar,meera.kumar131@yahoo.com,+91-9518848328,Chennai,Home & Kitchen,Electric Kettle,5,475.6,15.0,2021.3,2024-03-28,UPI ,Online,
+10170,192,Kavya,Pillai,kavya.pillai192@outlook.com,+91-8121617417,Bengaluru,Grocery,Honey Jar,2,1597.61,10.0,2875.7,20-Apr-2024,Debit Card,online,5.0
+11002,188,Neha,Joshi,neha.joshi188@yahoo.com,+91-7231135385,Bengaluru,Beauty,Lipstick,1,1178.26,0.0,1178.26,01-28-2024,Debit Card,In-Store,4.0
+10101,107,Suresh,Patel,suresh.patel107@gmail.co,+91-7601083212,Delhi,Grocery,Cooking Oil 1L,4,4655.04,20.0,14896.13,02/11/2024,Cash on Delivery,Online ,2.0
+10198,214,Kavya,Kapoor,kavya.kapoor214@gmail.co,+91-9591527330,Kolkata,Home & Kitchen,Cushion Cover,1,212.88,15.0,180.95,14/09/2024,COD,In-Store,4.0
+10496,64,Rahul,Desai,rahul.desai64@outlook.com,+91-7904576318,DELHI,Home & Kitchen,Cushion Cover,5,3210.72,0.0,16053.6,08-Aug-2024,Net Banking,In store,4.0
+10648,218,AJAY,Sharma,ajay.sharma218@gmial.com,+91-9951595715,Bombay,Electronics,Smartphone Case,5,4788.13,,23940.65,04-26-2024,UPI ,In-Store,4.0
+10988,89,Sneha,Nair,sneha.nair89@outlook.com,+91-9365062104,Bengaluru,Apparel,Sports Shoes,2,3743.82,0.0,7487.64,2024-06-24,UPI ,online,3.0
+10045,52,  Kavya ,Patel,KAVYA.PATEL52@YAHOO.COM,+91-9683239935,Hyderabad,Grocery,Honey Jar,1,3360.36,0.0,3360.36,2024/05/14,UPI ,In-Store,3.0
+10711,47,Nisha,Rao,nisha.rao47@yahoo.com,+91-9496537527,Ahmedabad,Apparel,Jacket,1,4544.78,5.0,4317.54,2024/05/15,Net Banking,Online,
+10374,108,Suresh,Gupta,suresh.gupta108@gmial.com,+91-9684199399,Bombay,Home & Kitchen,Non-stick Pan,2,2597.5,5.0,4935.25,03-Nov-2024,NetBanking,online,
+10679,260,Manish,Kumar,manish.kumar260@outlook.com,+91-9996304511,Pune,Electronics,Power Bank,4,3904.25,0.0,15617.0,14-Aug-2025,Credit Card,In-Store,
+10567,200,Manish,Agarwal,manish.agarwal200@gmail.co,+91-9694311907,Ahmedabad,Apparel,Formal Shirt,3,2658.79,0.0,7976.37,23/03/2025,Debit Card,In-Store,5.0
+10848,106,Ajay,Bhatt,ajay.bhatt106@outlook.com,+91-8971730243,Ahmedabad,Grocery,Green Tea Pack,1,4453.28,,4453.28,05-23-2025,Cash on Delivery,In store,
+10461,17,  Priya ,Rao,priya.rao17@outlook.com,+91-7300559360,Ahmedabad,Grocery,Almonds 500g,1,1055.46,5.0,1002.69,12-Mar-2024,Net Banking,In-Store,
+10040,29,Neha,Patel,neha.patel29@gmail.com,+91-7387820537,Hyderabad,Home & Kitchen,Cushion Cover,1,1655.48,10.0,1489.93,2025-04-07,Credit Card,online,
+10435,228,MEERA,Sharma,meera.sharma228@gmial.com,+91-7828889415,Pune,Electronics,Bluetooth Speaker,4,4163.21,0.0,16652.84,01-Jan-2025,UPI,Online,
+10974,62,Neha,Pillai,NEHA.PILLAI62@YAHOO.COM,+91-8432866087,Mumbai,Grocery,Honey Jar,1,4642.65,0.0,4642.65,25-Apr-2024,COD,In-Store,4.0
+11008,32,Arjun,Verma,arjun.verma32@gmial.com,+91-8426527399,Bengaluru,Beauty,Face Wash,2,2615.56,0.0,5231.12,22-Feb-2025,Debit Card,In-Store,2.0
+10457,297,Meera,Joshi,meera.joshi297@gmail.co,+91-9373464440,mumbai,Electronics,Power Bank,1,4347.51,5.0,4130.13,21/08/2024,Cash on Delivery,In store,
+10261,167,Nisha,Agarwal,nisha.agarwal167@gmial.com,+91-8091304489,Mumbai,Home & Kitchen,LED Lamp,4,4156.85,5.0,15796.03,2024/11/27,Cash on Delivery,Online ,5.0
+10036,67,Karan,Agarwal,karan.agarwal67@gmail.com,+91-7334417350,Bombay,Beauty,Shampoo,2,2576.27,20.0,4122.03,2024-12-28,UPI ,Online,5.0
+10828,203,Suresh,Kapoor,suresh.kapoor203@outlook.com,+91-9854593912,Bombay,Electronics,Power Bank,1,4953.94,0.0,4953.94,2025-07-11,NetBanking,Online,3.0
+10310,241,Rohan,Sharma,rohan.sharma241@gmail.co,+91-9702823150,Jaipur,Grocery,Green Tea Pack,4,1861.64,10.0,6701.9,10-28-2024,UPI,Online,
+10277,41,Sanjay,Chopra,sanjay.chopra41@yahoo.com,+91-7971835392,Bengaluru,Beauty,Moisturizer,5,3603.29,,18016.45,17/01/2025,UPI ,In store,1.0
+10637,264,Kavya,Pillai,KAVYA.PILLAI264@OUTLOOK.COM,+91-8445859871,,Grocery,Almonds 500g,4,1868.68,0.0,7474.72,2025/02/15,Cash on Delivery,online,2.0
+10655,274,Amit,Agarwal,amit.agarwal274@gmial.com,+91-7106909766,Bengaluru,Grocery,Cooking Oil 1L,4,233.48,0.0,933.92,23-May-2025,credit card,Online ,4.0
+10623,233,Karan,Malhotra,karan.malhotra233@gmail.com,+91-9618846537,Kolkata,Electronics,Wireless Earbuds,5,4206.18,0.0,21030.9,10-03-2024,UPI ,online,4.0
+10845,241,Rohan,Sharma,rohan.sharma241@gmail.com,+91-8470639855,Jaipur,Grocery,Almonds 500g,4,3823.48,15.0,12999.83,2025/07/27,UPI,In store,
+10394,87,Priya,Singh,PRIYA.SINGH87@YAHOO.COM,+91-9907299954,Delhi,Grocery,Green Tea Pack,2,,0.0,5960.4,2024/01/05,UPI,In store,2.0
+10108,295,AMIT,Desai,amit.desai295@gmail.co,+91-7772781491,Bangalore,Apparel,Hoodie,4,1509.46,5.0,5735.95,02-06-2025,Debit Card,Online ,
+10350,193,Sanjay,Bhatt,sanjay.bhatt193@gmail.co,+91-7588097152,Pune,Electronics,Wireless Earbuds,4,3248.21,,12992.84,06-Oct-2024,UPI,Online ,4.0
+10525,283,Meera,Agarwal,meera.agarwal283@yahoo.com,+91-7902086152,Kolkata,Apparel,Hoodie,3,3745.27,15.0,9550.44,2025/01/05,NetBanking,Online ,4.0
+10785,212,  Vikram ,Nair,vikram.nair212@gmial.com,7886710096,Pune,Electronics,Smartphone Case,2,1787.76,0.0,3575.52,09-Jun-2024,NetBanking,In store,4.0
+10048,43,Rahul,Verma,rahul.verma43@outlook.com,+91-8781968664,Bombay,Apparel,Hoodie,5,4540.74,,22703.7,30-May-2024,Debit Card,In-Store,1.0
+10204,110,Rahul,Nair,rahul.nair110@outlook.com,7314597900,Pune,Beauty,Face Wash,2,2758.11,,5516.22,2025-03-21,UPI,Online,1.0
+10022,288,Sneha,Desai,sneha.desai288@gmail.com,+91-8307235909,DELHI,Home & Kitchen,Cushion Cover,2,3291.11,0.0,6582.22,04-20-2025,UPI ,Online,
+10403,203,Suresh,Kapoor,suresh.kapoor203@yahoo.com,+91-7623432493,Bombay,Home & Kitchen,Non-stick Pan,1,805.3,0.0,805.3,2024-07-14,Credit Card,In-Store,4.0
+11108,61,Divya,Nair,divya.nair61@yahoo.com,+91-7676084404,Delhi,Home & Kitchen,Electric Kettle,4,744.32,5.0,2828.42,2024-10-19,Net Banking,Online ,4.0
+11155,11,Amit,Patel,amit.patel11@gmail.co,+91-8642825588,mumbai,Home & Kitchen,Storage Container Set,-1,850.06,10.0,765.05,19/01/2025,UPI ,online,4.0
+10990,11,AMIT,Patel,amit.patel11@gmail.co,+91-9500812543,mumbai,Grocery,Green Tea Pack,2,4347.35,,8694.7,14-Aug-2025,Debit Card,In-Store,
+10742,78,Priya,Mehta,priya.mehta78@outlook.com,+91-9922282450,Mumbai,Grocery,Honey Jar,1,4031.26,0.0,4031.26,2025/01/06,Cash on Delivery,Online ,3.0
+11148,298,Vikram,Bhatt,vikram.bhatt298@yahoo.com,+91-8969039204,Mumbai,Grocery,Green Tea Pack,5,977.54,0.0,4887.7,30/01/2024,Net Banking,In-Store,2.0
+10034,26,Pooja,Reddy,pooja.reddy26@yahoo.com,+91-7488842470,delhi,Electronics,Bluetooth Speaker,5,3360.4,10.0,15121.8,2025/05/12,COD,In store,5.0
+10788,299,Amit,Pillai,amit.pillai299@yahoo.com,+91-7508697928,Chennai,Beauty,Sunscreen SPF50,3,3562.48,0.0,10687.44,10-23-2024,Debit Card,Online ,
+10924,14,Arjun,Singh,arjun.singh14@gmail.com,+91-9215733709,Mumbai,Electronics,USB Cable,1,163.56,15.0,139.03,24/09/2024,UPI ,online,5.0
+11044,252,Neha,Singh,neha.singh252@gmial.com,+91-7823036653,mumbai,Grocery,Basmati Rice 5kg,5,2276.18,0.0,11380.9,11/02/2025,Cash on Delivery,online,
+11181,92,Karan,Rao,karan.rao92@gmail.com,+91-8310485866,Bengaluru,Home & Kitchen,Cushion Cover,2,1889.06,5.0,3589.21,16/04/2024,Credit Card,Online ,
+10580,25,Pooja,Patel,pooja.patel25@gmail.com,+91-7595859831,Kolkata,Beauty,Lipstick,5,2542.68,5.0,12077.73,05-04-2024,Debit Card,Online,2.0
+10482,15,Sanjay,Singh,sanjay.singh15@gmail.com,+91-7396450400,Kolkata,Apparel,Hoodie,5,4729.69,0.0,23648.45,05-30-2024,Cash on Delivery,Online ,4.0
+10932,175,  Divya ,Kapoor,divya.kapoor175@outlook.com,+91-9260065605,Kolkata,Electronics,Bluetooth Speaker,1,4966.66,5.0,4718.33,25/10/2024,Cash on Delivery,In-Store,5.0
+10357,176,Sanjay,Joshi,sanjay.joshi176@outlook.com,+91-7559283112,Ahmedabad,Apparel,Jacket,2,,5.0,550.01,,UPI,In-Store,2.0
+10760,178,Sanjay,Patel,sanjay.patel178@gmial.com,+91-7572763028,Jaipur,Beauty,Moisturizer,1,3457.73,,3457.73,03-07-2024,Net Banking,Online,4.0
+10093,61,Divya,Nair,divya.nair61@gmial.com,+91-8543008060,Delhi,Beauty,Moisturizer,2,2073.67,20.0,3317.87,2024/09/02,credit card,online,5.0
+11176,84,Sneha,Singh,sneha.singh84@gmail.co,+91-7096528582,,Home & Kitchen,Storage Container Set,2,3071.37,0.0,6142.74,2025-03-21,COD,online,
+10804,73,Neha,Gupta,neha.gupta73@outlook.com,+91-9938004886,Kolkata,Apparel,Sports Shoes,5,4047.57,0.0,20237.85,02-Mar-2025,Credit Card,online,4.0
+10746,160,Rahul,Iyer,RAHUL.IYER160@YAHOO.COM,8466203855,Kolkata,Grocery,Basmati Rice 5kg,5,1276.08,,6380.4,03-24-2025,Debit Card,Online ,5.0
+10280,147,Neha,Singh,neha.singh147@gmail.com,+91-7486068287,Kolkata,Beauty,Moisturizer,4,1577.94,,6311.76,2024/02/25,UPI,In store,3.0
+10765,291,Ajay,Agarwal,ajay.agarwal291@outlook.com,9934240392,Jaipur,Grocery,Green Tea Pack,1,4785.2,5.0,4545.94,2024/07/12,COD,In-Store,3.0
+10605,12,Kavya,Mehta,kavya.mehta12@outlook.com,+91-9528721268,Chennai,Apparel,Denim Jeans,2,978.26,10.0,1760.87,13/07/2025,COD,In store,
+10538,44,Sneha,Kumar,sneha.kumar44@outlook.com,+91-8232679456,delhi,Electronics,USB Cable,1,1013.63,0.0,1013.63,06-27-2025,UPI,In store,5.0
+10401,94,Meera,Singh,meera.singh94@outlook.com,+91-7803982387,Delhi,Beauty,Face Wash,1,2168.82,10.0,1951.94,10-31-2024,COD,In store,4.0
+10258,7,Suresh,Saxena,suresh.saxena7@outlook.com,+91-7250396691,Delhi,Apparel,Jacket,5,4652.76,20.0,18611.04,22-Mar-2024,Credit Card,online,5.0
+10945,234,ROHAN,Rao,rohan.rao234@yahoo.com,+91-7442141047,Kolkata,Electronics,USB Cable,2,854.13,5.0,1622.85,2025/01/09,UPI ,Online ,5.0
+11097,83,Ritu,Kapoor,ritu.kapoor83@yahoo.com,+91-9280137701,Bengaluru,Grocery,Basmati Rice 5kg,4,3460.79,0.0,13843.16,16-Mar-2024,Net Banking,In store,4.0
+11162,78,Priya,Mehta,priya.mehta78@gmial.com,+91-9301181047,Mumbai,Electronics,Smartphone Case,-1,1954.75,0.0,1954.75,2024/10/30,Debit Card,online,
+10495,5,Kavya,Verma,kavya.verma5@gmail.co,+91-9857659513,Delhi,Grocery,Almonds 500g,3,851.8,0.0,2555.4,30/10/2024,COD,In store,1.0
+10773,133,Arjun,Reddy,ARJUN.REDDY133@GMIAL.COM,+91-7813881318,delhi,Beauty,Shampoo,2,1143.65,20.0,1829.84,06-Oct-2024,Credit Card,In store,
+10551,73,Neha,Gupta,neha.gupta73@gmail.com,+91-9932919247,Kolkata,Apparel,Sports Shoes,3,2320.28,20.0,5568.67,05-14-2024,Net Banking,online,4.0
+10202,5,Kavya,Verma,kavya.verma5@gmial.com,+91-8214741296,Delhi,Electronics,Smartwatch,3,2311.49,0.0,6934.47,2024-09-06,credit card,In store,1.0
+10313,197,Suresh,Rao,suresh.rao197@gmail.com,8992928946,Delhi,Apparel,Jacket,5,3671.1,10.0,16519.95,20/06/2024,credit card,Online,4.0
+10291,247,Sneha,Patel,SNEHA.PATEL247@GMAIL.CO,+91-9912836638,Chennai,Apparel,Jacket,5,4476.48,0.0,22382.4,07-03-2025,COD,In store,5.0
+10764,49,AMIT,Singh,amit.singh49@yahoo.com,9272557267,delhi,Grocery,Green Tea Pack,1,4414.61,0.0,4414.61,2024/03/03,Credit Card,online,1.0
+11137,139,  Manish ,Desai,manish.desai139@yahoo.com,+91-9056160591,mumbai,Electronics,Smartphone Case,1,652.52,0.0,652.52,2024/01/09,COD,In-Store,1.0
+10950,111,Sneha,Pillai,sneha.pillai111@gmail.co,+91-7516194669,Bengaluru,Electronics,USB Cable,5,4072.4,15.0,17307.7,10/04/2024,Cash on Delivery,Online ,5.0
+10184,71,Pooja,Rao,pooja.rao71@gmail.com,+91-8960818751,Ahmedabad,Apparel,Hoodie,3,4488.46,0.0,13465.38,2024-10-01,credit card,online,5.0
+11177,211,Meera,Gupta,meera.gupta211@gmail.co,9556746778,Bangalore,Beauty,Shampoo,2,,0.0,910.42,,UPI ,In store,
+11069,240,Priya,Sharma,,+91-7496356842,Bengaluru,Beauty,Shampoo,2,4346.24,10.0,7823.23,02-26-2025,UPI,Online ,4.0
+11031,282,Ajay,Chopra,ajay.chopra282@outlook.com,+91-7211744170,Hyderabad,Beauty,Lipstick,4,2901.02,10.0,10443.67,04-02-2024,credit card,Online ,2.0
+10251,160,Rahul,Iyer,rahul.iyer160@outlook.com,+91-7223714148,Kolkata,Home & Kitchen,Electric Kettle,1,3761.91,,3761.91,2025/07/16,Debit Card,online,4.0
+10824,145,Priya,Joshi,priya.joshi145@gmail.com,+91-8869790372,Kolkata,Beauty,Moisturizer,2,268.4,0.0,536.8,05/10/2024,Cash on Delivery,In store,
+11100,19,Meera,Joshi,meera.joshi19@outlook.com,9779802598,Bombay,Beauty,Sunscreen SPF50,4,4901.53,20.0,15684.9,2024/11/09,Cash on Delivery,In-Store,4.0
+10941,175,Divya,Kapoor,divya.kapoor175@gmial.com,+91-9766607192,Kolkata,Home & Kitchen,Non-stick Pan,4,2619.02,,10476.08,06-Jul-2024,Debit Card,In store,3.0
+10392,136,Kavya,Iyer,kavya.iyer136@gmail.com,+91-7234364203,Delhi,Grocery,Green Tea Pack,4,4479.46,,17917.84,19-Nov-2024,UPI,Online ,4.0
+11093,118,Divya,Rao,divya.rao118@yahoo.com,+91-9254431036,Kolkata,Apparel,Jacket,1,436.92,10.0,393.23,03-31-2024,Net Banking,In store,2.0
+11192,233,Karan,Malhotra,karan.malhotra233@gmial.com,+91-8270436719,Kolkata,Home & Kitchen,Storage Container Set,5,1267.06,10.0,5701.77,09/01/2025,credit card,In-Store,2.0
+10905,130,Sneha,Singh,sneha.singh130@gmial.com,+91-8233557289,mumbai,Electronics,Power Bank,5,919.23,5.0,4366.34,02-Mar-2024,NetBanking,online,3.0
+10731,52,Kavya,Patel,kavya.patel52@gmial.com,8179896787,Hyderabad,Home & Kitchen,Storage Container Set,2,4207.19,20.0,6731.5,03-20-2025,Cash on Delivery,Online,5.0
+10555,54,Anjali,Agarwal,anjali.agarwal54@outlook.com,+91-9759449826,Mumbai,Home & Kitchen,LED Lamp,1,2915.15,0.0,2915.15,15/03/2024,UPI ,In store,
+10367,255,Priya,Chopra,PRIYA.CHOPRA255@GMAIL.COM,+91-8351021444,Ahmedabad,Beauty,Shampoo,2,2780.82,20.0,4449.31,2025/07/07,Credit Card,Online,4.0
+10346,149,  Vikram ,Nair,vikram.nair149@outlook.com,9652236748,Bombay,Grocery,Cooking Oil 1L,5,1792.62,0.0,8963.1,25-Apr-2024,Credit Card,In-Store,4.0
+10536,125,MANISH,Desai,manish.desai125@gmail.com,+91-8783634101,mumbai,Electronics,USB Cable,2,3193.31,10.0,5747.96,2024-05-06,Credit Card,Online,3.0
+10665,226,Sanjay,Patel,sanjay.patel226@gmial.com,+91-8524677466,Bombay,Beauty,Sunscreen SPF50,3,1617.41,20.0,3881.78,30/04/2024,NetBanking,In store,5.0
+10920,282,Ajay,Chopra,ajay.chopra282@gmail.co,+91-8813001933,Hyderabad,Apparel,Denim Jeans,1,2224.45,0.0,2224.45,29/07/2024,Cash on Delivery,Online,
+10212,72,Manish,Singh,manish.singh72@gmail.co,+91-9534186676,Bengaluru,Grocery,Cooking Oil 1L,2,3707.69,0.0,7415.38,2024-03-19,Credit Card,Online ,4.0
+10503,275,RAHUL,Nair,rahul.nair275@yahoo.com,+91-9985929521,mumbai,Grocery,Almonds 500g,1,2666.67,0.0,2666.67,2025/08/21,Debit Card,In-Store,3.0
+10538,44,Sneha,Kumar,sneha.kumar44@outlook.com,+91-8232679456,delhi,Electronics,USB Cable,1,1013.63,0.0,1013.63,06-27-2025,UPI,In store,5.0
+11007,47,Nisha,Rao,nisha.rao47@gmial.com,+91-9545830617,Ahmedabad,Beauty,Moisturizer,4,2653.96,15.0,9023.46,2025-07-11,NetBanking,Online,1.0
+10176,46,Rahul,Malhotra,rahul.malhotra46@gmail.com,+91-8602458325,Pune,Apparel,Sports Shoes,4,3222.41,0.0,12889.64,17-Feb-2025,COD,In store,1.0
